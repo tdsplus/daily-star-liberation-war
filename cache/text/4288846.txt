@@ -1,0 +1,77 @@
+When loyalty decides what counts as facts: Welcome to the age of epistemic fragmentation
+2026-10-03T00:31:10+06:00 | Karim Waheed
+https://www.thedailystar.net/slow-reads/wisdom/news/when-loyalty-decides-what-counts-facts-welcome-the-age-epistemic-fragmentation-4288846
+
+An editor working in South Asia for a major American media organisation once told me: “People will believe what they choose to believe.”
+
+That has become my Roman Empire.
+
+Back in the pre-COVID days, I thought it was a rather cynical observation about news audiences. Surely, people believe what they believe because of the information available to them? Present them with credible evidence, and they will reconsider. Perhaps grudgingly, perhaps after a heated argument, but eventually.
+
+Today, two people can watch the same video, read reports about the same event, and emerge with entirely different understandings of what happened. One sees evidence of wrongdoing. The other sees an elaborate fabrication. One trusts the journalist who investigated the story. The other trusts a Facebook personality who explains why the journalist is lying.
+
+In functioning democracies, people are supposed to argue over everything from economic policies to political ideologies, often with the sort of passion Bangladeshis reserve for cricket and family property disputes. But all that arguing once came with an implicit understanding: however differently we interpreted the world, we were at least looking at the same one.
+
+The emerging problem is more fundamental. We increasingly disagree not merely about what the facts mean, but about whether the facts themselves exist.
+
+Welcome to the age of epistemic fragmentation. Or, in less philosophical language, a world where different groups seem to inhabit their own realities, complete with supporting evidence and comment sections.
+
+Philosopher C. Thi Nguyen makes a useful distinction between epistemic bubbles and echo chambers. In a bubble, relevant information is simply missing. In an echo chamber, outside information is actively discredited. Present someone with contrary evidence, and the evidence itself becomes further proof that the outside world is conspiring against them.
+
+Epistemic fragmentation takes this breakdown of trust to its logical conclusion: separate communities develop their own authorities, evidence standards, and versions of reality. They may be discussing the same event, but they are no longer having the same conversation.
+
+According to the Reuters Institute’s 2026 Digital News Report, 54% of respondents across 48 surveyed markets now access news through social media and video networks, compared with 51% using news organisations’ own websites and apps. Only 37% said they trust news most of the time, the lowest level recorded since the institute began measuring it in 2015. Meanwhile, 62% expressed concern about misinformation.
+
+The problem is not simply that information is fragmented. Trust itself is becoming tribal.
+
+The 2026 Edelman Trust Barometer, based on nearly 34,000 respondents across 28 countries, found that 70% were unwilling or hesitant to trust people whose values, information sources, or approaches differed from their own.
+
+In the United States, a 2025 Pew Research Center survey found that 58% of Democrats trusted CNN, while an identical proportion of Republicans distrusted it. Fox News, meanwhile, was trusted by 56% of Republicans and distrusted by 64% of Democrats.
+
+These are American findings, not a universal template. But they illustrate the dilemma: how do you establish common facts when people cannot agree on who is qualified to establish them?
+
+The invisible crisis: Why Bangladesh must wake up to its data vulnerability
+
+It would be convenient to blame everything on algorithms. Unfortunately, reality is more complicated than a villainous tech billionaire.
+
+Research published in Nature in 2023 found that reducing exposure to like-minded content on Facebook did not measurably reduce political polarisation during the study. A separate study published in 2026 found that X’s algorithmic feed influenced some political attitudes, without significantly changing partisanship or affective polarisation.
+
+Algorithms matter but they operate within a much older human tendency to seek reassurance from people we identify with.
+
+Between January and June 2026, Bangladeshi fact-checking organisation Rumor Scanner identified 3,210 instances of misinformation, a 79% increase over the corresponding period in 2025. Of these, 504 involved AI-generated content. In August alone, it identified another 396 instances, including 67 involving AI.
+
+These figures represent misinformation identified by fact-checkers, not the total volume circulating online.
+
+But the implications are clear enough. A fabricated news photocard bearing the logo of a respected newspaper, a recycled video presented as a fresh incident, or an AI-generated speech can travel across Facebook before a publisher even knows its identity has been borrowed.
+
+AI introduces another sinister complication. Not only can fabricated evidence look authentic, but authentic evidence can be dismissed as fabricated. Researchers call this the liar’s dividend: the existence of convincing fakes gives people an excuse to reject genuine recordings, images, and other evidence.
+
+We have reached a point where seeing is no longer necessarily believing, and not believing can be presented as a sign of superior intelligence.
+
+But there is a human dimension to this that gets lost in discussions about technology.
+
+Our beliefs are not merely conclusions reached after examining evidence. They are also expressions of belonging. Questioning a cherished narrative can mean questioning the people with whom we share our identity, friendships, and sense of community.
+
+And when accepting a fact feels like betraying your tribe, the fact has a rather difficult journey ahead.
+
+The gods that we build: AI and the future of moral authority
+
+This is why epistemic fragmentation is more dangerous than ordinary disagreement. It undermines the shared procedures through which disagreement can be resolved.
+
+The World Economic Forum’s 2026 Global Risks Report identifies misinformation and disinformation as the second most significant risk in its two-year outlook, with societal polarisation also emerging as a major concern.
+
+So how do we put reality back together?
+
+Fact-checking is necessary, but a fact-check alone cannot repair a broken relationship with truth. Journalism must earn trust through transparency , consistency , corrections, and evidence that readers can examine for themselves. Media organisations cannot expect automatic deference simply because they have recognisable mastheads.
+
+Technology platforms must also take greater responsibility for the credibility of the information they amplify. And media literacy needs to mean more than teaching people to identify suspicious photographs. It must include understanding how our own loyalties influence what we accept as evidence.
+
+Crucially, none of this requires treating every competing claim as equally credible. An independently verified fact and an unsupported allegation do not become equivalent merely because each has an enthusiastic audience.
+
+We need intellectual humility, not intellectual surrender.
+
+Perhaps the first place to start is with ourselves. The next time a sensational video appears in the family WhatsApp group, resist the temptation to forward it simply because it confirms everything you have always suspected.
+
+Not every conversation will end in agreement. But a society cannot function indefinitely if people inhabit mutually incompatible realities.
+
+Karim Waheed is the Digital Editor at The Daily Star. He can be reached at [email protected]

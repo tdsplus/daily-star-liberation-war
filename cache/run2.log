@@ -359,3 +359,62 @@
 [108/4074] 2026-10-04 Can Bangladesh make better use of its zakat money?
 BLOCKED: network/proxy refused connection to https://www.thedailystar.net/slow-reads/slow-reads-special/news/women-and-the-climate-crisis-bangladesh-4284266: HTTPSConnectionPool(host='campaign.thedailystar.net', port=443): Max retries exceeded with url: /climate-and-gender/ (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))
 Stopping -- not attempting to bypass.
+4074 candidates, 3966 still to extract
+[1/3966] FAILED None https://www.thedailystar.net/slow-reads/slow-reads-special/news/women-and-the-climate-crisis-bangladesh-4284266
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/user/daily-star-liberation-war/dstar/extract.py", line 262, in <module>
+    main(sys.argv)
+  File "/home/user/daily-star-liberation-war/dstar/extract.py", line 253, in main
+    with open(os.path.join(TEXT_DIR, rec["node_id"] + ".txt"), "w", encoding="utf-8") as fh:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/user/daily-star-liberation-war/cache/text/https://www.thedailystar.net/slow-reads/slow-reads-special/life-bangladesh.txt'
+4074 candidates, 3966 still to extract
+[1/3966] FAILED None https://www.thedailystar.net/slow-reads/slow-reads-special/news/women-and-the-climate-crisis-bangladesh-4284266
+[2/3966]  A life for Bangladesh
+[3/3966] FAILED None https://www.thedailystar.net/slow-reads/slow-reads-special/the-haor-crisis/news/the-haor-crisis-explained-4177301
+[4/3966] 2026-10-02 Three revolutions that reshaped the world
+[5/3966] 2026-10-01 Paradise lost and found: Rediscovering early modern Bengal
+[6/3966] 2026-09-30 Unbound Mother: The making and remaking of Kaali in Bengal
+[7/3966] 2026-10-03 From more power to better power: Rethinking Bangladesh’s energy future
+[8/3966] 2026-10-01 Growing out of LDC status: Bangladesh’s real negotiation at COP31
+[9/3966] 2026-09-29 What is holding back solar in Bangladesh’s garment industry?
+[10/3966] 2026-10-03 When loyalty decides what counts as facts: Welcome to the age of epist
+[11/3966] 2026-10-02 Revisiting the origins of Sufism: Competing narratives of authenticity
+[12/3966] 2026-09-30 Beyond equivalence: Translation and the politics of being understood
+[13/3966] 2026-09-30 Between Ghumparani masi-pisi and Baby Shark: Why Bengali lullabies sti
+[14/3966] 2026-10-03 Between Gabura and India: Work, loss and unequal choices
+[15/3966] 2026-10-03 Fewer fish, higher costs: The struggle of Bangladesh’s Hilsa fishermen
+[16/3966] 2026-09-26 Duli to Baaji: Whose gaze shapes indigenous representation?
+[17/3966] 2026-09-26 The everyday resistance of Rohingya women the world rarely sees
+[18/3966] 2026-09-24 The banyan tree that became a restaurant for birds
+[19/3966] 2026-09-23 What did we ask about Mariam while she was still alive?
+[20/3966] 2026-10-04 Can Bangladesh capitalise on the Bay of Bengal’s strategic rise?
+[21/3966] 2026-10-04 Who pays for Israel’s nuclear dominance?
+[22/3966] 2026-10-02 How much higher can oil prices go?
+[23/3966] 2026-10-01 What kind of world order is emerging?
+[24/3966] 2026-03-18 Prelude to an order for genocide
+[25/3966] 2025-12-30 The untold history of why Khaleda Zia entered politics
+[26/3966] 2026-09-29 Do great leaders make history, or does history make them?
+[27/3966] 2026-09-28 Poison and cremation: A forensic history of colonial Bengal
+[28/3966] 2026-09-27 Partition, Bor Porong and the Chakmas’ unfinished struggle for belongi
+[29/3966] 2026-09-24 The young radicals who challenged 19th-century Bengal
+[30/3966] 2026-09-23 More men are cooking. But is patriarchy leaving the kitchen?
+[31/3966] 2026-09-22 Everyday secularism and the Bangladesh we rarely talk about
+[32/3966] 2026-09-21 Reading Sarat Chandra at 150, with empathy
+[33/3966] 2026-09-19 Who really owned Britain’s royal jewels?
+[34/3966] 2026-09-17 The 25,000-year history of betel nut chewing
+[35/3966] 2026-09-15 The world map we know is distorted. Why does it matter?
+[36/3966] 2026-09-14 Bengal and the coming of Islam: A story of soil and spirit
+[37/3966] 2026-09-11 Xuanzang’s travels to Bengal and beyond : The man, the pilgrim and the
+[38/3966] 2026-09-10 Professor Anisur Rahman: The economist who put people at the centre
+[39/3966] 2026-09-09 APO 433: Dhaka’s forgotten post office of World War II
+[40/3966] 2026-09-08 Dadabhai Naoroji: The man who exposed the economics of British colonia
+[41/3966] 2026-09-06 The extraordinary journey of Atish Dipankar Srigyan
+[42/3966] 2026-09-04 Forgotten story of Jeanette Van Tassel, the American woman who flew ov
+[43/3966] 2026-09-04 A personal essay
+[44/3966] 2026-09-03 A global quest in search of a nation
+[45/3966] 2026-09-02 Chand Bibi and the forgotten history of Muslim women’s political resis
+[46/3966] 2026-08-31 Women’s voices in Nazrul’s Dhumketu
+[47/3966] 2026-08-26 How Milad-un-Nabi shaped Muslim cultural life in colonial Bengal

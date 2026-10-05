@@ -21,7 +21,7 @@ import os
 import re
 import sys
 
-from .extract import TEXT_DIR, load_records
+from .extract import TEXT_DIR, load_records, text_path
 from .store import ROOT
 
 LOG = os.path.join(ROOT, "classification_log.csv")
@@ -72,7 +72,7 @@ def pending(n):
     todo = [r for k, r in recs.items() if k not in labels]
     print(f"{len(todo)} unlabelled\n")
     for r in todo[:n]:
-        path = os.path.join(TEXT_DIR, r["node_id"] + ".txt")
+        path = text_path(r["node_id"])
         text = open(path, encoding="utf-8").read() if os.path.exists(path) else ""
         body = text.split("\n\n", 1)[-1]
         print("=" * 100)
@@ -104,7 +104,7 @@ def brief(n, offset=0, priority=None):
             and (priority is None or is_priority_section(r["canonical_url"]) == priority)]
     print(f"{len(todo)} unlabelled in this group\n")
     for r in todo[offset:offset + n]:
-        path = os.path.join(TEXT_DIR, r["node_id"] + ".txt")
+        path = text_path(r["node_id"])
         text = open(path, encoding="utf-8").read() if os.path.exists(path) else ""
         body = text.split("\n\n", 1)[-1]
         sents = re.split(r"(?<=[.!?])\s+", body)

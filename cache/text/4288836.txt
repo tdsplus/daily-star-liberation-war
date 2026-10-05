@@ -1,0 +1,137 @@
+From more power to better power: Rethinking Bangladesh’s energy future
+2026-10-03T00:05:36+06:00 | Shahriar Ahmed Chowdhury
+https://www.thedailystar.net/slow-reads/big-picture/news/more-power-better-power-rethinking-bangladeshs-energy-future-4288836
+
+Bangladesh’s power sector has come a long way, from a 547MW system serving a handful of towns after Liberation to an electricity system with nearly 32,500MW of installed capacity, including power imports, captive generation and off-grid generation. Yet the next phase of transformation cannot be achieved simply by adding more generation capacity. It requires coordinated planning of generation, transmission and distribution, supported by renewable energy, smart grids, battery storage, energy efficiency and the electrification of transport and cooking.
+
+After the partition in 1947, what was then East Pakistan had only around 21MW of generation capacity and no transmission network. The commissioning of the Kaptai hydropower plant and the 132kV Kaptai–Siddhirganj transmission line in 1962 marked an important step in the development of the electricity system.
+
+Following independence, natural gas gradually became the backbone of Bangladesh’s power sector. Gas-fired generation expanded as domestic gas resources were developed. At the same time, private-sector participation accelerated following power-sector reforms in the 1990s and the introduction of the Independent Power Producer model. Later, Bangladesh increasingly turned to liquid-fuel plants, coal and imported electricity to meet rising demand.
+
+From expansion to integration
+
+This power-sector expansion dramatically improved electricity access. However, the sector also evolved in a generation-heavy manner, with generation, transmission and distribution insufficiently synchronised. This created new vulnerabilities. A large installed capacity does not necessarily guarantee a reliable electricity supply when fuel is unavailable, expensive or difficult to import, or when transmission and distribution networks cannot deliver power where and when it is needed.
+
+With maximum demand served reaching around 17,200MW in May 2026, Bangladesh’s electricity system is now operating on a vastly different scale from the system inherited after the Liberation. The country also has approximately 3,300 circuit-km of 400kV transmission lines, 5,500 circuit-km of 230kV lines and 10,000 circuit-km of 132kV lines.
+
+What is holding back solar in Bangladesh’s garment industry?
+
+Bangladesh’s challenge is no longer, “How do we generate more electricity?” It is, increasingly, “How do we generate the right electricity, transmit and distribute it efficiently, maintain grid stability, and provide it affordably, reliably and sustainably?”
+
+An inadequately planned generation and fuel mix can create excess capacity, capacity payment obligations and stranded assets when plants remain underutilised because fuel is unavailable or too expensive. Rising dependence on imported fossil fuels also exposes the economy to international price and geopolitical risks.
+
+Generation, transmission and distribution should therefore be treated as three interconnected parts of a single system.
+
+A solar park cannot deliver its full value if the transmission network cannot evacuate its electricity without compromising grid stability. Similarly, a modern transmission corridor cannot realise its full benefit if distribution networks cannot accommodate two-way power flows.
+
+Distribution planning must also anticipate new forms of electricity demand and supply, including rooftop solar, electric vehicles, electric cooking, battery storage and industrial electrification. Bangladesh, therefore, needs to move from a generation-centric model to an integrated, flexible and demand-responsive electricity system.
+
+The renewable energy gap
+
+Bangladesh has a remarkable renewable-energy history. The Solar Home System (SHS) programme, launched through IDCOL in 2003, became one of the world’s largest and most successful off-grid solar electrification programmes. More than 6.5 million systems were installed at its peak, providing electricity services to millions of people in rural and off-grid areas. Yet this success in decentralised solar did not translate into a comparable expansion of grid-connected renewable electricity.
+
+Renewable energy’s share of the power sector has increased in recent years, reaching around 5.7 per cent, with approximately 1,852MW of renewable-energy capacity. The Renewable Energy Policy 2025 set targets to meet 20 per cent of power demand from renewable sources by 2030 and 30 per cent by 2040. The government is now considering a substantially higher target of around 10,000MW of renewable-energy capacity by 2030. This is ambitious, but it can be pursued through well-coordinated planning.
+
+How can Bangladesh rapidly expand solar capacity?
+
+Bangladesh’s initial renewable-energy strategy focused primarily on energy access rather than on transforming the national electricity system. As grid electrification expanded, the market for off-grid solar home systems naturally declined. Changes in subsidies and inadequate coordination among programmes also weakened the SHS business model.
+
+Large-scale renewable projects face additional challenges, including limited suitable land, financing constraints, lengthy project development processes, uncertainty over tariffs and power purchase arrangements, inadequate transmission capacity and insufficient coordination between renewable generation and grid planning. Bangladesh has too often approached renewable energy as a project rather than as a system.
+
+Lessons from Pakistan and Vietnam
+
+Bangladesh can learn from other Asian countries without simply copying their approaches. Pakistan provides an important example of consumer-driven solar adoption. Power shortages, high electricity costs and dependence on imported fuels have encouraged households and businesses to install rooftop solar, increasingly combined with battery storage.
+
+If financially capable consumers increasingly generate their own electricity, utilities may face a shrinking revenue base while still having to maintain the network for all consumers.
+
+If financially capable consumers increasingly generate their own electricity, utilities may face a shrinking revenue base while still having to maintain the network for all consumers.
+
+The experience also carries a warning. If financially capable consumers increasingly generate their own electricity, utilities may face a shrinking revenue base while still having to maintain the network for all consumers. The response should be to redesign tariffs, network charges and grid-service arrangements so that distributed generation strengthens rather than undermines the electricity system.
+
+Vietnam offers another lesson: policy certainty can rapidly mobilise private investment. A solar feed-in tariff introduced in 2017 triggered extraordinary growth in solar deployment. By the end of 2020, Vietnam had connected 5.7GW of ground-mounted solar and around 9.7GW of rooftop solar across approximately 102,000 systems. But the rapid deployment of renewables subsequently exposed constraints in the grid. Transmission congestion, reverse power flows and curtailment emerged where solar generation expanded faster than network capacity could accommodate. The lesson for Bangladesh is clear: renewable generation, transmission, storage, flexibility and demand management must be developed simultaneously.
+
+Building a grid for renewables
+
+Solar and wind have significant potential in Bangladesh, but their output varies with the weather and time of day. Unlike conventional thermal plants, they cannot always be dispatched according to system requirements. If several gigawatts of solar are added without sufficient flexibility, high levels of midday generation could create voltage-management problems, reverse power flows, congestion or curtailment. In the evening, solar output falls rapidly while demand may remain high, creating what is known as the “duck curve” challenge.
+
+Bangladesh, therefore, needs stronger transmission networks, modern distribution systems, accurate renewable-energy forecasting, flexible generation, demand-response mechanisms, regional electricity trading, smart-grid technologies and battery storage.
+
+The future electricity network must become a two-way, data-driven system. A factory may consume electricity while also generating rooftop solar power.
+
+The future electricity network must become a two-way, data-driven system. A factory may consume electricity while also generating rooftop solar power.
+
+The key question is how much renewable electricity Bangladesh can integrate reliably and economically.
+
+The future electricity network must become a two-way, data-driven system. A factory may consume electricity while also generating rooftop solar power. A commercial building may combine solar systems with batteries. A household may have rooftop solar, an electric vehicle and a smart charger. Eventually, electric vehicles could provide additional flexibility through vehicle-to-grid technology.
+
+Smart-grid technologies can provide real-time visibility into electricity flows, automated fault detection, demand management, distributed energy integration and improved forecasting. Smart meters should therefore be viewed as more than billing devices. They are part of the digital infrastructure required for the electricity system of the future.
+
+Battery Energy Storage Systems (BESS) will be equally important. Batteries can store excess solar electricity during the day and discharge it during evening peaks. They can also provide frequency regulation, voltage support, ramping capability and other ancillary services.
+
+The Renewable Energy Policy 2025 recognises energy storage as an important tool for renewable-energy integration, peak reduction, congestion management, curtailment management and system reliability.
+
+To avoid future grid-stability problems, Bangladesh should therefore increase the grid’s capacity to integrate variable renewable energy.
+
+The age of electricity
+
+Bangladesh’s transition is taking place amid a fundamental transformation of the global energy system. The International Energy Agency has described an emerging “Age of Electricity”, driven by industrialisation, cooling, electrification, data centres, electric vehicles, electric cooking and other electricity-intensive activities.
+
+As electricity becomes more central to economic activity, energy security increasingly becomes electricity-system security. Energy security, therefore, depends as much on resilient networks, diversified generation, domestic renewable resources, storage, energy efficiency, secure supply chains, regional interconnection and digital infrastructure as it does on securing oil, gas and coal.
+
+For Bangladesh, renewable energy can therefore serve both environmental and economic objectives. Electricity generated from domestic solar and wind resources reduces exposure to volatile international fossil-fuel prices and, once a plant is operating, does not require a continuing fuel-import bill.
+
+Bangladesh cannot eliminate fossil fuels overnight. Natural gas can continue to provide flexibility during the transition while the country expands renewable energy, storage, energy efficiency and regional electricity trade. The objective should be progressive diversification, not an abrupt transition that compromises reliability.
+
+Beyond the power sector
+
+The energy transition will extend beyond power plants. Transport remains heavily dependent on petroleum products. Electrifying two- and three-wheelers, buses, railways and, eventually, private vehicles can reduce oil dependence, provided that charging infrastructure and electricity supply develop alongside electric-vehicle (EV) adoption. Bangladesh already has an Electric Vehicle Charging Guideline and an Electric Motor Vehicle Registration and Operation Policy. The next step should be an integrated approach involving charging infrastructure, appropriate electricity tariffs, smart charging, renewable-powered charging hubs and, eventually, vehicle-to-grid technologies.
+
+Electric cooking also deserves greater attention. As renewable electricity expands, induction cooking could provide an efficient alternative for households and businesses. More importantly, electric cooking can become part of flexible electricity demand. Encouraging consumers to use electricity when renewable generation is abundant could turn an additional electricity load into an asset for the grid.
+
+A roadmap for the transition
+
+Bangladesh needs an energy-transition roadmap that is more integrated than previous initiatives. Several priorities should guide it.
+
+First, develop the human resources required for the transition. Bangladesh needs a human resource development strategy to build the technical, digital, managerial, financial and regulatory expertise required for renewable energy, smart grids, battery storage, digitalisation, electric mobility and other emerging technologies. Skills development should be based on the actual requirements of the future energy system.
+
+Second, synchronise generation, transmission and distribution planning. Before rapidly increasing variable renewable-energy capacity, Bangladesh should assess transmission capability, system flexibility, stability, reserve requirements and the capacity to absorb variable renewable energy.
+
+Third, establish transparent renewable-energy procurement. Competitive processes, predictable contracts and clear timelines are essential. Payment security and guarantees for renewable-energy projects will also require attention if Bangladesh is to attract substantial domestic and foreign investment.
+
+Fourth, treat BESS as grid infrastructure. Pilot projects should be developed at renewable-energy sites, substations and major load centres to establish appropriate technical, regulatory and commercial models.
+
+Fifth, modernise distribution systems. Rooftop solar, batteries and EVs will increasingly turn consumers into “prosumers”, both producers and consumers of electricity. The net-metering framework should be reviewed to address integration, settlement and payment challenges, particularly for small and single-phase prosumers.
+
+Sixth, invest in smart-grid infrastructure. Smart meters, automated substations, advanced distribution management systems, digital protection and real-time data platforms should become integral components of grid planning.
+
+Seventh, strengthen regional electricity cooperation. Cross-border electricity trade with India, Nepal, Bhutan and potentially Myanmar could help balance different generation profiles, increase system flexibility and help meet peak demand across the region.
+
+Eighth, improve the financial sustainability of the power sector. Persistent losses, subsidies, capacity payments and inefficient procurement can constrain investment in the grid of the future. Financial reform is therefore an essential part of the energy transition.
+
+Solar power should not become Bangladesh’s next expensive mistake
+
+Ninth, prioritise energy efficiency as a core pillar of the energy transition. Clear efficiency targets for industry, buildings, transport and public institutions should be set, with stronger standards, audits and incentives to reduce energy waste, lower costs and moderate demand growth.
+
+Tenth, strengthen domestic primary-energy exploration and supply. BAPEX should be empowered with greater operational and financial flexibility and encouraged to partner with capable international companies to undertake systematic exploration for new gas reserves and other viable domestic energy resources. Expanding domestic supply would reduce vulnerability to imported fuels and international price volatility.
+
+Eleventh, ensure the timely and safe commissioning of the Rooppur Nuclear Power Plant. The plant should be treated as an important component of a diversified, reliable and lower-carbon generation mix. All regulatory and safety requirements must be fully met, but without unnecessary delays in bringing the plant to full operational capacity.
+
+The next transformation will be more complex. It is not simply about replacing gas and coal with solar panels and wind turbines. It is about redesigning the electricity system around diversification, flexibility, digitalisation, storage and electrification.
+
+The next transformation will be more complex. It is not simply about replacing gas and coal with solar panels and wind turbines. It is about redesigning the electricity system around diversification, flexibility, digitalisation, storage and electrification.
+
+Finally, ensure policy consistency. Investors need predictable land arrangements, transmission access, tariffs, procurement procedures, contracts and payment guarantees. Consumers need clear rules for EVs, rooftop solar and distributed batteries, while utilities need regulatory certainty to invest in smart-grid infrastructure.
+
+Bangladesh has already demonstrated its ability to transform its energy system. It developed a national electricity network from a small and fragmented system after Liberation, used natural gas to support industrialisation, mobilised private investment in generation and built one of the world’s largest solar home system programmes.
+
+The next transformation will be more complex. It is not simply about replacing gas and coal with solar panels and wind turbines. It is about redesigning the electricity system around diversification, flexibility, digitalisation, storage and electrification.
+
+Generation must become cleaner and more flexible. Transmission must become stronger and smarter. Distribution networks must become digital and capable of accommodating two-way electricity flows. Storage must become an integral part of system planning. Consumers must increasingly become prosumers.
+
+Measuring the transition differently
+
+The success of Bangladesh’s energy transition should therefore not be measured simply by the number of megawatts of solar and wind capacity installed. The more meaningful measure is whether the country can provide reliable, affordable, flexible, diversified and increasingly low-carbon electricity while reducing its exposure to imported fossil fuels.
+
+Bangladesh’s first energy transformation was about bringing electricity to the people. The next must be about building an electricity system resilient enough to meet the demands of the future.
+
+Shahriar Ahmed Chowdhury is Director of the Centre for Energy Research at United International University. He can be reached at [email protected] .

@@ -1,0 +1,69 @@
+What is holding back solar in Bangladesh’s garment industry?
+2026-09-29T00:26:22+06:00 | Khairul Hassan Jahin
+https://www.thedailystar.net/slow-reads/big-picture/news/what-holding-back-solar-bangladeshs-garment-industry-4285301
+
+When Richard Arkwright started his cotton mill at Cromford, Derbyshire, in 1771, he built it beside a stream whose current powered its spinning frames. Factory design followed the source of power, first water and then steam. When electric motors arrived, replacing the engine alone was not enough. Older mills, often built on several floors around a central drive shaft, needed to reorganise their machinery to make full use of the motors. Few owners would scrap equipment that still worked. The pace of change depended on each factory’s capital, its infrastructure and its ability to wait for the returns.
+
+Bangladesh’s garment industry now faces similar constraints of capital, buildings and time. It grew around domestic gas, which supplies electricity through factory generators and power stations, as well as heat for processes such as dyeing. Generating that electricity from renewable sources instead requires money, roof space and new ways of buying power. Gas shortages and the war in West Asia have made the transition more urgent.
+
+“Suppose you have a gas connection, but the pressure is so low that the machines cannot run on it,” says Nishat Nahrin Hamid, chairman of the Bangladesh Garment Manufacturers and Exporters Association’s (BGMEA) standing committee on renewable energy transformation. “What will you do then? You will switch to diesel. But diesel is very expensive now.”
+
+Rooftop solar offers a way to reduce some of that expense. It can supply electricity during the day without recurring fuel purchases. Research led by Dhaka University economist Atonu Rabbani found that suitably sized systems could recover their cost in five to eight years. That makes solar attractive to an industry under pressure to cut both costs and emissions. But it does not make the investment equally accessible to every factory.
+
+From more power to better power: Rethinking Bangladesh’s energy future
+
+Mapped in Bangladesh, a BRAC University platform, examined 2023–24 electricity records for 878 garment factories in Gazipur and Narayanganj. Renewables supplied about 3 percent of their electricity consumption. Smaller factories remained almost entirely dependent on conventional sources. Installation has continued since then. Enamul Karim, head of renewable energy at the state-owned Infrastructure Development Company Limited (IDCOL), says its industrial rooftop projects had reached 287 megawatts of operational capacity by September 20. But total capacity says little about which factories are installing solar.
+
+The financing divide
+
+The financing pattern offers a clue. In Rabbani’s survey of 661 factories in Gazipur and Savar, 94 percent of solar adopters reported paying entirely from their own funds. Rabbani links this to size. “Their liquidity constraints are smaller,” he says. “They have more money, because the firms are big.”
+
+For an owner short of liquidity, the calculation is different. Money committed to panels is money unavailable for immediate expenses, even if those panels eventually lower the electricity bill. Hamid says factories in “survival mode” are spending “sometimes on the extra cost of diesel, sometimes on air freight” to meet delivery dates. “Let us secure survival first. Future investment can be looked at after that.”
+
+Putting survival first is rational for an owner facing this week’s diesel bill. But the crisis that makes solar most valuable is also the one that leaves small factories least able to afford it. Rabbani adds another concern: owners must be confident that their businesses will keep operating long enough to benefit from the investment.
+
+Cheap loans should ease the cash shortage, but their availability does not ensure access. Hamid says commercial banks with green funds tend to favour existing clients; moving a factory’s banking relationship to another bank takes time. Some businesses instead borrow at ordinary, double-digit commercial rates. “That is not green financing,” she says. The extra interest reduces the savings that made solar attractive in the first place. Short repayment periods add another pressure: a project that saves money over its lifetime can still strain a factory’s cash flow if the loan must be repaid before those savings accumulate.
+
+IDCOL’s procedures show why changing lenders is difficult. A factory’s regular bank already holds documents from years of export transactions. IDCOL, as a new lender, requires its own assessment, whether the rooftop project is large or small. A small system, therefore, involves much of the same administrative work for a smaller loan. Karim says IDCOL approves 85 to 90 percent of applications, with credit histories and collateral among the obstacles.
+
+Money is not the only barrier
+
+Nor does a loan give an owner the expertise to choose and maintain a system. Almost half the non-adopters in Rabbani’s survey reported lacking the necessary technical expertise. Rabbani describes shortages of technicians and difficulties in judging equipment quality. An owner who cannot assess a contractor’s promises faces uncertainty about whether the expected savings will materialise. Shared technical advice through industry associations could help smaller owners compare suppliers and prepare applications.
+
+When the roof becomes the limit
+
+Even a factory that clears these hurdles encounters the limits of its roof. Here, the old mills’ problem returns: buildings designed for one source of power limit the adoption of the next. Several floors of machinery may share one small rooftop, parts of which already serve other purposes. Some older roofs cannot support panels without structural work. The Mapped in Bangladesh study estimated that full use of suitable roof space could meet, at most, about 14 percent of the surveyed factories’ electricity demand.
+
+How can Bangladesh rapidly expand solar capacity?
+
+The kind of work a factory does sets another limit. Hamid distinguishes stitching units, where solar can meet part of the machinery’s electricity needs, from dyeing plants, which also require substantial amounts of gas for heat. Panels do not directly replace a gas-fired boiler, and daytime generation does not ensure power throughout a factory’s operating hours.
+
+These limits point to a clear sequence. Factories first need support to make full use of suitable rooftop space. Once that capacity is exhausted, they need a practical way to buy renewable electricity from elsewhere. Leaving each factory owner to finance, arrange and manage rooftop solar on their own will continue to favour larger firms with easier access to capital and technical expertise.
+
+Who pays for the transition?
+
+IDCOL is developing a financing model to ease those constraints. While talking to The Daily Star, Karim said the organisation was preparing a rooftop solar programme that would work through intermediaries, allowing smaller customers to be grouped together and reducing the paperwork involved. The programme is designed mainly for households, but Karim said smaller garment factories could also qualify, with interest rates capped at 6 per cent.
+
+The OPEX model offers factories a way to install rooftop solar without paying the full cost up front. Under this arrangement, a solar developer finances and installs the system, while the factory pays for the electricity it generates. A 2025 study in Cleaner Energy Systems identified the model as one factor supporting industrial solar adoption.
+
+For factories seeking to conserve working capital, paying for electricity over time can be more manageable than financing the entire installation at the outset. The model, however, shifts much of the financial risk to the developer. If a factory fails to pay, the developer bears the loss. That risk can make developers reluctant to work with smaller factories or firms with weaker credit profiles.
+
+The contracts also need to specify who is responsible for maintenance and system performance. Without clear terms, factories may avoid the upfront cost of owning a solar system but face new uncertainty over how reliably that system will perform. Getting the system connected remains a separate task. Mustafa A.K. Khan, managing director of FloSolar Solution, says his company installed a 4.5-megawatt rooftop system for Ha-Meem Group in under three months, but net metering approval took another two months. Net metering credits surplus electricity sent to the grid against the customer’s bill. Faster, more predictable approval would help factories realise those savings sooner. Ha-Meem is a large group; for a smaller factory with less cash in reserve, the same wait weighs more heavily.
+
+Looking beyond the factory roof
+
+Beyond the roof, Khan argues for merchant power, a model his company is pursuing. A developer builds a plant elsewhere and sells its output to factories through the grid under long-term power purchase agreements. This allows several buyers to support a larger project without each having to find land or build a plant.
+
+Land remains a constraint even when generation moves elsewhere. Khan proposes growing tea beneath solar panels in tea gardens, with the panels providing some of the shade that trees currently supply. In his example, a plant in Sylhet could sell electricity to a factory in Gazipur via the grid. Such shared use of land, known as agrivoltaics, deserves trials to assess its effects on tea yields, workers and the surrounding environment before it expands. Land permission would need to reflect those findings.
+
+The electricity must also remain affordable after it travels through the grid. Khan wants the wheeling charge, the fee for using that network, to remain below Tk 1 per unit. He estimates that losses between the plant and the buyer could already absorb 10 to 12 per cent of output. Any charge low enough to keep factories interested would still have to cover the cost of running the network.
+
+A low tariff still leaves the lender’s question unanswered. Khan says a developer signing a 20-year contract must convince a bank that the factory will keep paying for the full term. A large group is easier to assess than a small business whose future orders are uncertain. This is the same repayment risk that limits rooftop OPEX deals, and moving generation off-site does not remove it.
+
+Making smaller factories bankable
+
+Khan therefore argues for credit guarantees to encourage smaller businesses to enter into long-term contracts. Backing from the state or development lenders could cover an agreed share of losses if buyers default, making banks more willing to finance such contracts. Pooling several factories’ purchases could reduce dependence on any one customer, although it would not remove risks shared across the industry. Guarantees would also need to be accompanied by clear grid-use agreements and loans that run for as long as the contracts. International buyers seeking cleaner supply chains could share the risk through financing or firmer purchasing commitments.
+
+The lesson from the electric motor still holds: a technology spreads when businesses can reorganise around it and afford the wait. Bangladesh’s garment factories need financing and services that reach smaller firms, along with practical access to renewable power beyond their roofs. Success should be judged by how much fossil-fuelled electricity is displaced across factories of different sizes. If the transition remains easiest for those already able to pay, the businesses most exposed to expensive power will keep paying for the delay.
+
+Khairul Hassan Jahin is a journalist at The Daily Star . He can be reached at [email protected]

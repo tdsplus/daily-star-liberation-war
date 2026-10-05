@@ -27,6 +27,13 @@ ARTICLE_TYPES = {"NewsArticle", "Article", "ReportageNewsArticle", "OpinionNewsA
                  "AnalysisNewsArticle", "BlogPosting"}
 
 
+def text_path(nid):
+    """Cache file for an article's text; id-less pages get a hashed name."""
+    import hashlib
+    name = nid if nid.isdigit() else "u_" + hashlib.sha1(nid.encode()).hexdigest()[:16]
+    return os.path.join(TEXT_DIR, name + ".txt")
+
+
 def load_records():
     recs = {}
     if os.path.exists(RECORDS):
@@ -250,7 +257,7 @@ def main(argv):
                 continue
             rec, text = parse(html, final or row["url"])
             rec["discovered_via"] = row["source_of_discovery"]
-            with open(os.path.join(TEXT_DIR, rec["node_id"] + ".txt"), "w", encoding="utf-8") as fh:
+            with open(text_path(rec["node_id"]), "w", encoding="utf-8") as fh:
                 fh.write(f"{rec['title']}\n{rec['date_published']} | {rec['author']}\n"
                          f"{rec['canonical_url']}\n\n{text}\n")
             out.write(json.dumps(rec, ensure_ascii=False) + "\n")
