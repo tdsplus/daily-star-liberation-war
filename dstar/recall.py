@@ -1,4 +1,4 @@
-"""Recall check: are the known-good articles on the Articles sheet?
+"""Recall check: are the known-good articles on the Slow Reads - Liberation War sheet?
 
 For each missing one, report the stage where it was lost so the failing
 discovery route can be fixed.
@@ -26,7 +26,7 @@ KNOWN = [
 
 
 def main():
-    ws = load_workbook(OUT)["Articles"]
+    ws = load_workbook(OUT)["Slow Reads - Liberation War"]
     in_sheet = {node_id(r[4]) for r in ws.iter_rows(min_row=2, values_only=True) if r[4]}
     cands, recs, labels = Candidates(), load_records(), load_labels()
     missing = 0

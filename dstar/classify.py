@@ -4,8 +4,10 @@ The label for every article is assigned by a human-style reading of its text,
 not by keyword counts. This module only (a) prints unlabelled articles in
 batches for reading and (b) stores decisions in classification_log.csv.
 
-Scope rule: only articles that centre on 1971 (features, analysis, opinion,
-essays, memoirs, interviews, reviews) are kept. News reports -- event and
+Scope rule: only articles whose central theme is 1971 (label Core) or the
+Language Movement (label "Language Movement") are kept, each on its own tabs.
+Borderline marks pieces where 1971 is significant but not the central theme;
+they are logged for audit but left out of the workbook. News reports -- event and
 commemoration coverage ("nation observes Victory Day"), tribunal hearing or
 verdict reports, anniversary notices -- are always Irrelevant, whatever the
 topic, and are logged with content_type "news report" for audit.
@@ -26,7 +28,7 @@ from .store import ROOT
 
 LOG = os.path.join(ROOT, "classification_log.csv")
 FIELDS = ["url", "node_id", "label", "content_type", "reason", "unsure_note"]
-LABELS = ("Core", "Borderline", "Irrelevant")
+LABELS = ("Core", "Language Movement", "Borderline", "Irrelevant")
 NEWS = "news report"
 CONTENT_TYPES = ("feature", "analysis", "opinion", "essay", "memoir", "interview",
                  "review", "photo essay", "editorial", NEWS, "not an article", "other")

@@ -17,7 +17,11 @@ from .store import ROOT, is_priority_section
 
 OUT = os.path.join(ROOT, "liberation_war_articles.xlsx")
 DATE_FMT = "DD-MMM-YYYY"
-KEEP = ("Core", "Borderline")
+KEEP = ("Core", "Language Movement")   # Borderline is logged but not listed
+LW, LM = "Core", "Language Movement"
+# Excel sheet names: max 31 characters, no "/" allowed.
+TABS = {(LW, True): "Slow Reads - Liberation War", (LW, False): "Other - Liberation War",
+        (LM, True): "Slow Reads - Language Movement", (LM, False): "Other - Language Movement"}
 # Cells you need to fill in by hand: missing date (amber), missing author (pale yellow).
 NEED_DATE = PatternFill("solid", fgColor="FFC000")
 NEED_AUTHOR = PatternFill("solid", fgColor="FFF2CC")
@@ -104,11 +108,10 @@ def style(ws, widths, wrap_cols):
             cell.alignment = Alignment(wrap_text=True, vertical="top")
 
 
-def write_article_sheet(ws, items, extra=()):
-    ws.append(["Serial Number", "Date", "Author", "Title", "Link", "Relevance", *extra])
+def write_article_sheet(ws, items):
+    ws.append(["Serial Number", "Date", "Author", "Title", "Link"])
     for n, it in enumerate(items, 1):
-        ws.append([n, it["date"], it["author"] or None, it["title"], it["url"], it["label"],
-                   *[it[e.lower()] for e in extra]])
+        ws.append([n, it["date"], it["author"] or None, it["title"], it["url"]])
         r = ws.max_row
         ws.cell(r, 2).number_format = DATE_FMT
         if not it["date"]:
@@ -118,20 +121,21 @@ def write_article_sheet(ws, items, extra=()):
         link = ws.cell(r, 5)
         link.hyperlink = it["url"]
         link.style = "Hyperlink"
-    style(ws, [9, 14, 26, 60, 55, 12, *[22] * len(extra)], ["C", "D"])
+    style(ws, [9, 14, 26, 60, 70], ["C", "D"])
 
 
 def main():
+    import csv
+    from .classify import load_labels
+    from .store import Candidates, node_id
     items, dupes = rows()
-    main_items = [i for i in items if i["priority"]]
-    other_items = [i for i in items if not i["priority"]]
+    groups = {k: [i for i in items if (i["label"], i["priority"]) == k] for k in TABS}
     review = [i for i in items if i["problems"]] + dupes
 
     # Relevant pages that could not be fetched (e.g. off-site interactive
     # microsites): listed for review with blank date/author, never guessed.
     unfetched = os.path.join(ROOT, "discovery", "unfetchable_relevant.csv")
     if os.path.exists(unfetched):
-        import csv
         with open(unfetched, newline="", encoding="utf-8") as fh:
             for row in csv.DictReader(fh):
                 review.append({"date": None, "author": "", "title": row["title"], "url": row["url"],
@@ -139,60 +143,53 @@ def main():
                                "problems": ["not extracted: " + row["why"]], "unfetched": True})
 
     wb = Workbook()
-    ws = wb.active
-    ws.title = "Articles"
-    write_article_sheet(ws, main_items)
+    for n, (key, name) in enumerate(TABS.items()):
+        ws = wb.active if n == 0 else wb.create_sheet()
+        ws.title = name
+        write_article_sheet(ws, groups[key])
 
     ws = wb.create_sheet("Needs review")
-    ws.append(["Date", "Author", "Title", "Link", "Relevance", "Sheet", "Why it needs review"])
+    ws.append(["Date", "Author", "Title", "Link", "Tab", "Why it needs review"])
     for it in review:
-        sheet = "Articles" if it["priority"] else "Other sections"
+        tab = TABS.get((it["label"], it["priority"]), "")
         if it in dupes:
-            sheet = "(not listed - duplicate)"
+            tab = "(not listed - duplicate)"
         elif it.get("unfetched"):
-            sheet = "(not listed - could not be fetched)"
-        ws.append([it["date"], it["author"] or None, it["title"], it["url"], it["label"],
-                   sheet, "; ".join(it["problems"])])
+            tab = "(not listed - could not be fetched)"
+        ws.append([it["date"], it["author"] or None, it["title"], it["url"], tab,
+                   "; ".join(it["problems"])])
         r = ws.max_row
         if it["date"]:
             ws.cell(r, 1).number_format = DATE_FMT
         ws.cell(r, 4).hyperlink = it["url"]
         ws.cell(r, 4).style = "Hyperlink"
-    style(ws, [14, 26, 55, 50, 12, 16, 60], ["C", "G"])
+    style(ws, [14, 26, 55, 50, 30, 60], ["C", "F"])
 
-    ws = wb.create_sheet("Other sections")
-    write_article_sheet(ws, other_items, extra=("Section",))
-
+    labels = load_labels()
     ws = wb.create_sheet("Summary")
     ws.append(["Metric", "Value"])
-    ws.append(["Articles (Slow Reads / In Focus)", len(main_items)])
-    ws.append(["Other sections", len(other_items)])
-    ws.append(["Needs review (also listed on their main sheet, except duplicates)", len(review)])
-    ws.append(["Likely duplicates left off the main sheets (see Needs review)", len(dupes)])
+    for key, name in TABS.items():
+        ws.append([name, len(groups[key])])
+    ws.append(["Needs review (also listed on their tab, except duplicates)", len(review)])
+    ws.append(["Likely duplicates left off (see Needs review)", len(dupes)])
+    ws.append(["Borderline - 1971 significant but not the central theme (not listed)",
+               sum(l["label"] == "Borderline" for l in labels.values())])
     ws.append(["News reports excluded (listed in classification_log.csv)",
-               sum(l.get("content_type") == NEWS for l in load_labels().values())])
-    ws.append(["Rows needing a date added (amber Date cell)",
-               sum(i["date"] is None for i in items)])
-    ws.append(["Rows needing an author added (yellow Author cell)",
-               sum(not i["author"] for i in items)])
+               sum(l.get("content_type") == NEWS for l in labels.values())])
+    ws.append(["Rows needing a date added (amber Date cell)", sum(i["date"] is None for i in items)])
+    ws.append(["Rows needing an author added (yellow Author cell)", sum(not i["author"] for i in items)])
     ws.append([])
-    ws.append(["By label", "Articles", "Other sections"])
-    for lab in KEEP:
-        ws.append([lab, sum(i["label"] == lab for i in main_items),
-                   sum(i["label"] == lab for i in other_items)])
+    ws.append(["By year"] + list(TABS.values()))
+    years = {k: Counter(i["date"].year if i["date"] else "Undated" for i in g) for k, g in groups.items()}
+    allyears = set().union(*[set(c) for c in years.values()])
+    for y in sorted(allyears, key=lambda y: (isinstance(y, str), y)):
+        ws.append([y] + [years[k].get(y, 0) for k in TABS])
     ws.append([])
-    ws.append(["By year", "Articles", "Other sections"])
-    ya = Counter(i["date"].year if i["date"] else "Undated" for i in main_items)
-    yo = Counter(i["date"].year if i["date"] else "Undated" for i in other_items)
-    for y in sorted(set(ya) | set(yo), key=lambda y: (isinstance(y, str), y)):
-        ws.append([y, ya.get(y, 0), yo.get(y, 0)])
-    ws.append([])
-    for name, group in (("Articles", main_items), ("Other sections", other_items)):
-        dated = [i["date"] for i in group if i["date"]]
-        ws.append([f"Date range – {name}",
+    for key, name in TABS.items():
+        dated = [i["date"] for i in groups[key] if i["date"]]
+        ws.append([f"Date range - {name}",
                    f"{min(dated):%d-%b-%Y} to {max(dated):%d-%b-%Y}" if dated else "n/a"])
     # Coverage: how much of each section's candidate list was actually read.
-    from .store import Candidates, is_priority_section, node_id
     cands = Candidates()
     recs = load_records()
     done = {r["node_id"] for r in recs.values()} | {node_id(r["fetched_url"]) for r in recs.values()}
@@ -202,20 +199,20 @@ def main():
     ws.append(["Coverage", "Candidates read", "Candidates found"])
     ws.append(["Slow Reads / In Focus", sum(k in done for k in pri), len(pri)])
     ws.append(["Other sections", sum(k in done for k in oth), len(oth)])
-    ws.append(["Note", "Other sections are INCOMPLETE: the crawl stopped on an HTTP 403 from the "
-               "site and was not resumed (by decision). See REPORT.md."])
+    if sum(k in done for k in oth) < len(oth):
+        ws.append(["Note", "Other-section tabs are still being completed: some candidates are not yet read."])
     for row in ws.iter_rows():
-        if row[0].value in ("Metric", "By label", "By year", "Coverage"):
+        if row[0].value in ("Metric", "By year", "Coverage"):
             for c in row:
                 c.font = Font(bold=True)
-    ws.column_dimensions["A"].width = 48
-    ws.column_dimensions["B"].width = 28
-    ws.column_dimensions["C"].width = 16
+    ws.column_dimensions["A"].width = 62
+    for col in "BCDE":
+        ws.column_dimensions[col].width = 18
     ws.freeze_panes = "A2"
 
     wb.save(OUT)
-    print(f"wrote {OUT}: {len(main_items)} articles, {len(other_items)} other, "
-          f"{len(review)} needs-review")
+    print(f"wrote {OUT}: " + ", ".join(f"{n}: {len(groups[k])}" for k, n in TABS.items())
+          + f", needs review: {len(review)}")
 
 
 if __name__ == "__main__":
