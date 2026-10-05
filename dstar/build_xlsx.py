@@ -190,8 +190,21 @@ def main():
         dated = [i["date"] for i in group if i["date"]]
         ws.append([f"Date range – {name}",
                    f"{min(dated):%d-%b-%Y} to {max(dated):%d-%b-%Y}" if dated else "n/a"])
+    # Coverage: how much of each section's candidate list was actually read.
+    from .store import Candidates, is_priority_section, node_id
+    cands = Candidates()
+    recs = load_records()
+    done = {r["node_id"] for r in recs.values()} | {node_id(r["fetched_url"]) for r in recs.values()}
+    pri = [k for k, r in cands.rows.items() if is_priority_section(r["url"])]
+    oth = [k for k, r in cands.rows.items() if not is_priority_section(r["url"])]
+    ws.append([])
+    ws.append(["Coverage", "Candidates read", "Candidates found"])
+    ws.append(["Slow Reads / In Focus", sum(k in done for k in pri), len(pri)])
+    ws.append(["Other sections", sum(k in done for k in oth), len(oth)])
+    ws.append(["Note", "Other sections are INCOMPLETE: the crawl stopped on an HTTP 403 from the "
+               "site and was not resumed (by decision). See REPORT.md."])
     for row in ws.iter_rows():
-        if row[0].value in ("Metric", "By label", "By year"):
+        if row[0].value in ("Metric", "By label", "By year", "Coverage"):
             for c in row:
                 c.font = Font(bold=True)
     ws.column_dimensions["A"].width = 48
