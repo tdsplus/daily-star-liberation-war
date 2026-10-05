@@ -87,7 +87,8 @@ def rows():
         else:
             seen[k] = it
             kept.append(it)
-    return kept, dupes
+    # A swapped-in priority copy may have a later date than the one it replaced.
+    return sorted(kept, key=key), dupes
 
 
 def style(ws, widths, wrap_cols):
