@@ -28,7 +28,7 @@ USER_AGENT = (
     "(non-commercial research index of Daily Star articles; "
     "polite crawler, 1 request every 2.5s)"
 )
-MIN_DELAY = 2.5
+MIN_DELAY = 5.0  # raised from 2.5 after the site returned an HTTP 403
 MAX_RETRIES = 4
 BASE = "https://www.thedailystar.net"
 
@@ -142,6 +142,8 @@ class Fetcher:
                 return 200, fh.read(), rec.get("final_url", url)
         if not refresh and rec and rec.get("status") == 404:
             return 404, "", url
+        if rec and rec.get("status") == 403:
+            return 403, "", url  # never re-request a page the site refused
         if check_robots and not self.allowed(url):
             self._write_log({"url": url, "status": "robots-disallowed", "at": _now()})
             return None, "", url
