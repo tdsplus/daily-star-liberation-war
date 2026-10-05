@@ -95,7 +95,10 @@ class Fetcher:
             status, text, _ = self.get(BASE + "/robots.txt", check_robots=False)
             if status != 200:
                 raise BlockedError(f"robots.txt returned HTTP {status}")
-            rp.parse(text.splitlines())
+            # Python's parser ends a group at a blank line, which would drop the
+            # site's trailing "Disallow: /tags/" for "*". Per RFC 9309 blank
+            # lines do not end a group, so parse without them (the stricter reading).
+            rp.parse([l for l in text.splitlines() if l.strip()])
             self._robots = rp
             delay = rp.crawl_delay(USER_AGENT) or rp.crawl_delay("*")
             global MIN_DELAY

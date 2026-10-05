@@ -10,6 +10,7 @@ import json
 import os
 import re
 import sys
+from datetime import datetime, timedelta, timezone
 
 from bs4 import BeautifulSoup
 
@@ -18,6 +19,10 @@ from .store import ROOT, Candidates, canonical, is_article, node_id
 
 RECORDS = os.path.join(ROOT, "cache", "articles.jsonl")
 TEXT_DIR = os.path.join(ROOT, "cache", "text")
+DHAKA = timezone(timedelta(hours=6))
+BOILERPLATE = re.compile(r"^(Read More|Editor's Pick|Related News|Send your articles for Slow Reads|"
+                         r"Follow The Daily Star|Check out our submission guidelines)", re.I)
+BOILERPLATE_ANY = re.compile(r"Google News channel|as a trusted source", re.I)
 ARTICLE_TYPES = {"NewsArticle", "Article", "ReportageNewsArticle", "OpinionNewsArticle",
                  "AnalysisNewsArticle", "BlogPosting"}
 
@@ -79,27 +84,41 @@ def _meta(soup, *keys):
 
 
 def _body(soup):
-    """Return (container, text). Tries known Daily Star selectors, then the
-    element holding the most paragraph text."""
-    for sel in ("article .article-body", ".article-body", "[itemprop=articleBody]",
-                ".section-content .clearfix", ".pb-20.clearfix", "article"):
+    """Return (container, text) for the article body.
+
+    Current templates (all years, as re-rendered by the site's Drupal theme)
+    keep the body in .block-field-blocknodenewsbody; the surrounding <article>
+    also wraps the sidebar ("Editor's Pick", most-viewed cards), so it is only
+    a last resort."""
+    node = None
+    for sel in (".block-field-blocknodenewsbody", "[itemprop=articleBody]", ".article-body"):
         node = soup.select_one(sel)
-        if node and len(node.get_text(" ", strip=True)) > 400:
+        if node and len(node.get_text(" ", strip=True)) > 50:
             break
-    else:
-        best, node = 0, None
-        for div in soup.find_all(["div", "section", "article"]):
+        node = None
+    if node is None:
+        best = 0
+        for div in soup.find_all(["div", "section"]):
             n = sum(len(p.get_text(strip=True)) for p in div.find_all("p", recursive=False))
             if n > best:
                 best, node = n, div
     if node is None:
         return None, ""
-    for junk in node.select("script, style, aside, figure figcaption ~ *, .related, .tags, "
-                            "nav, form, iframe, .social, .share"):
+    for junk in node.select("script, style, aside, nav, form, iframe, .related, .social, .share"):
         junk.decompose()
-    paras = [p.get_text(" ", strip=True) for p in node.find_all(["p", "h2", "h3", "blockquote"])]
-    text = "\n\n".join(p for p in paras if p)
-    return node, text or node.get_text("\n", strip=True)
+    full = node.get_text("\n", strip=True)
+    paras = [p.get_text(" ", strip=True) for p in node.find_all(["p", "h2", "h3", "blockquote", "li"])]
+    # Older articles use <br> line breaks rather than <p>; fall back to full text.
+    if sum(len(p) for p in paras) < 0.6 * len(full):
+        paras = [l.strip() for l in full.split("\n")]
+    paras = [p for p in paras
+             if p and not BOILERPLATE.match(p) and not BOILERPLATE_ANY.search(p)]
+    return node, "\n\n".join(paras)
+
+
+def _ga(html, key):
+    m = re.search(r'"tds_ga_dimensions":\{[^}]*?"%s":"([^"]*)"' % key, html)
+    return m.group(1) if m else ""
 
 
 def parse(html, url):
@@ -127,6 +146,19 @@ def parse(html, url):
             date = t.get("content") or t.get("datetime") or ""
             date_src = "html-itemprop" if date else ""
     if not date:
+        # Drupal node "created" (authored-on) timestamp in the page's analytics
+        # config. The visible "Updated : ..." line is deliberately ignored.
+        m = re.search(r'"tds_ga_dimensions":\{[^}]*?"created":"(\d{9,11})"', html)
+        if m:
+            date = datetime.fromtimestamp(int(m.group(1)), DHAKA).isoformat()
+            date_src = "drupal-created"
+    if not date:
+        m = re.search(r'"created":"\w{3}, (\d{2})\\?/(\d{2})\\?/(\d{4}) - (\d{2}):(\d{2})"', html)
+        if m:
+            mo, d, y, hh, mm = m.groups()
+            date = f"{y}-{mo}-{d}T{hh}:{mm}:00+06:00"
+            date_src = "drupal-created"
+    if not date:
         flags.append("no-date")
 
     authors = _names(ld.get("author"))
@@ -136,11 +168,15 @@ def parse(html, url):
         if m and not m.startswith("http"):
             authors, author_src = [m], "meta"
     if not authors:
-        for sel in (".author-name", ".byline", "[rel=author]", ".author a", ".author"):
-            node = soup.select_one(sel)
-            if node and node.get_text(strip=True):
-                authors, author_src = [node.get_text(" ", strip=True)], "html:" + sel
-                break
+        # Only the article's own author block -- pages also carry ".author"
+        # names on related-article cards, which must not be picked up.
+        block = soup.select_one(".block-author-info-block")
+        if block:
+            names = [a.get_text(" ", strip=True) for a in block.select("a[href*='/author/']")]
+            if not names:
+                names = [n.get_text(" ", strip=True) for n in block.select(".font-medium")]
+            authors = [n for n in dict.fromkeys(names) if n]
+            author_src = "html:author-block" if authors else ""
     authors = [a for a in authors if a.lower() not in ("the daily star", "daily star")] or authors
     if not authors:
         flags.append("no-author")
@@ -175,6 +211,8 @@ def parse(html, url):
         "author": "; ".join(dict.fromkeys(authors)),
         "author_source": author_src,
         "section": section or "",
+        "news_type": _ga(html, "NewsType"),
+        "desk": _ga(html, "Desk"),
         "ld_type": ld.get("@type", "") if isinstance(ld.get("@type", ""), str)
                    else ", ".join(ld["@type"]),
         "breadcrumbs": crumbs,
