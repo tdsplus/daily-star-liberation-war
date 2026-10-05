@@ -1,0 +1,47 @@
+BENGALI TYPES AND THEIR FOUNDERS
+2021-02-22T00:00:00+06:00 | Katharine Smith Diehl
+https://www.thedailystar.net/slow-reads/focus/news/bengali-types-and-their-founders-2048797
+
+While in London about the year 1770, William Bolts required some types for printing in Bengali. Such types were non-existent, and the type foundry of Joseph Jackson was engaged to prepare a font. In I773 or I774 he suddenly left for India, and the types remained behind. Some years later the font, still incomplete, found its way to the establishment of William Caslon III. They were museum pieces
+
+Two or three years later in Bengal, Nathaniel Brassey Halhed was seriously interested in the vernaculars. The preface to his Bodhaprakasam labdasdstratm explains how Governor General Warren Hastings prevailed upon Mr. [Charles] Wilkins, a gentleman who has been some years in the India Company's civil service in Bengal, to undertake a set of Bengal types. "He did ... [and] he has been obliged to charge himself with all the various occupations of the Metallurgist, the Engraver, the Founder and the Printer . . . [and] has thus singly with first effort exhibited his work in a state of perfection which in every part of the world has appeared to require the United improvements of different projectors, and the general polish of successive ages."
+
+Along with the Bengali, a font of nasta'lik, for printing in Persian, was being made. On pages 77 and I28 of Halhed's Grammar two very brief phrases in this character appear, assuring the linguist and government servant that printing in the court language of India was also intended. This took place at the Honorable East India Company's Press at Hugli. The Grammar is a double first: the first book to be manufactured in Bengal, and the first to utilize Bengali characters for Bengali words. The workmanship is so perfect that it cannot have been the first printing from the shop! How long the manufacture required is not known. And by 1779 the Hugli address for the press had given way to a Calcutta address, closer to the center of business at the time.
+
+Charles Wilkins, Superintendent of the Press, remained briefly in Bengal. Because of ill health he went home, but before leaving he had begun serious study of Sanskrit and planned to prepare a grammar. Using his knowledge of type preparation he tells how:
+
+"At the commencement of the year I795, residing in the country [in England] and having much leisure, I began to arrange my materials, and prepare for publication. I cut letters in steel, made matrices and moulds, and cast from them a fount of types of the Deva-nagari character, all with my own hands .. ."
+
+Printing had just begun when fire destroyed his house and shop. The matrices, punches, and his books were saved; but most of the types were either melted or tossed out on the lawn and lost. Discouraged, it was a full decade before he started over again, had types cast from his matrices, and published his Grammar in 18o8. The type foundry of Fry and Figgins, London, were suppliers to the Company. Wilkins' types became part of their inventory, and fonts were manufactured and distributed by them to various printing establishment.
+
+While cataloging the William Carey Historical Library at Serampore College (Serampore, Bengal) I found a little book which was unknown to Bengali and foreign scholars alike: The East Indian chronologist, where the historical events respecting the East India Company, are briefly arranged in succession from the date of their Charter in 1600, to the 4th of June, 1801, with other particulars necessary to be known, as interesting to the Inhabitants of India. Collected from the various publications now extant. In two parts. Part the First: Occurrences under the House of Stuart. Part the Second: Occurrences under the House of Hanover. Calcutta: Printed at the Hircarrah Press, 1801.
+
+Much of the same material appeared in Asiaticus: In two parts. Part the First. Ecclesiastical, chronological, and historical sketches respecting Bengal. Part the Second. The epitaphs in the diferent burial grounds in and about Calcutta. Calcutta, Printed at the Telegraph Press, I803 .
+
+The clue to the authorship of the first is the signature "H" within the text at several places and at the end of the book; and to the second, the signature "Asiaticus" at the end of the volume. "H" and "Asiaticus" were the same individual. Under "H", several Arabic/Persian translations had appeared in Asiatick miscellany (Calcutta, I786). In i8io, "Asiaticus" prepared the Rules of the Delphian Society in Calcutta; and about ten years later-as first chairman of the Calcutta School Society-John Herbert Harington (or -Harrington) drew up the rules for that organization. In the correspondence related to this Calcutta School Society he admitted to having been the author of the 1810 Delphian Society's Rules. Further concerning identification of Harington is found by looking at the final phrase in the I803 book, "In the forty-fifth year of the British Empire in Bengal . . . I dedicate to them who have thrice liberally supported my literary undertakings. ASIATICUS. Calcutta, May 1st, I803."
+
+The third early publishing by Harington was his edition of Sa'di, I79I-95, under his proper and full name.
+
+The East Indian chronologist , apparently a clipping file committed to print, contains many items related to weather in the Bay of Bengal and storms in India, the Indiamen and other shipping news, books and orientalia. Under I778 appears:
+
+"Mr. Wilkins, the celebrated Sanscrit Scholar, aided by an ingenious Artist by the name of Shepherd, completed under the patronage of Governor Hastings, two elegant founts of Persian and Bengalese types, and the first specimen of Oriental Typography of this description appeared this year, viz. Halhed's Bengal Grammar, printed at Hougly, and Balfour's Forms of Herkern. Gilchrist ."
+
+Gilchrist's signature was a clue to follow. His I798 Preface, appearing in the University of Chicago copy of A Dictionary, English and Hindoostani (Calcutta, 1787-98) states on pp. xlii-
+
+"I had the good luck to engage Mr. Shepherd, an ingenious artist, who died some ten years ago, to cast an elegant fount of Persian Types for my Dictionary. He was the man who according to his own assertions (in his last illness to myself, and I think on his death bed) assisted Mr. Wilkins from the first, and through the whole process of forming his Bengali and Persian founts, for which that Gentleman assumed or received exclusive merit, with its consequent profit and praise. The de- ceased . . . heard with inexpressible pleasure an assurance, that if my book could convey his dying voice to posterity, it should not be suppressed by me, on any consideration whatever . . . I have since from enquiry in Calcutta here been more confirmed in the truth of what he declared . . . [and] since writing the above, I have been given to understand that Mr. Shepherd was regularly bred at Birmingham, as a Die sinker, and that a knowledge of this business must have been of the highest use to him in type founding."
+
+Holmes and Co.'s useful Bengal Obituary (Calcutta, I848) records on page 75 the markings on a grave stone:
+
+"In memory of / Mr. Jos. Shepperd, Engraver, / who departed this life the 27th of March 1787, / aged 34 years. / [Buried] South Park Street Burial Ground, Calcutta"
+
+An inquiry sent to the Mayor of Birmingham was directed to the Birmingham Public Libraries. Mr. W. A. Taylor, M.C., F.L.A., under date June I3, I967, replied,
+
+"A search of our directories and other local indexes has failed to reveal any reference to Joseph Shepperd. Shepperd must have left Birmingham when fairly young, so it may well be that while here he was only an employee and would therefore not be listed anywhere."
+
+Who was "an ingenious Artist by the name of Shepherd" according to The East Indian chronologist (Harington); this "Mr. Shepherd, an ingenious artist, who died some ten years ago" according to John Gilchrist; this "Mr. Jos. Shepperd, Engraver" according to his grave stone in Calcutta; who had been "regularly bred at Birmingham, as a Die sinker" according to Gilchrist's informant; this Birmingham laborer, unaccounted for in the City records?
+
+Was he the forgotten Englishman, somewhere below the top in the Halhed/ Wilkins/Hastings printing project? Surely Wilkins, Halhed, Gilchrist, Harington were busy, and-except for Wilkins-long resident in Bengal. Wilkins represented the Sanskritists, and became loyal to the Company's College at Hertford; Gilchrist and Harington represented the Persianists, and their loyalties were with the College of Fort William in Bengal. Whatever further search may uncover, each of these men made his contribution to international communication. Each told a portion of the history of type founding at the Company's Hugli Press, at Gilchrist's foundry in Calcutta, and at Wilkins' own home in England: all of it before 1800.
+
+The article was first published in The Journal of Asian Studies, Vol. 27, No. 2 (Feb., 1968).
+
+Katharine Smith Diehl was a Bibliographer at the Carey Library, Serampore.

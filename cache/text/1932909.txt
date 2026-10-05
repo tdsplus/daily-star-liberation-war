@@ -1,0 +1,59 @@
+Ignaz Semmelweis
+2020-07-20T00:00:00+06:00 | Leslie S. Leighton
+https://www.thedailystar.net/in-focus/news/ignaz-semmelweis-1932909
+
+One of the front-line defenses individuals have against the spread of the coronavirus can feel decidedly low-tech: hand-washing.
+
+In fact, it was 19th-century Hungarian physician Ignaz Semmelweis who, after observational studies, first advanced the idea of "hand hygiene" in medical settings.
+
+The simple act of hand-washing is a critical way to prevent the spread of germs. Here's how Semmelweis, working in an obstetrics ward in Vienna in the 19th century, made the connection between dirty hands and deadly infection.
+
+Benefits of cleanliness, symbolic and real
+
+The history of hand-washing extends back to ancient times, when it was largely a faith-based practice. The Old Testament, the Talmud and the Quran all mention hand-washing in the context of ritual cleanliness.
+
+Ritual hand-washing appears to have come with public health implications. During the Black Death of the 14th century, for instance, the Jews of Europe had a distinctly lower rate of death than others. Researchers believe that hand-washing prescribed by their religion probably served as protection during the epidemic.
+
+Hand-washing as a health care prerogative did not really surface until the mid-1800s, when a young Hungarian physician named Ignaz Semmelweis did an important observational study at Vienna General Hospital.
+
+After becoming disillusioned with the study of law, Semmelweis moved to the study of medicine, graduating with a medical degree from the University of Vienna in 1844. Having graduated from this prestigious institution, he believed he would be able to pursue a choice practice. He applied for positions in pathology and then medicine, but received rejections in both.
+
+Semmelweis then turned to obstetrics, a relatively new area for physicians, previously dominated by midwifery, which was less prestigious and where it was easier to obtain a position. He began working in the obstetrics division of the Vienna Hospital on July 1, 1846.
+
+The leading cause of maternal mortality in Europe at that time was puerperal fever – an infection, now known to be caused by the streptococcus bacterium, that killed postpartum women.
+
+Prior to 1823, about 1 in 100 women died in childbirth at the Vienna Hospital. But after a policy change mandated that medical students and obstetricians perform autopsies in addition to their other duties, the mortality rate for new mothers suddenly jumped to 7.5%. What was going on?
+
+Eventually, the Vienna Hospital opened a second obstetrics division, to be staffed entirely by midwives. The older, First Division, to which Semmelweis was assigned, was staffed only by physicians and medical students. Rather quickly it became apparent that the mortality rate in the first division was much higher than the second.
+
+Semmelweis set out to investigate. He examined all the similarities and differences of the two divisions. The only significant difference was that male doctors and medical students delivered in the first division and female midwives in the second.
+
+Washing away germs from the dead
+
+Remember that at this time, the general belief was that bad odors – miasma – transmitted disease. It would be two more decades at least before germ theory – the idea that microbes cause disease – gained traction.
+
+Semmelweis cracked the puerperal fever mystery after the death of his friend and colleague, pathologist Jakob Kolletschka. Kolletschka died after receiving a scalpel wound while performing an autopsy on a woman who'd died of puerperal fever. His autopsy revealed massive infection from puerperal fever.
+
+Contagiousness now established, Semmelweis concluded that if his friend's "general sepsis arose from the inoculation of cadaver particles, then puerperal fever must originate from the same source. … The fact of the matter is that the transmitting source of those cadaver particles was to be found in the hands of students and attending physicians."
+
+No midwives ever participated in autopsies or dissections. Students and physicians regularly went between autopsies and deliveries, rarely washing their hands in between. Gloves were not commonly used in hospitals or surgeries until late in the 19th century.
+
+Realizing that chloride solution rid objects of their odors, Semmelweis mandated hand-washing across his department. Starting in May 1847, anyone entering the First Division had to wash their hands in a bowl of chloride solution. The incidence of puerperal fever and death subsequently dropped precipitously by the end of the year.
+
+Unfortunately, as in the case of his contemporary John Snow, who discovered that cholera was transmitted by water and not miasma, Semmelweis' work was not readily accepted by all. The obstetrical chief, perhaps feeling upstaged by the discovery, refused to reappoint Semmelweis to the obstetrics clinic.
+
+Semmelweis' refusal to publish his work may have also contributed to his downfall. With little recognition during his lifetime, he eventually died from injuries sustained in a Viennese insane asylum.
+
+Taking an old lesson to heart
+
+Although Semmelweis began the charge for hand hygiene in the 19th century, it has not always fallen on receptive ears.
+
+The medical field now recognizes that soap and running water are the best way to prevent, control and reduce infection. But regular folks and health care workers still don't always follow best practice guidelines.
+
+Hand-washing appears to get a bump in compliance in the wake of disease outbreaks. Take the example of the first major outbreak of SARS, which occurred in the Prince of Wales Hospital in Hong Kong in March 2003. Health authorities advised the public that hand-washing would help prevent spread of the disease, caused by a coronavirus. After the SARS outbreak, medical students at the hospital were much more likely to follow hand-washing guidelines, according to one study.
+
+I suspect the current pandemic of COVID-19 will change the way the public thinks about hand hygiene going forward. In fact, White House coronavirus advisor and NIAID Director Anthony Fauci has said "absolute compulsive hand-washing" for everyone must be part of any eventual return to pre-pandemic life.
+
+Leslie S. Leighton is Visiting Lecturer of History, Georgia State University
+
+The article was first published in The Conversation.

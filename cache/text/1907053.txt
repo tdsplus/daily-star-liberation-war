@@ -1,0 +1,95 @@
+On free speech and the imperatives of democracy
+2020-06-01T00:00:00+06:00 | Ahrar Ahmad
+https://www.thedailystar.net/in-focus/news/free-speech-and-the-imperatives-democracy-1907053
+
+It is almost axiomatic that free speech is indispensable to democracy.
+
+It is also obvious that almost all human progress depends upon an environment of free thought and free expression. Scientific advances would not be possible without challenging and revising received wisdom and provoking new explanations based on logic and evidence. Human creativity would not be possible without allowing the audacity of imagination to extend aesthetic tastes and frontiers. Intellectual growth would not be possible without the willingness to tolerate diverse, sometimes contradictory, answers to life's enduring questions.
+
+Human existence may be possible without these freedoms, but the human condition would be bereft of beauty or joy or meaning.
+
+However, it is important to point out that the notion of "free speech" may be problematic, and generate awkward questions.
+
+Can speech be absolute, universal, unconditional? Are there no limits or boundaries or responsibilities regarding the exercise of free speech that we must acknowledge? Shouldn't historical contexts, cultural dynamics and social norms determine the quality or level of free speech that may be practiced?
+
+Moreover, should we allow the leakage of state secrets that may jeopardise national security? Pornography that objectifies and degrades women? Hate speech that not only disparages minorities, but may make them unsafe? Information that is demonstrably false, confusing and dangerous to public welfare, or may hurt the sentiments of some, particularly on matters of race, identity and religion?
+
+Also, what happens when two rights collide – when one's right to free speech goes against someone else's right to a fair trial (which may be jeopardised by media reporting), or against someone else's right not to be defamed, or against someone else's right to conduct daily life without disruptions?
+
+These concerns are all legitimate, but are neither unique nor novel. There is a long and lively jurisprudential tradition that has evolved around such questions. There have been doctrines that have been established, tests devised, definitions provided, guidelines presented, and reasonable conditions clarified. These may well serve as the basis to approach, if not resolve, some of these problems.
+
+Moreover, it is most reassuring that the trajectory of free speech, considered in this essay essentially as "political speech", has almost always been upward. Its ambit and authority have expanded steadily. This evolution will be discussed here with reference to court cases in the US judicial system.
+
+II
+
+During WWI and the Red Scare days that followed, the US Supreme Court interpreted "free speech" very narrowly and upheld the conviction of citizens for distributing leaflets to oppose the draft (Schenck v. US, 1919), calling a strike to oppose US efforts to overthrow the Communist regime in the USSR (Abrams v US, 1919), publishing a "left-wing manifesto" in which the author had advocated the overthrow of the government (Gitlow v NY, 1925), or just being associated with the Communist Party (Whitney v CA, 1927).
+
+In these cases the Court used the "clear and present danger test" where the exercise of free speech could supposedly endanger the public in some way, or the "bad tendency test" where it could possibly lead to "evil" consequences in the future. Incidentally, it was in Schenck that Justice Oliver Wendell Holmes had famously remarked that one cannot be allowed to "falsely shout fire in a crowded theatre" (and elsewhere, is reported to have said that "the right to swing your arm ends where my face begins"). Ironically, Justice Holmes became one of the fiercest defenders of free speech later.
+
+By the 1930s, when the Red Scare had abated (the US recognised the USSR in 1933), the Depression was creating economic havoc, President Franklin D. Roosevelt had his majority in the Court by the late 30s, and the orientation towards free speech shifted.
+
+Justice Cardozo instituted the "preferred position" doctrine (Connecticut v Palko, 1937), which held that there was a "hierarchy of constitutional rights" in which free speech would always be privileged over others. Justice Harlan Stone (US v Carolene Products, 1938), in probably the most famous footnote in constitutional history, invoked the standards of "strict scrutiny" to apply to laws that sought to limit rights under the constitution. Even the requirement to salute the national flag, mandated in many States, was invalidated as an infringement of First Amendment rights (West Virginia State Board of Education v Barnette, 1942).
+
+The Warren Court (1953-1969) advanced free speech aggressively. In Yates v. US (1957) the Court made the crucial distinction between advocacy of an idea and incitement to action, and ensured the protection of the first (a belief cannot be a crime). Based on this ruling, many imprisoned members of leftist parties who had been jailed under the Smith Act (1940), or because of anti-communist hysteria following WWII (McCarthyism), were released.
+
+This principle was further sharpened in Brandenburg v Ohio (1969), when the conviction of a Klan leader for an ugly racist rant, was declared unconstitutional because while his speech was inherently offensive and inflammatory, it did not advocate "imminent lawless action", the Court's only condition for limiting speech. All previous "tests" for political speech were thus rendered moot under this stringent standard.
+
+Thus, it became perfectly legal to criticise, satirise, or condemn any law or leader, any historical event or ideological position, any people or policy, or propagate anything utterly silly (after all, as the Courts pointed out, citizens have the right to be stupid), as long as a specific criminal act was not being directly encouraged. Citizens can agitate to "throw the bums out", or mobilise to "destroy capitalism", or demand to "end the lock-down", or denounce "gays, or Muslims, or vegetarians, or abortion defenders, or Senator X, or a book, etc. as evil", but one cannot provoke public harm by saying "hit that person" or "rob that bank" or "vandalize that building".
+
+The Courts also expanded free speech rights through the "vagueness" and "over-breadth" doctrines which stipulated that unless the language of laws that limit speech is clear and specific, they would be over-thrown. On this basis, it supported the right of school children to wear black arm bands to oppose the Vietnam War as "symbolic speech" (Tinker v. Des Moines, 1967), which was also invoked to allow the burning of the US flag as political opinion (Texas v Johnson, 1989); established the three conditions (actual malice, knowledge of falsity and reckless disregard of facts) to justify a libel suit (New York Times v Sullivan, 1964); and clarified that "no prior restraint" can be imposed on the press by the government, and thus permitted the publication of the Pentagon Papers (New York Times v US, 1971). The one issue on which the Court dithered involved national security including protection to "whistle-blowers".
+
+Undoubtedly, there has been a persistent expansion of free speech in the US. This pattern is obvious in most democratic countries. Unfortunately, Bangladesh defies that trend.
+
+III
+
+Three kinds of evidence may be presented in support of that last contention.
+
+First, Bangladesh fares poorly in measures which compare the robustness of freedom in various countries. Bangladesh was ranked 151 out of 178 countries by Reporters without Borders, with Sri Lanka at 127, India 142 and Pakistan 145. In the Human Freedom Index of the Cato Institute, Bangladesh was ranked 138 out of 162 countries, slightly ahead of Pakistan at 140, but behind Sri Lanka at 110, and India at 94. Freedom House classified Bangladesh in 2020 as only "partly free" with a total score of 39, slightly better than Pakistan with 38, but much below Sri Lanka with 56 or India with 71.
+
+What is even more troubling is the fact that in most of these rankings, Bangladesh's position appears to be worsening. For Reporters without Borders, its position slipped by one over the previous year, in the Cato Institute index it came down by .08 from 2019, and in the rank ordering of Freedom House, Bangladesh was clustered with countries which had significant deteriorations in composite scores.
+
+Second, the Information, Communication and Technology Act (ICT, 2006, amended 2013), and the Digital Security Act (DSA, 2018) appear to problematise the right of free speech granted in several provisions, but most explicitly in article 39, of the constitution of Bangladesh.
+
+Section 57 of the ICT Act criminalises any "material that is false or obscene" … which may influence the reader "to become dishonest or corrupt", causes "to deteriorate … or the possibility to deteriorate law and order, prejudice the image of the state, or person" or "may hurt religious beliefs instigated against any person or organization".
+
+Similarly, Section 21 of the DSA indicates that any person who carries out "any propaganda or campaign against the liberation war of Bangladesh, cognition of liberation war, Father of the Nation, national anthem or national flag", or Section 25 which suggests that any person who "sends such information which is offensive or fear inducing (and intends) to annoy insult, humiliate, or denigrate a person … or tarnishing the image of the nation, or spread confusion" will all be considered to be criminally liable.
+
+Allowing the sweeping generalities and ambiguities inherent in these acts as the basis for criminally prosecuting people would probably have embarrassed even Emperor Draco (from whom the word Draconian is derived). Moreover, giving police almost unlimited power of search, seizure and arrest without warrant, imposing severe punishment regimes, and making some offences non-bailable, made the Acts even more menacing.
+
+Third, it was hoped that these Acts were "ones for the book" and would not be used much. Jyotirmoy Barua indicated that between 2006 and 2013 no cases were prosecuted under Section 57. However, after that, the numbers began to increase exponentially and between 2013 and April 2018, Human Rights Watch calculated that 1,271 charge sheets had been submitted under this Section.
+
+Under the DSA, which superseded Section 57, The Daily Star reported that there were 34 cases filed in 2018, 63 in 2019, and by May 6 of 2020, almost 60 involving about 100 people. Newspapers regularly carry the names and pictures of people (some in handcuffs) charged under this Act.
+
+Politicians of the ruling party and the police have used these Acts primarily to file cases against editors, reporters, photographers, bloggers, baul/sufi artistes, writers and even cartoonists. It is noteworthy that, as Shahdin Malik has pointed out, while "spreading rumours" or "criticising the government" are not specifically mentioned in the DSA, people ARE being arrested on those grounds.
+
+It would seem that the entire exercise was really intended to limit historical enquiry, critical thinking, political satire, policy disagreement, journalistic investigation or personal expression. More than a "chilling effect" on free speech, these laws hang like the sword of Damocles over the population waiting to drop on any hapless citizen at the slightest provocation.
+
+IV
+
+There are three reasons why this is SO frustrating. first, bangladeshis pursued their ideals and earned their independence through a long and intense struggle in which many suffered and millions died. it must be remembered that our national consciousness was rooted in the resistance of the people against those seeking to take away our bhasa (speech) from us. it was not merely a movement to reclaim our beloved language, an essential marker of our identity, but also, in a philosophical sense, it was a metaphor for the freedoms and rights that speech entails.
+
+Second, many of the cases filed today are by people who were allegedly "offended" by someone's exercise of free speech. As Justice Warren had pointed out, the right of free speech means NOTHING if it does not protect speech that someone may find offensive (nice, sweet, agreeable speech does not need protection).
+
+Socrates chose suicide over imposed silence. Khona (famous for her pithy "bochons") had her tongue cut off. Giardano Bruno, a brilliant scientist, was burned at the stake. Galileo was forced to endure house arrest and cease all research and writing, all because what they proposed or taught had offended established beliefs and institutions. Bangabandhu, our Father of the Nation, spent almost half his adult life in prison because the ruling elite had felt mightily offended by his criticisms and demands.
+
+Similarly, every Prophet in the Abrahamic tradition faced persecution because their teachings had offended dominant ideas and practices. The first had to flee his country barely ahead of the Pharaoh's forces and was left wandering in the desert for 40 years, the second was brutally crucified, the last, our very own Hazrat Muhammad (SAW), was hounded out of his beloved city under extremely dire and desperate circumstances. Doesn't history teach us anything?
+
+It must be remembered that the State has NO responsibility to protect the sentiments of hyper-sensitive people and shield them from being "hurt" or offended. These people must educate themselves, grow up, and become tougher. Otherwise it would not only lead to the trivialisation of political discourse, it would also lead inescapably to the "tyranny of the minority" where any small group of people could simply complain of being "hurt", and use it as a pretext to take away people's rights.
+
+Third, such efforts commit the fallacy of "absolutes". It assumes that the ruling establishment has absolute power to do anything it wants; that it possesses absolute knowledge and its official narrative is supreme and permanent; and that the conflation of party, government and State, will give it absolute protection from all challenges. History neither supports, nor forgives, such absolute arrogance.
+
+Limiting free speech may create an atmosphere of threat and intimidation that may provide current rulers (regardless of party) with a sense of smug assurance, and may even contribute to prolonging a particular regime. But this is illusory and always temporary.
+
+When they are no longer in power, they will themselves face, with extreme prejudice, the same environment of intolerance, bullying and arbitrariness that they have visited on others. In the same way they had criminalised anyone questioning their version of history, that version itself will be criminalised. This logic is immutable, this cycle of events inevitable.
+
+We must remember that leaders are never glorified for the number of years they have remained in power, but for the legacy they leave behind. Our leaders must decide whether they want to construct an inclusive, accountable, and democratic future for us, or whether they are merely interested in holding on to power as long as they can. The first will confer greatness on them, the second will bring them dishonour.
+
+In this context, it may be pointed out that it is counter-intuitive for the current government to restrict speech. Its achievements are impressive – remarkable economic growth, respect in the international arena, successful trial of war criminals, containment of fundamentalist activism, and so on. It faces no political challenges whatsoever. Given all this, it can easily demonstrate its graciousness and confidence, and regain the high moral ground, simply by expanding the public space for debate, discussion and criticism.
+
+Limiting speech does not indicate a regime's strength, but only its insecurities, its doubts, its pettiness. When leaders can afford to hold their heads high like the Kings of the Jungle, why should they behave like frightened alley cats?
+
+The success of democracy rests on tolerance. The only answer to a bad idea is not to stifle it, but to present a better idea. When any regime does the first, it proves that it lacks the ability to do the second. No democracy can, or should, function under that shadow.
+
+Ahrar Ahmad is the Director General of Gyantapas Abdur Razzaq Foundation, Dhaka.
+
+Email: [email protected]
