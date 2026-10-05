@@ -1,0 +1,10 @@
+  listing:slow-reads p0: 32 links, 32 new on listing, 29 new candidates (total 284)
+  listing:slow-reads p1: 32 links, 0 new on listing, 0 new candidates (total 284)
+  listing:slow-reads p2: 32 links, 0 new on listing, 0 new candidates (total 284)
+  listing:slow-reads: no new links for 2 pages, stopping at page 2
+  listing:in-focus p0: 20 links, 20 new on listing, 15 new candidates (total 299)
+  listing:in-focus p1: 30 links, 20 new on listing, 17 new candidates (total 316)
+  listing:in-focus p2: 30 links, 20 new on listing, 18 new candidates (total 334)
+  listing:in-focus p3: 30 links, 20 new on listing, 18 new candidates (total 352)
+  listing:in-focus p4: 30 links, 20 new on listing, 19 new candidates (total 371)
+  listing:in-focus p5: 30 links, 20 new on listing, 18 new candidates (total 389)
