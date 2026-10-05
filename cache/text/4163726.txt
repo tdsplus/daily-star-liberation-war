@@ -1,0 +1,55 @@
+Why AI alone cannot fix Bangladesh’s learning gap
+2026-04-29T13:41:08+06:00 | Md Maruf Hasan
+https://www.thedailystar.net/slow-reads/big-picture/news/why-ai-alone-cannot-fix-bangladeshs-learning-gap-4163726
+
+Bangladesh’s education system has experienced waves of disruption over the past five years, especially since the pandemic. Students and teachers have had to cope with online classes, adapt to the 2021 curriculum framework, and then revert to the 2010 curriculum, often without clarity on where the system is headed or what education will look like in the next five years.
+
+Meanwhile, many countries are trying to make the most of AI, using it as a data-driven decision-making tool to reduce pressure on teachers.
+
+However, within this instability in Bangladesh’s education system, the people who are suffering the most are our children.
+
+Their learning journeys are increasingly marked by confusion. Many have progressed through school during a period when high-stakes examinations were reduced, intended to ease pressure. Yet an unintended consequence has been a growing gap in foundational learning, especially for first-generation learners in rural Bangladesh.
+
+In 2026, it is not uncommon to see reports of SSC graduates demonstrating competencies closer to Grade 7 levels.
+
+In 2025, as a STEM teacher at a rural high school in Ukhiya, Cox’s Bazar, I sought to address this gap by developing an AI-powered Bangla-language mathematics app. The idea was simple. Students could use their smartphones at home to work on gaps in their learning.
+
+However, the students did not use the app as much as expected.
+
+That was when I realised something deeper.
+
+The issue was not access to technology. It was the absence of a supportive learning environment.
+
+Why writing classes still matter in the age of AI
+
+In my experience, underserved students often lack structured academic support at home. This is not because families do not value education, but because they do not know how to support their children. Many of these students are the first in their families to attend school.
+
+A meaningful learning environment requires consistent guidance from both teachers and parents. Without that, even the most well-designed digital tools struggle to make an impact.
+
+This insight led us to take a different approach.
+
+Instead of focusing only on content delivery, my students and I co-created an app called Jibon Shikkha . The goal was not just to teach subjects, but to support daily habits and routines.
+
+The real gap is not technological. It is human.
+
+The real gap is not technological. It is human.
+
+Students input data about their daily lives, including study hours by subject, food habits, sleep quality, mood, energy levels, school attendance, and playtime. The AI system then provided simple, actionable guidance on what was going well, what could be improved, and the next steps.
+
+Before launching the app, we worked with experts to learn about self-management, health, and time management. Students also engaged their parents through sessions and shared how they could support their children.
+
+This changed everything.
+
+Self-monitoring habits, guided by parents, increased from below 30% to over 75%. School attendance improved. In total, more than 2,000 students and over 6,000 community members were engaged through this process.
+
+This experience makes it clear that AI in education cannot be reduced to tools that deliver content alone.
+
+Digital solutions require sustained investment, not just in technology, but in people. Students, teachers, and parents all need the capacity to engage meaningfully with these tools.
+
+At a time when Bangladesh’s education system is already experiencing frequent changes, the challenge is not simply to introduce AI, but to integrate it thoughtfully into learners’ realities.
+
+The real gap is not technological. It is human.
+
+MD Maruf Hasan is an AI in Education Practitioner who works with AI to develop learning strategies and tools for Teach for All and Anthropic.
+
+This piece was developed through the #NextGenEdu Learning Cohort, which brings together educators, researchers, and practitioners to reflect on AI and education in Bangladesh.

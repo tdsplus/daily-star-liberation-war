@@ -1,0 +1,91 @@
+Beyond access: Building the foundations of Bangladesh’s next education reform
+2026-02-06T23:56:29+06:00 | Asad Islam
+https://www.thedailystar.net/slow-reads/big-picture/news/beyond-access-building-the-foundations-bangladeshs-next-education-reform-4099786
+
+From access to outcomes
+
+Over the past few decades, Bangladesh has made significant progress in expanding access to education, moving from a setting where schooling was a privilege to one where it is both a legal obligation and a widely accepted social norm. Beginning in the 1980s, compulsory primary education, food- and cash-based incentives, and targeted support for girls collectively transformed enrolment patterns and narrowed long-standing gender gaps.
+
+However, as Bangladesh stands on the precipice of a new political era in 2026, it must confront a sobering reality: the tools that delivered access are no longer sufficient. While classrooms are now largely full, the education system is struggling to fulfil the promise of learning and opportunity. High dropout rates—around 14–16 percent at the primary level in recent years—persist, secondary and higher secondary completion remains fragile, and the labour market has been unable to absorb a growing pool of educated youth.
+
+This gap between schooling and opportunity has become increasingly visible, most starkly during the July 2024 student movement. While the immediate trigger was the quota system in public sector recruitment, the movement reflected something deeper: the frustration of a generation that followed the prescribed path—years of schooling and credential accumulation—only to find that education no longer guaranteed meaningful employment or fair access to opportunity.
+
+This article reflects on Bangladesh’s education journey through the lens of my own research, beginning with the Female Secondary School Stipend Program (FSSSP), one of the country’s most celebrated policy innovations. I argue that the lesson from this success—and from today’s emerging crisis—is clear: to address persistent dropouts, weak learning outcomes, and frustrated employment prospects, Bangladesh must invest earlier and more decisively. The next frontier of reform lies in building a universal, high-quality early childhood education system, particularly for rural and underprivileged communities.
+
+The female secondary school stipend program: A quiet revolution
+
+Among Bangladesh’s education reforms, the Female Secondary School Stipend Program stands out not only as a success, but as a global example of how targeted incentives can reshape social norms and long-term outcomes. Launched nationally in 1994, following pilots in the 1980s, the program provided cash stipends to girls enrolled in secondary school, conditional on ‘regular’ attendance, and remaining unmarried until completion.
+
+The program emerged from early experiments designed to offset the direct and opportunity costs of schooling for girls. These pilots showed immediate promise: families responded quickly, enrolment rose, and dropout rates fell. Scaling the program nationwide placed Bangladesh among the first countries to implement a large-scale, conditional stipend program for female education.
+
+My research on the FSSSP goes beyond enrolment numbers. In joint work with colleagues, I show that sustained exposure to the program significantly increased girls’ completed years of schooling, delayed marriage, and reduced fertility. The program also reshaped the marriage market: educated women were more likely to marry better-educated partners, reinforcing longer-term investments in children’s health and schooling.
+
+In related work, I document an important but often overlooked mechanism through which the program operated. Educating one adolescent girl altered how families viewed education more broadly. Younger siblings—particularly younger sisters—completed more schooling despite never being directly eligible for the stipend. These spillover effects reflect shifts in parental aspirations and household norms, rather than income alone.
+
+Taken together, the evidence suggests that the FSSSP was never simply an education subsidy. It was a policy that worked through households and social norms, setting in motion changes that extended well beyond the original beneficiaries.
+
+Complementary policies
+
+The success of the FSSSP was reinforced by a broader policy environment committed to expanding access. Compulsory primary education, the elimination of school fees, free textbook distribution, and primary-level stipends collectively reduced barriers to school entry. At the same time, NGO-led initiatives—ranging from non-formal primary schools to adult literacy programs—filled gaps in hard-to-reach communities.
+
+Together, these efforts brought nearly all children into school and narrowed gender gaps that once seemed intractable. By the early 2000s, female enrolment at the secondary level matched—and in some cases exceeded—that of boys. Bangladesh achieved what many low-income countries struggled to do: ensuring that girls were not left behind.
+
+Yet access alone could not guarantee learning or long-term success. As larger cohorts progressed through the system, weaknesses in learning quality and relevance became increasingly apparent.
+
+The emerging crisis: Dropouts, quality, and employment
+
+Despite high enrolment at the primary level, dropout rates spike sharply during secondary and higher secondary schooling. Economic pressures, early marriage, poor teacher and school quality, and limited perceived returns to education all play a role. For many families—especially in rural areas—the opportunity cost of continued schooling rises quickly once children reach adolescence.
+
+Equally troubling is the state of learning itself. National and international assessments consistently show that many students complete primary and even secondary school without mastering basic literacy, numeracy, or problem-solving skills. An education system heavily oriented toward rote learning and high-stakes examinations has struggled to equip students with capabilities demanded by a changing economy.
+
+These weaknesses translate directly into poor labour-market outcomes. A growing number of young people—armed with certificates but lacking relevant skills—struggle to find decent jobs.
+
+This disconnect between education and employment crystallised during the July 2024 student movement. While the quota system triggered the protests, the deeper grievance lay in an education model that prioritised credentials over capabilities. Years of exam-driven schooling produced graduates who were neither well matched to private-sector needs nor confident in their own employability. The protests were therefore not simply political; they were a verdict on an education system that expanded rapidly but failed to evolve alongside the economy.
+
+Why early childhood education matters
+
+The experience of the stipend program offers a powerful and applicable lesson for today’s policymakers. If investing in one adolescent girl could raise schooling outcomes for her younger siblings, the compounded return from investing even earlier in life is likely to be far greater.
+
+Decades of global research show that cognitive, linguistic, and socio-emotional skills formed in early childhood shape learning trajectories, school retention, and adult productivity. Children who enter primary school without these foundations are far more likely to fall behind and eventually drop out.
+
+Bangladesh has taken a step in this direction by introducing one year of pre-primary education attached to government primary schools. While this is a welcome first step, it falls short of what is needed. Pre-primary classrooms often operate in overcrowded schools, with limited space, poorly trained teachers, and curricula that resemble watered-down primary schooling rather than developmentally appropriate early childhood education.
+
+True early childhood education is not about introducing children early to letters and numbers. It is about structured play, social interaction, emotional development, and engaging caregivers in the learning process—elements largely missing from the current model.
+
+Evidence from rural and displaced communities
+
+My recent research on early childhood development in rural Bangladesh, supported by the UK Foreign, Commonwealth & Development Office (FCDO), demonstrates what can be achieved—even with modest resources—when programmes are designed appropriately and implemented at scale. Working across more than 220 villages, we used existing community infrastructure and locally recruited women to deliver a play-based early childhood intervention combined with structured parental engagement.
+
+The findings were clear and encouraging. Children exposed to the programme showed substantial improvements in cognitive and socio-emotional development, measured using internationally validated tools. Importantly, these gains extended beyond the targeted child: siblings within the household also benefited, pointing to strong spillover effects and shifts in household learning environments. A consistent insight from this work is that early childhood programmes are most effective when parents—especially mothers—are treated not as passive recipients, but as central agents of change.
+
+Similar principles have proven effective even in humanitarian settings. In joint work with BRAC in the Rohingya refugee camps, supported by the LEGO Foundation, we evaluated a large-scale play-based early childhood programme designed for displaced children facing trauma, instability, and severe resource constraints. Implemented through BRAC’s Humanitarian Play Lab model, the programme reached tens of thousands of children and led to improvements in language, cognitive, and motor development, alongside reductions in behavioural distress and improvements in nutritional outcomes.
+
+Centre-based provision, however, cannot reach every child—particularly in geographically dispersed or mobility-constrained settings. In parallel work supported by the World Bank, we evaluated a large-scale remote early childhood intervention delivered through basic mobile phones across roughly 300 villages. The programme provided parents with structured guidance, mentoring, and psychosocial support during children’s most formative years.
+
+Despite its low cost and minimal technological requirements, the intervention delivered meaningful improvements in early learning outcomes and maternal well-being. These findings underscore an important lesson for policy: remote and low-tech approaches are not substitutes for high-quality centres, but powerful complements. When designed around behavioural insights and caregiver engagement, they can extend reach, reduce costs, and ensure that no child is left entirely unsupported during the most critical years of development.
+
+Taken together, evidence from rural villages, refugee camps, and remote delivery platforms points to a common conclusion. Bangladesh does not lack viable early childhood models. It already has several—proven at scale, adaptable to context, and grounded in evidence. The challenge ahead is not invention, but integration.
+
+A new opportunity: Education and rural employment
+
+Investing in early childhood education also creates new employment opportunities—especially for women. The cohorts of girls who benefited from the FSSSP and other education programmes are now adults, many living in rural areas with limited job prospects. With appropriate training, these women could serve as early childhood educators, mentors, and community facilitators.
+
+Such a model would create a virtuous cycle: educated women gain meaningful local employment, young children receive high-quality early learning, and communities benefit from stronger human-capital foundations.
+
+The policy moment ahead
+
+As Bangladesh enters a new political chapter, there is an opportunity to rethink education priorities. The country has already demonstrated that bold, well-designed policies can transform outcomes. The challenge now is to move beyond access and focus squarely on quality—starting from the earliest years.
+
+This will require not only reallocating resources toward early childhood education, but also a fundamental shift in recognising that investments made before age five yield some of the highest social and economic returns. Improving training and support for educators, strengthening community-based delivery, and integrating parental engagement into program design must all be part of this effort.
+
+Urban and affluent families have already internalised this logic. The risk is that inequality will widen if public policy does not ensure similar opportunities for rural and underprivileged children.
+
+Building the foundation
+
+Bangladesh’s education story is rightly celebrated for its achievements in expanding access and promoting gender equality. Programmes such as the Female Secondary School Stipend Programme reshaped norms and demonstrated the power of evidence-driven policy.
+
+But the next phase of reform must begin earlier. Without a strong early childhood foundation, efforts to improve secondary schooling, reduce dropouts, and enhance employment outcomes will remain incomplete. Universal, high-quality early childhood education—adapted to local realities and grounded in evidence—offers a path forward.
+
+The question is no longer whether Bangladesh can deliver transformative education policies—it has already done so. The question is whether it will now choose to take the next, and perhaps most important, step.
+
+Asad Islam is a Professor of Economics at Monash Business School, Australia.

@@ -1,0 +1,67 @@
+Is Bangladesh going the wrong way on AI?
+2026-08-13T15:13:55+06:00 | Md Mabrur Husan Dihyat
+https://www.thedailystar.net/slow-reads/big-picture/news/bangladesh-going-the-wrong-way-ai-4246791
+
+Bangladesh is beginning to think seriously about artificial intelligence. Recent discussions have focused heavily on attracting investment in AI data centres and building sovereign computing capacity. That ambition is welcome. Access to computing power will increasingly shape which countries can build competitive technology companies, conduct advanced research and deploy AI at scale.
+
+But I think we are starting with the wrong question.
+
+Instead of asking how many AI data centres Bangladesh can build, we should ask something more fundamental: how can a Bangladeshi engineer, company or researcher access the same computing capabilities as their counterparts in London, Singapore or San Francisco?
+
+Much of that infrastructure already exists. Global cloud hyperscalers such as AWS, Microsoft Azure and Google Cloud offer computing resources that would be extremely expensive for Bangladesh to replicate independently. A Bangladeshi startup should not need Bangladesh to build its own hyperscaler before it can compete globally.
+
+Our first priority should therefore be to remove unnecessary barriers to using the infrastructure that already exists.
+
+Bangladesh Bank has already moved in this direction. In October 2024, it issued rules allowing authorised dealers to make outward remittances for cloud services, IT infrastructure and remote software applications. The framework was subsequently incorporated into Bangladesh Bank's broader foreign exchange rules.
+
+Why AI cannot be left unsupervised
+
+This matters because cloud computing is no longer an occasional technology purchase. For a modern software company, cloud infrastructure, databases, cybersecurity services and AI compute are basic operating expenses. As the company grows, these costs grow with it. A Bangladeshi technology business should not face unnecessary financial or regulatory friction simply because the infrastructure it needs happens to be billed from abroad.
+
+Data sovereignty is, however, a legitimate concern.
+
+Bangladesh Bank's cloud guidelines state that financial and other sensitive customer data generally cannot be hosted on a cross-border public cloud, except in exceptional circumstances with prior approval. The same guidelines also require institutions to classify information according to its sensitivity.
+
+That second principle is the one Bangladesh should build upon.
+
+Not all data is equal. A government website, an internal administrative system, citizens' financial records and military intelligence should not automatically have identical hosting requirements.
+
+The sensitivity of the data should determine where it can be stored and what security controls are required.
+
+The UK provides a useful example. British government information is classified into OFFICIAL, SECRET and TOP SECRET, with progressively stronger protections depending on the consequences of compromise. UK government guidance explicitly states that OFFICIAL information, including information carrying the SENSITIVE marking, can be stored or processed in overseas cloud regions where appropriate legal, security and data protection safeguards are in place. There is no universal requirement for OFFICIAL government information to remain physically inside the UK. Public cloud is not considered suitable for SECRET and TOP SECRET information without additional specialised arrangements.
+
+Geography is one security control. Encryption, access management, monitoring, operational expertise, backups and cybersecurity practices also determine whether a system is genuinely secure.
+
+Geography is one security control. Encryption, access management, monitoring, operational expertise, backups and cybersecurity practices also determine whether a system is genuinely secure.
+
+Bangladesh does not need to copy the British model. It needs its own classification system based on its own risks. But the principle is sound: Classify the risk first. Choose the infrastructure second.
+
+This also challenges another misconception. Storing data physically inside Bangladesh does not automatically make it secure. Geography is one security control. Encryption, access management, monitoring, operational expertise, backups and cybersecurity practices also determine whether a system is genuinely secure.
+
+None of this means Bangladesh should abandon domestic data centres. We need sovereign computing capacity for genuinely critical workloads, and we should actively encourage established global infrastructure companies to increase their presence in Bangladesh as the market grows.
+
+But there is another constraint that cannot be ignored: electricity.
+
+Which female-dominated jobs are actually the most exposed to AI?
+
+The International Energy Agency projects that electricity consumption by data centres worldwide will more than double by 2030, reaching around 945 terawatt-hours, driven largely by the rapid growth of AI.
+
+Bangladesh already has serious power reliability challenges. A recent World Bank assessment found unreliable electricity supply to be the most commonly cited business constraint among firms in Bangladesh, while the Bank has repeatedly identified improved electricity reliability as critical to private-sector growth. It is therefore reasonable to question proposals for AI campuses that would require 100 or 200 megawatts of uninterrupted electricity.
+
+The answer should not be to reject data centres. It should be to demand that major projects make economic and infrastructural sense. If an investor requires enormous amounts of reliable power, we should ask how additional generation and grid capacity will be created, who will pay for it, how cooling and water requirements will be managed, and what economic value Bangladesh will receive in return.
+
+We should also be selective about investors. A multibillion-dollar AI infrastructure proposal should require clear evidence of financing, technical capability and previous delivery at a comparable scale. Terms such as "sovereign AI", "AI factory" or "quantum-ready" should never substitute for due diligence.
+
+The better strategy is a hybrid one.
+
+Bangladeshi businesses should have easy access to global hyperscalers wherever security requirements permit. The government should create the regulatory, connectivity and energy conditions that make Bangladesh increasingly attractive to established cloud providers. At the same time, Bangladesh should develop purpose-built sovereign infrastructure for systems where national security, legal or strategic considerations genuinely require domestic control.
+
+Bangladesh does need data centres. It does need sovereign computing capability. What it does not need is to confuse physically owning servers with technological independence.
+
+The objective should be simpler and more ambitious: A Bangladeshi engineer should have access to world-class computing power without unnecessary friction, while genuinely critical national data remains appropriately protected.
+
+That would be more valuable than simply being able to say that Bangladesh has built an AI data centre.
+
+It would mean Bangladesh has developed an actual compute strategy.
+
+Md Mabrur Husan Dihyat works at Amazon Web Services (AWS) in London and has experience in cloud infrastructure, AI, security and enterprise technology. The views expressed in this article are entirely his own and do not represent those of his employer.

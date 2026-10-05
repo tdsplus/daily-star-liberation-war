@@ -1,0 +1,51 @@
+Islamic banking’s problem is the model, not the name
+2026-06-11T08:33:01+06:00 | M Kabir Hassan
+https://www.thedailystar.net/slow-reads/big-picture/news/islamic-bankings-problem-the-model-not-the-name-4195536
+
+When Miftah Ismail wrote "How Islamic is Islamic Banking?" he was doing something many in practice and academia rarely do. He said publicly what most of us say privately. While the differences between an Islamic bank and a conventional bank may still exist in name in both Pakistan and Bangladesh, the actual distinction has become largely semantic.
+
+If the profit on a Murabaha or Musharakah facility is tied to the central bank's policy rate to the basis point, if the financier has no real downside in case the client's project fails, and if depositors earn less than they would as conventional savers while the institution earns more, it is difficult to justify a separate moral economy for Islamic banks.
+
+While I intend to build upon Ismail's diagnosis, I also intend to take a step further. Ismail asked how Islamic our banking is. A more practical question might be, why did it drift away from being Islamic? I argue that it was not because of weak Sharia boards or unfaithful bankers. It was structural. Islamic finance has been guilty since day one of using the conventional fractional-reserve, debt-intermediary model of banking and of trying to make that model halal by simply renaming the contracts using Islamic legal stratagems (hiyal). The names of the contracts will never save you. The model always reverts to form because the model, not the name, determines behaviour.
+
+A machine built for interest will produce interest
+
+Let me explain what a conventional bank really is. Conventional banks accept deposits, which they promise to repay in full at par on demand. They create credit equal to multiples of these deposits through fractional-reserve credit creation. And they pocket the spread. Their liabilities consist of fixed claims on their customers, and their ability to survive is contingent on a reliable contractually specified return on their assets.
+
+Now consider taking a Murabaha contract and placing it into a conventional banking model. The conventional banking model will require that the Murabaha act as a loan. It will be fixed, time certain, and pegged to the policy rate because that is what the bank's own liability is: a fixed claim that must be repaid regardless of whether the customer succeeds or fails. Therefore, the "Islamic" contract will necessarily mimic the exact instrument it was intended to replace.
+
+That is not dishonesty. That is engineering. You cannot place a profit-and-loss-sharing ethic on top of a balance sheet designed for fixed-claim intermediation and expect that ethic to endure after contact with that accounting. That is why I stated in my previous book, The Handbook of Islamic Banking (Hassan & Lewis, 2007), as well as in subsequent comparative studies on dual banking systems, that structure determines much more than contract terminology. We developed the terminology first, but left the structure intact.
+
+The Chicago Plan got there first, and the West ignored it
+
+There is an irony here. The West identified this sickness in its banking system nearly a hundred years ago. Then it rejected the solution. During the Great Depression, a number of economists from the University of Chicago, including Henry Simons, Frank Knight, and Milton Friedman, along with Irving Fisher at Yale, collectively proposed what became known as the Chicago Plan : separate the monetary function of banking from the credit function by requiring 100% reserves against deposits. Replace lending banks with equity-funded investment trusts. Friedman advocated versions of this until his death.
+
+Irving Fisher listed several advantages of this plan that read today like an Islamic finance charter written by non-Muslims: greater control over the credit cycle, elimination of bank runs and, perhaps most relevantly, the elimination of a system in which new money must be created simultaneously with new debt. That final advantage is essentially the entire ethical objection to Riba, articulated in terms of modern monetary economics. The prohibition of interest was never simply a quaint ritualistic law. It was a rejection of allowing a nation's money supply and total debt burden to grow as one interconnected entity. From stability rather than scripture, the Chicago economists independently reached structurally Islamic conclusions: money should be fully backed, and credit should be financed with equity carried by investors who bear the risk.
+
+Islamic finance missed an opportunity to implement the Chicago Plan. Rather than pursuing that path, Islamic finance became conventional banking in Arabic.
+
+Why debt-based models are unreformable from within
+
+Hyman Minsky told us why whatever we create is unstable. According to Minsky's financial instability hypothesis, all debt-based finance is unstable from within: periods of calm lead to confidence, confidence leads to leverage, and economies slide from hedge financing (where income covers principal and interest) to speculative financing (where income covers only interest) to Ponzi financing (where borrowers must roll over their existing loans or liquidate assets merely to remain solvent). When such pyramids of rolled-over debt meet an increasing policy rate (the same rate to which our Islamic banks have anchored their 'profits'), that is when the Minsky moment occurs.
+
+How Islamic is Islamic banking?
+
+At this juncture, I believe every Sharia Board in South Asia should freeze: an equity-based profit-and-loss-sharing system cannot replicate a Minsky cycle in the same manner as debt-based systems because there is no fixed debt obligation to service, and there is no obligation on behalf of a financier to service any claim related to an asset, whether successful or unsuccessful. Profit sharing is not merely more righteous than risk shifting; it is more sustainable.
+
+The S Alam episode in Bangladesh exemplifies nothing other than a debt and collateral situation dressed in Islamic attire, precisely what a fixed-claim model creates once insiders capture it. Real equity models inhibit insider capture since the financier's returns are tied directly to success or failure in the real-world economy, not to some documented markup.
+
+A two-tier participatory architecture
+
+Redemption means leaving behind the debt model. I suggest two complementary layers.
+
+One layer consists of mutual/co-operative institutions owned by depositors. Here, savers are members of the co-operative organisation, sharing in real profit and loss rather than acting as creditors holding fixed claims on their customers' assets. As such, this represents Mudarabah taken seriously rather than merely mimicking it, and therefore eliminates the embarrassment Ismail described: Muslim savers willing to pay extra to bank prudently.
+
+These types of organisations existed prior to demutualisation in Western credit co-operatives and mutual building societies, demonstrating that there is potential for significant market share through genuine mutual ownership.
+
+The second layer represents venture/equity financing: Islamic institutions utilising Musharakah/Diminishing Musharakah as true equity/risk capital, as do venture/private equity funds. The financier conducts due diligence in order to purchase an equity position in an entrepreneurial venture or project; profits when the entrepreneur profits and loses when the venture fails. This represents Barkat (as referred to by Ismail), an incentive to provide funding to good ideas and good people rather than funding projects using collateral at policy rates.
+
+Neither layer prohibits either central banks' rate-setting or conventional banking-sector activity. Both layers merely seek to cease implying that a fixed-claim institution becomes Islamic solely because we renamed its obligation.
+
+The correct underpinning of Islamic finance lies not in assigning a halal designation to a debt contract but rather in sharing both risk and reward as partners in real enterprise (risk capital, not re-priced interest).
+
+M. Kabir Hassan is Professor of Finance and the Moffett Chair at the University of New Orleans. He is the 2016 IsDB Prize Winner in Islamic Banking and Finance.

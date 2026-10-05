@@ -1,0 +1,113 @@
+Crisis in Bangladesh’s Islamic banks: Liquidity is not capital, and a merger is not a cure
+2026-09-23T00:17:10+06:00 | M Kabir Hassan
+https://www.thedailystar.net/slow-reads/big-picture/news/crisis-bangladeshs-islamic-banks-liquidity-not-capital-and-merger-not-cure-4280351
+
+On September 9, Parliament shut a door that shouldn’t have been opened to begin with. The Bank Resolution (Amendment) Bill repealed Section 18A of the Bank Resolution Act 2026. This section allowed the previous owners of a resolved bank to buy it back for 7.5% of the public money spent to bail it out. The previous owners would pay off the remaining 92.5% over two years at 10% simple interest. Those responsible for the lending that destroyed those banks can now repurchase them at a discount using money from the very taxpayers who cleaned up the lenders' initial mess.
+
+One day later, the numbers came. At the end of June, classified loans throughout the entire banking system totalled Tk 6,06,555 crore, representing 32.78% of all disbursed loans. Just ten banks hold over 72% of that total. Bangladesh ranks higher than other countries in South Asia, where the regional average is 7.9%. However, Bangladesh is not an outlier within a regional trend. Rather, Bangladesh stands alone.
+
+The crisis in our banking system is not a technical failure of intermediation, where there also happen to be ethical questions. Rather, the crisis is that the balance sheets show Bangladesh is experiencing both an ethical collapse and an institutional collapse. Capital requirements, provisioning standards and risk weights are the tools used to measure how much damage has occurred, but they do not represent the origin of that damage.
+
+What the numbers were hiding
+
+Let us start with the question that should unsettle every supervisor, auditor and bank manager in the country. In 2023, the NPL ratio was reported at approximately 10%. It is more than 32% today. Very little of that percentage change reflects loan defaults occurring during the past 24 months. Most of the change indicates losses that were incurred earlier but were swept under the rug through repeated rescheduling, court stay orders and supervisory forbearance.
+
+Evaluating the situation honestly leads to a grave conclusion. If a reported 10% non-performing loan ratio hid a true economic ratio of nearly 30%, the banking system was essentially insolvent for many years while reporting sufficient capital. An error of such magnitude cannot simply be a clerical oversight. Significant portions of the regulatory, accounting and auditing systems were failing in their duties. Insolvency of this scale did not appear in any published data until a political transition removed those who had a vested interest in hiding it.
+
+How Islamic is Islamic banking?
+
+The mechanisms that hide the truth remain partially intact. According to Bangladesh Bank’s own data, the reported ratio fell from 35.73% in September 2025 to 30.60% in December, before rising again to 32.26% in March. The fall was not a recovery. It was merely a window of time that allowed defaulters to reclassify their outstanding balances on the basis of a down payment as small as 2%.
+
+A ratio that falls when the rules are relaxed and rises again when the rules return to normal is indicative of policy changes and does not measure actual repayment.
+
+A ratio that falls when the rules are relaxed and rises again when the rules return to normal is indicative of policy changes and does not measure actual repayment.
+
+A ratio that falls when the rules are relaxed and rises again when the rules return to normal is indicative of policy changes and does not measure actual repayment.
+
+Seven banks deferred provisioning against bad assets under a special regulatory arrangement that allowed them to disguise about Tk 1.16 lakh crore in losses in their closing financial statements for 2025. Islami Bank Bangladesh, associated with ethical finance in Bangladesh for decades, reported a consolidated profit of Tk 136 crore for 2025 despite having a shortfall of Tk 84,615 crore in provisions. Reported system capital, even at the World Bank's estimate of minus 2.6% at the end of 2025, understates the true state of affairs.
+
+The test case nobody wanted
+
+Islamic banking in Bangladesh provides an acute test case of whether formally stated ethical commitments provide protection for institutions operating in an environment where governance is compromised. The sector holds close to a fifth of national deposits and accounts for about a quarter of all financing. The sector holds nearly half of agent banking deposits and facilitates about one in every six taka of inbound remittances. It is systemically important by any definition a supervisor would use.
+
+According to the same supervisor's numbers, it is also the most damaged part of the system. According to Bangladesh Bank’s updated figures released in March, the NPL ratio for full-fledged Islamic banks was 58.4%. By contrast, for foreign commercial banks, this figure was just 6.3%, with those banks operating within the same economy, under the same macroeconomic conditions and lending to the same class of borrowers. Similarly, while the average advances-to-deposit ratio for the entire banking system was 82.7%, Islamic banks had an advances-to-deposit ratio of 120.3%.
+
+Forensic audits conducted on the five banks ultimately involved in the merger revealed default ratios ranging from 48% to as high as 98%, with three exceeding a default rate of 95%. These two columns resolve an important issue. If macroeconomic pressures were the primary driver of the crisis, then distress should be relatively evenly distributed among exposed institutions. That is clearly not happening here. Instead, the crisis exists in proportion to where ownership was concentrated, where related-party financing ran unchecked and where controlling shareholders exercised full control over the boards.
+
+Building Islamic banking on Islamic values: The case for a Qard Hasan Bank
+
+BIBM’s Governance Index marked foreign banks at 76 points, private banks at 58 points, Islamic banks at 49 points and state-owned banks at 42 points. This ordering almost perfectly mirrors the distribution of default ratios.
+
+Reading this as evidence against Islamic finance would be a categorical mistake, and I want to be precise about why.
+
+Islamic banking in Bangladesh did not fail because it followed its principles too closely. The Islamic banking sector failed because it adopted formal structures while diverging from its purpose.
+
+Islamic banking in Bangladesh did not fail because it followed its principles too closely. The Islamic banking sector failed because it adopted formal structures while diverging from its purpose.
+
+Form certified, substance abandoned
+
+Islamic banking in Bangladesh did not fail because it followed its principles too closely. The Islamic banking sector failed because it adopted formal structures while diverging from its purpose. Mark-up and lease-like contracts, including murabaha, bai-muajjal and hire purchase under shirkatul melk, make up about four-fifths of the sector's financing. On the asset side, these contracts behave like debt. The bank's profit is fixed from the beginning, and the contracts do not truly allow the bank to share the borrower's commercial risk. On the liability side, 86.87% of deposits are mudaraba accounts whose holders are theoretically capital providers who bear losses. In reality, no Bangladeshi Islamic bank has ever distributed losses to account holders. Profit equalisation, investment risk reserves and state support have kept returns close to conventional deposit rates.
+
+The sector therefore combined the credit risk of debt-based intermediation with none of the loss absorption that risk-sharing was supposed to provide. The implementation gap in the risk-sharing ideal ultimately became a source of capital fragility.
+
+Shariah supervisory boards did not catch this, and it is worth understanding why not. Such a board asks whether a murabaha has a genuine underlying asset, whether ownership was transferred correctly and whether profit was properly fixed as a mark-up. It does not usually ask whether financing is concentrated in entities related to the dominant shareholder, whether the collateral was valued at three times its worth or whether single-borrower limits have been breached. Those are prudential questions assigned to boards, internal audit and the regulator, which is to say precisely the controls that ownership concentration had disabled.
+
+Picture a murabaha extended to a shell company controlled by the dominant shareholder, secured against an inflated asset, with no real transfer of ownership. This murabaha can satisfy all the written conditions of the Shariah board yet, at the same time, fail to protect properly what depositors have entrusted to the bank. This would violate the general principles underlying murabaha structures.
+
+Islamic banking’s problem is the model, not the name
+
+A board that certifies contracts but never examines controlling-shareholder risk confers legitimacy without providing protection. That is more dangerous than no certificate at all because it attracts exactly those depositors least able to bear a loss.
+
+The principles violated here are fundamental Islamic principles: amanah in the safeguarding of deposits, adl in the allocation of credit, truthfulness in reporting and Hifz al-mal (the preservation of wealth). If protecting wealth is an objective of the Shariah, then concentration limits, related-party rules and honest provisioning are not merely matters of prudence. They are matters of Shariah, and boards that decline to examine them are not discharging their duty.
+
+Liquidity is not capital
+
+One principle should organise everything that follows. Liquidity support can carry a solvent institution through a temporary shock. It can never substitute for capital in an insolvent one.
+
+Bangladesh has now run that experiment at scale. Roughly Tk 35,300 crore of central bank liquidity went into the five weak Shariah-based banks before their resolution. It kept them open. It did not make them solvent, because their combined defaults stood at Tk 1.66 lakh crore, or 84.22% of their loans, by March. What was eventually required was capital: Sammilito Islami Bank PLC began operations in August, capitalised at Tk 35,000 crore, of which Tk 20,000 crore is direct government money, and the balance comes from converting depositors' balances into shares.
+
+Liquidity support, fiscal recapitalisation and depositor bail-in are fundamentally different tools used to address three fundamentally different problems. Using the term "rescue" for each of these tools hides the actual cost to society and obscures who will bear the financial burden. Turning deposits into equity is a legitimate tool for resolving institutions, but it imposes a loss on those who neither requested nor priced the risk involved. Bangladesh has one of the lowest tax-to-GDP ratios in the world. Every taka of public capital is directly competing with schools and clinics.
+
+The merger preserved depositor protection and operational continuity, and that was worth doing. But it is important to recognise that operational continuity is not proof of solvency. Participation banking in Turkey offers a lesson in how rapidly state-sponsored programmes can increase the sector's market share while transferring governance risks when they should instead be eliminating them. A new state-owned Shariah-based bank with 760 branches inherits that lesson, regardless of whether anyone in Dhaka chooses to learn from it.
+
+What should be done, in order
+
+Repealing Section 18A was necessary yet insufficient. Eight measures are now the top priority, and they are listed in the order in which they should be tried.
+
+Publish a bank-by-bank asset quality review within six months. It should be conducted independently and cover institutions holding at least 90% of system assets. At present, no one trusts the numbers that inform all subsequent decisions. Disclosure will move deposits towards stronger banks, which makes it essential to have expanded deposit protection and resolution protocols ready at the outset rather than introducing them only after the process has begun.
+
+Set a public, bank-specific and dated path towards expected-credit-loss provisioning ahead of the December 2027 IFRS 9 deadline. A published deadline and a clearly identified set of institutions would provide a clear picture of the transition away from forbearance.
+
+Trigger corrective action on measured capital rather than reported capital. Escalating and largely non-discretionary consequences at each threshold should accompany these corrective actions. Where an override is legitimately warranted, it should be documented and publicly reported. Informal discretion helps explain how the last decade transpired.
+
+New capital placed into an unchanged board and an unchanged related-party book is not restoration. It is refinancing the original loss.
+
+New capital placed into an unchanged board and an unchanged related-party book is not restoration. It is refinancing the original loss.
+
+Make recapitalisation conditional on governance change. New capital placed into an unchanged board and an unchanged related-party book is not restoration. It is refinancing the original loss. Board reconstitution, exposure limits and binding remediation plans should be written into the terms. A simple test should come twelve months later, asking whether the bank holds its minimum capital ratio on AQR-adjusted numbers.
+
+Designate payments, remittances, trade finance and agent banking as critical functions within the resolution framework, with pre-arranged transfer mechanisms. Improvisation is not an option when repairing a sector that handles more than one-sixth of national remittances.
+
+Create a standing Shariah-compliant emergency liquidity facility on mudaraba or collateralised wakalah terms. Published eligibility conditions, pricing and a solvency precondition should accompany it. Islamic banks cannot use an interest-based lender of last resort, which is why their emergency support has been ad hoc and discretionary. This discretion was an underlying cause of abuse.
+
+Pass an Islamic Banking Act that expands risk-sharing rather than codifying its absence. Bangladesh regulates approximately 25% of its deposits with guidelines that have only been marginally revised since being introduced in 2009 . There is no statute providing guidance on the capital treatment of profit-sharing investment accounts, no legal definition of the rights of mudaraba depositors during liquidation proceedings, and no tax neutrality associated with the numerous asset transfers required by these contracts. Malaysia's Islamic Financial Services Act 2013 provides a useful example of legislation that could serve as a model for the development of regulatory frameworks in Bangladesh. It is nonetheless important to recognise that Malaysia's Islamic Financial Services Act 2013 was effective because of the influence of Bank Negara's binding Shariah Advisory Council and specialised supervisory personnel, rather than simply because of the provisions of the law. Ultimately, the primary concern is that Bangladesh could develop a law that merely sanctions the debt-mimicking contract structures that exist today and then consider the mission complete.
+
+Abolish the minimum shareholding requirement for bank directors. Developing a regulatory framework based on fit-and-proper person assessments would represent one of the most impactful and least costly reforms currently available. No comparable jurisdictions, including India, Malaysia, Singapore and the UK, allow ownership to be considered an element of qualification for membership of bank boards. Bangladesh does allow ownership to be an element of qualification. Control exercised through family and business-group membership constitutes a systemic feature rather than merely an abusive practice. Boards should function as checks on owners and not as mere extensions of ownership. Establishing genuine fit-and-proper assessments, requiring independent board members who meet an objective test for independence, and limiting family-member representation constitute essential reforms.
+
+Two additional elements must accompany these reforms. The proposed amendments to the Bangladesh Bank Order 1972, scheduled for 2025, which grant the central bank administrative and financial autonomy and accountability to Parliament rather than to the executive, should be implemented. The IMF's 2025 Article IV Consultation similarly identified this issue in more diplomatic terms. Finally, deposit insurance coverage for Islamic banks should transition from a general-purpose deposit insurance fund with fixed premium rates to a takaful-based fund with risk-based premiums corresponding to the types of contracts it insures, particularly given that deposit insurance coverage has increased to Tk 2 lakh.
+
+The harder half
+
+None of these reforms can occur without meaningful enforcement. Single-borrower lending limits, related-party rules, classification standards and corporate governance guidelines have existed for years. These regulations did not disappear. Rather, they became unenforceable against individuals who could not be held accountable.
+
+In my BIBM survey of 205 bankers, regulators, academics and customers, 28% named political interference as the single largest cause of eroding banking ethics. Seventy-five percent pointed to loan approval and rescheduling as the most compromised functions. Eighty percent doubted that cases against senior executives are properly investigated. Deterrence works through expectation. If supervisors are perceived as unable to act against connected defaulters, then no deterrent exists.
+
+The recently announced one-time exit programme , which permits large-scale defaulters to settle debts through lump-sum payments, with interest waived at the discretion of bank boards, before the end of December, should be closely monitored rather than praised. A similar programme was introduced in 2019, permitting large-scale defaulters to regularise payments under temporarily lenient conditions, only for some to default again shortly thereafter. Recovery schemes should reflect the costs of funding sources and target legitimate failures. When they turn into time-sensitive amnesties, recovery schemes risk enabling systemic corruption.
+
+Bangladesh reached a level at which approximately 25% of total national financing was provided through Shariah-based banking before establishing laws specifically regulating Islamic banking, along with the necessary supervisory and depositor protection mechanisms. Market share was mistakenly interpreted as evidence of systemic integrity. Emerging countries seeking to develop Shariah-based finance markets should draw the lesson in its clearest form. Establishing regulations must happen before markets expand. Once markets have developed, regulation cannot simply follow without someone bearing the consequences.
+
+Bangladesh's reform question has never truly been about what the rules should say. Rather, the reform question is about who has both the authority and the incentives to enforce them. On September 9, Parliament provided part of this answer by denying failed owners permission to purchase their way back into failed entities. The remainder will be demonstrated over time by whether a supervisor can publish an unfavourable rating, downgrade a connected borrower and still keep her job.
+
+Trust in banking is not restored through mergers or ordinances. Rather, trust in banking is restored when a powerful defaulter realises that he, too, is subject to the rules, and when the people watching believe that things will continue to work this way.
+
+Dr M Kabir Hassan is a professor of finance and the Moffett Chair in the Department of Economics and Finance at LSU-New Orleans, USA. He is a Senior Fulbright Scholar, recipient of the 2016 IsDB Prize in Islamic Banking and Finance, a member of the AAOIFI Ethics and Governance Board, and Chairman of its Education Board.

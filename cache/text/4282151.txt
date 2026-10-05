@@ -1,0 +1,197 @@
+From prediction to preparedness: How AI can help us navigate climate uncertainty
+2026-09-25T00:23:28+06:00 | Faridul Alam
+https://www.thedailystar.net/slow-reads/big-picture/news/prediction-preparedness-how-ai-can-help-us-navigate-climate-uncertainty-4282151
+
+A Lighter Journey Environmentalism has always carried considerable intellectual luggage. Emerging in the second half of the twentieth century, it developed against a long historical transition from pre-industrial economies to industrial and, later, post-industrial systems organised around expanding regimes of production, distribution, and consumption. The successive movement from agrarian economies to industrial production and, later, to globally networked systems of consumption and exchange dramatically intensified humanity's metabolic relationship with the Earth. Across this arc, the human relationship with nature was transformed: the Earth increasingly appeared not as an external backdrop to social life but as an integrated field of extraction, circulation, transformation, and risk.
+
+Within this historical reconfiguration, environmentalism acquired a powerful set of narratives about the relationship between nature, technology, and modern civilisation. It warned of ecological limits, questioned the sustainability of perpetual economic growth, and often framed industrial modernity as structurally antagonistic to ecological stability.
+
+These narratives were intellectually and politically consequential. They transformed public consciousness, reshaped environmental discourse, generated new forms of environmental knowledge, inspired social movements, and compelled states and corporations to institutionalise environmental governance through regulations, treaties, and sustainability regimes. Yet a striking paradox persisted. Environmental awareness became globally normalised even as many indicators of ecological stress continued to worsen. The expansion of environmental discourse did not produce commensurate ecological outcomes. The gap between discursive consolidation and material transformation remains one of the central tensions of contemporary environmental history.
+
+What Nepal’s flood devastation means for Bangladesh, India and China
+
+But the planetary situation has now acquired an additional urgency. The c atastrophic glacier-and-rock collapse and flooding along the Nepal-Tibet border in August 2026, followed by devastating consequences downstream, brought into extraordinary relief the possibility that apparently distant processes—warming, glacier retreat, unstable mountain terrain, extreme precipitation, rivers, infrastructure, and human settlement—can suddenly converge in a single cascading disaster. Scientists have cautioned that the precise contribution of climate change to the particular collapse requires further investigation, but the broader destabilisation of high-mountain environments under warming conditions is increasingly difficult to ignore.
+
+The significance of such events extends beyond their immediate destruction. They force environmental thought to reconsider a central assumption: that abandoning grand narratives necessarily means moving towards a more fragmented understanding of planetary change. Perhaps the more difficult reality is that while no single deterministic narrative can adequately explain the Earth system, an increasing number of apparently disparate events are beginning to reveal a common planetary direction.
+
+The Retreat of Grand Narratives Contemporary environmentalism increasingly appears to be travelling lighter. Not because ecological risk has diminished, but because the interpretive frameworks that once organised environmental thought have become harder to sustain in their totalising form.
+
+The accumulation of planetary evidence has complicated earlier narratives of linear decline or civilisational overshoot. Environmental trajectories remain uneven rather than uniform. Climate change accelerates, biodiversity loss deepens, yet air quality has improved across many industrial societies, certain ecosystems have recovered under regulatory protection, and several pollutants once considered persistent have been substantially reduced through technological innovation and institutional intervention. The evidence continues to point towards a planetary condition characterised simultaneously by crisis and adaptation, vulnerability and resilience.
+
+But the events of recent years complicate the complication itself.
+
+The problem is no longer simply that environmental change proceeds along different trajectories. It is that apparently different trajectories can converge through the Earth system. Glacier retreat can become flood risk. Heat can become drought. Drought can become wildfire. Warmer air can hold more moisture, contributing, under appropriate atmospheric conditions, to episodes of extreme rainfall. A changing cryosphere can alter river systems, ecosystems, infrastructure, and human settlement simultaneously.
+
+The catastrophic events of 2026 make this convergence unusually visible. Western Europe experienced repeated heatwaves and exceptionally dry conditions, with July following an already extraordinary June–July period in which temperatures reached record levels across much of the region. The heat and drought also contributed to conditions favourable for severe wildfires. The contiguous United States experienced its warmest July on record, even as individual regions simultaneously experienced major flash-flooding events. Japan, meanwhile, experienced torrential rainfall, flooding, landslides, and river overflows, while parts of Saudi Arabia—ordinarily imagined through the vocabulary of aridity rather than inundation—were repeatedly placed under warnings for torrential rain and flash floods.
+
+The significance lies not in treating every extreme event as a simple consequence of climate change. That would reproduce the very determinism this essay seeks to avoid. The significance lies instead in recognising a pattern of converging vulnerability.
+
+Environmental trajectories may remain differentiated, but their interactions are becoming increasingly difficult to treat as isolated.
+
+Why AI cannot be left unsupervised
+
+The Data Revolution and Planetary Observation This epistemic shift is inseparable from a transformation in the conditions of environmental knowledge.
+
+Environmental science in the 1960s and 1970s operated under conditions of informational scarcity. Researchers relied on fragmented datasets, localised observations, periodic surveys, and limited computational capacities. Much of the planet remained only partially visible through scientific instruments.
+
+Today, the Earth is continuously observed. Satellite systems monitor atmospheric composition, ocean temperatures, ice-sheet dynamics, vegetation cover, and land-use change in near real time. Remote sensing technologies track deforestation with extraordinary precision. Ocean buoys, sensor networks, seismic instruments, and global modelling infrastructures generate continuous streams of ecological information.
+
+What has emerged is not simply more information but a fundamentally different epistemic condition: planetary observability. The Earth is now simultaneously measured, modelled, and simulated across multiple scales.
+
+Yet planetary observability produces a paradox. The more visible the Earth becomes, the less plausible simple explanations become. Greater visibility reveals complexity, feedback, interaction, and contingency. It makes it harder to say that one process produces one predictable outcome.
+
+But planetary observation has also begun to reveal something else: recurrence.
+
+The question is no longer merely whether individual events can be predicted with certainty. It is whether repeated observations across different regions are beginning to establish sufficiently robust patterns that uncertainty about individual events can no longer be confused with uncertainty about the direction of systemic change.
+
+That distinction is crucial.
+
+We may not know precisely where the next glacier collapse will occur, when a particular heat dome will form, which forest will burn, or where an extreme rainfall event will overwhelm infrastructure. But the inability to predict individual events does not imply an inability to recognise a changing risk landscape.
+
+The Earth may therefore be becoming simultaneously less predictable and more legible.
+
+Environmentalists are travelling light because they now carry fewer fixed assumptions: fewer universal theories of collapse or redemption, fewer rigid separations between nature and society, and fewer deterministic accounts of historical destiny. But perhaps they can no longer afford to travel quite as lightly as before. The point is not to restore the old luggage of environmental apocalypse. Nor is it to resurrect a totalising narrative in which every ecological event confirms an already predetermined future.
+
+Environmentalists are travelling light because they now carry fewer fixed assumptions: fewer universal theories of collapse or redemption, fewer rigid separations between nature and society, and fewer deterministic accounts of historical destiny. But perhaps they can no longer afford to travel quite as lightly as before. The point is not to restore the old luggage of environmental apocalypse. Nor is it to resurrect a totalising narrative in which every ecological event confirms an already predetermined future.
+
+The Anthropocene and the Collapse of Separation The idea that human beings can alter the Earth on a planetary scale predates the term Anthropocene. In the nineteenth century, the Italian geologist Antonio Stoppani proposed an "Anthropozoic Era", while George Perkins Marsh argued in Man and Nature (1864) that human activities were already transforming landscapes and ecosystems. Yet these early formulations preserved a fundamental distinction between human history and natural history.
+
+The contemporary concept emerged from late twentieth-century Earth system science, which reconceived the planet as an interconnected and dynamically integrated system. Around 2000, Paul Crutzen and Eugene F. Stoermer introduced the term Anthropocene to designate an epoch in which human activity functions as a geological force capable of reshaping climate, biodiversity, and biogeochemical cycles. This understanding gained empirical grounding through the notion of the Great Acceleration, associated with Earth system scientists such as Will Steffen, documenting the dramatic post-1945 expansion of industrial production, energy consumption, resource extraction, and environmental impact.
+
+Why is it so hot? Inside South Asia’s dangerous heat wave
+
+Against this backdrop, Dipesh Chakrabarty argues in The Climate of History in a Planetary Age that the Anthropocene forces a confrontation between two previously separate registers of history: the history of human institutions and the deep history of Earth systems. The human being appears simultaneously as historical agent and biological species, as maker of planetary transformations and as an organism embedded within those very transformations.
+
+Recent events make this collapse of separation increasingly concrete.
+
+The Nepal disaster is instructive precisely because it resists disciplinary compartmentalisation. It cannot be understood adequately as merely a geological event, merely a glacial event, merely a hydrological event, or merely a climate event. Satellite observations showed a massive slope failure involving glacier and rock, while the resulting flood and debris flow propagated roughly 100 kilometres. The US Geological Survey has emphasised that the precise classification of the initial failure remains under investigation.
+
+This is the Anthropocene in its most unsettling form: not nature disappearing into human society, but the boundaries between geological, climatic, ecological , technological, and social processes becoming increasingly difficult to maintain.
+
+From Complexity to Convergence Contemporary environmental science increasingly treats Earth systems as complex adaptive systems characterised by nonlinear dynamics, feedback loops, threshold effects, and emergent properties. In such systems, causality is distributed, outcomes remain contingent, and predictability is inherently limited.
+
+This understanding does not weaken environmental analysis; it fundamentally reorients it.
+
+But complexity should not become an alibi for indeterminacy.
+
+There is an important difference between saying that we cannot predict exactly how a complex system will behave and saying that we cannot identify the direction in which risks are accumulating.
+
+The distinction becomes particularly important in relation to thresholds. A system may absorb incremental changes for years without producing an obvious discontinuity. Then a threshold is crossed, and what appeared to be gradual change becomes abrupt transformation.
+
+End of reading? A post-literate society in the making
+
+The Himalayan cryosphere illustrates this problem with particular force. Recent research on the 2024 disaster in Nepal's Thame Valley has shown how a cascading glacial lake outburst flood can arise when the outburst of an upstream glacial lake triggers the failure of a downstream lake, with glacier melt, extreme temperatures, precipitation, lake overtopping, and downstream vulnerability interacting in ways that conventional hazard assessments may fail to capture.
+
+The issue, therefore, is not simply whether environmental systems are predictable. It is whether our institutions are prepared for systems whose predictability decreases precisely as the consequences of threshold crossing increase.
+
+What emerges from this is neither a return to deterministic environmental narratives nor a retreat into radical uncertainty. It is a more modest but potentially more useful proposition: a narrative of convergence without determinism.
+
+Different environmental processes need not share a single cause to become mutually consequential. Their interactions can produce systemic effects even when their individual trajectories remain uncertain.
+
+That distinction will become increasingly important as planetary observation reveals more instances in which apparently separate disturbances interact across geographical and disciplinary boundaries.
+
+Environmental thought consequently requires neither a return to grand narratives nor a retreat into scepticism. It requires a more difficult intellectual position: epistemic humility without climatic agnosticism. We should acknowledge uncertainty without surrendering judgement, complexity without surrendering pattern recognition, and contingency without surrendering responsibility. The task is not to predict the planetary future with certainty. It is to recognise when uncertainty itself is becoming dangerous.
+
+Environmental thought consequently requires neither a return to grand narratives nor a retreat into scepticism. It requires a more difficult intellectual position: epistemic humility without climatic agnosticism. We should acknowledge uncertainty without surrendering judgement, complexity without surrendering pattern recognition, and contingency without surrendering responsibility. The task is not to predict the planetary future with certainty. It is to recognise when uncertainty itself is becoming dangerous.
+
+Why the Present Moment Is Different The summer of 2026 has provided an unusually dense empirical illustration of this emerging pattern.
+
+Western Europe experienced prolonged and exceptional heat. The European Union's Copernicus Climate Change Service reported that western Europe experienced its hottest June–July period on record, accompanied by persistent dryness and intensifying wildfire conditions. The United Kingdom subsequently recorded its hottest summer on record, while drought, wildfires, and heat-related health impacts compounded the effects of sustained high temperatures.
+
+The contiguous United States experienced its warmest July on record, according to NOAA, even as major regional flooding occurred elsewhere across the country.
+
+Japan experienced episodes of torrential rainfall accompanied by flooding, landslides, and river overflows. Saudi Arabia, despite its association with aridity, also experienced repeated episodes of heavy rainfall and flash-flood risk, including in parts of Jazan, Asir, and Makkah.
+
+Meanwhile, the Alps continued to exhibit signs of accelerating cryospheric and permafrost instability, increasing concern about rockfall, slope failure, and other hazards in high-mountain environments.
+
+The Himalayas present a particularly dramatic counterpart. The catastrophic glacier-and-rock collapse near the Nepal-Tibet border in August 2026 produced a cascading flood and debris flow extending roughly 100 kilometres. The precise contribution of climate change to that particular collapse remains a matter for scientific investigation. Yet the broader destabilisation of high-mountain environments under warming conditions is increasingly well documented.
+
+These events should not be collapsed into a single causal explanation. Heatwaves, floods, wildfires, glacier failures, and landslides arise through different combinations of atmospheric, hydrological, geological, ecological, and human factors.
+
+Their significance lies elsewhere.
+
+They demonstrate how geographically distant hazards can increasingly occupy the same field of systemic vulnerability.
+
+The events are distinct. The mechanisms vary. The regions span different geographies.
+
+The exposure to climatic volatility does not.
+
+Travelling Light, Not Travelling Comfortably Environmentalists are travelling light because they now carry fewer fixed assumptions: fewer universal theories of collapse or redemption, fewer rigid separations between nature and society, and fewer deterministic accounts of historical destiny.
+
+But perhaps they can no longer afford to travel quite as lightly as before.
+
+The point is not to restore the old luggage of environmental apocalypse. Nor is it to resurrect a totalising narrative in which every ecological event confirms an already predetermined future.
+
+It is to recognise that epistemic humility has limits.
+
+We should remain humble about prediction and cautious about causal attribution. We should recognise regional differences, feedback effects, nonlinearities, and the possibility of adaptation and recovery.
+
+But humility about what we cannot know should not become scepticism about what we already know.
+
+Glaciers are retreating. High-mountain environments are becoming increasingly unstable. Heat extremes are intensifying in many regions . Warming interacts with drought, vegetation dryness, atmospheric moisture, precipitation, and other processes to alter the probability and severity of extreme events. Human vulnerability is unevenly distributed, while infrastructure built around historical climatic conditions can become maladapted as those conditions change.
+
+The challenge is therefore no longer simply to abandon grand narratives. It is to develop appropriately scaled narratives—narratives capable of recognising planetary patterns without pretending that planetary processes are mechanically predictable.
+
+From Prediction to Preparedness The convergence of climatic disruptions across seemingly distant regions exposes a deeper problem: the limits of prediction itself. We have become extraordinarily capable of observing the planet without becoming equally capable of anticipating what its increasingly interconnected systems will do next. Satellites, sensors, climate models, and vast computational infrastructures have given us an unprecedented capacity to see planetary change in near real time. Yet greater observability has not eliminated uncertainty. It has often made the complexity of feedbacks, thresholds, and cascading effects more apparent.
+
+This is where artificial intelligence assumes a significance that extends beyond its familiar association with automation, productivity, or technological novelty. If climate change increasingly confronts us with a world in which prediction is indispensable yet inherently limited, AI may be valuable not because it can overcome uncertainty, but because it can help us reason and act more intelligently within it.
+
+AI systems can process enormous volumes of heterogeneous information—meteorological observations, satellite imagery, hydrological data, geological measurements, agricultural patterns, infrastructure conditions, demographic movements, food supplies, and historical records—at scales difficult for unaided human analysis to manage. Their potential lies not simply in producing more sophisticated forecasts, but in identifying relationships and emerging patterns across domains that conventional analytical systems or individual observers may struggle to perceive.
+
+Yet the distinction between prediction and preparedness is crucial. A prediction seeks to tell us what will happen; preparedness asks what we should be capable of doing if several plausible things happen. The former is oriented towards certainty, however provisional; the latter towards resilience in the face of uncertainty.
+
+AI may therefore be most valuable not as an oracle of the planetary future but as an instrument for expanding the range of futures against which societies can prepare.
+
+Imagine an AI system continuously integrating changing rainfall patterns, glacial conditions, river levels, soil moisture, wildfire risk, infrastructure vulnerabilities, population density, food supplies, and migration patterns. Its significance would not depend upon predicting perfectly where the next flood, fire, drought, or landslide will occur. Its greater value might lie in identifying combinations of conditions under which seemingly separate risks could interact, revealing vulnerabilities before they become catastrophes.
+
+AI cannot reverse climatic convergence. Nor can it tell us with certainty what the planet will look like several decades from now. But it may help us develop a different relationship to uncertainty—one based less on the fantasy of prediction and more on the discipline of preparedness. AI may not give us certainty about the planetary future; it may give us a greater capacity to act intelligently without certainty.
+
+AI cannot reverse climatic convergence. Nor can it tell us with certainty what the planet will look like several decades from now. But it may help us develop a different relationship to uncertainty—one based less on the fantasy of prediction and more on the discipline of preparedness. AI may not give us certainty about the planetary future; it may give us a greater capacity to act intelligently without certainty.
+
+Such a system could help governments and communities ask not simply, ‘What is going to happen?’ but, ‘What becomes possible if these conditions converge? What would fail first? Where are our greatest vulnerabilities? And what can we do now to reduce the consequences?’
+
+This would represent a subtle transformation in the meaning of planetary intelligence. Intelligence would no longer be measured primarily by our capacity to predict the future with increasing precision. It would also be measured by our capacity to remain adaptive when prediction fails.
+
+There is, however, a danger in assigning AI too much epistemic authority . The same systems that reveal patterns can reproduce biases embedded in their data; the same models that expand our field of vision can create an illusion of comprehensiveness. Climatic systems are not merely datasets waiting to be decoded. They are dynamic, open, and historically contingent systems in which unprecedented events may emerge precisely because established patterns are being disrupted, creating conditions for new ones to arise.
+
+AI can therefore assist judgement, but it cannot abolish the need for human judgement and oversight. Nor should computational sophistication become a new form of technological determinism in which whatever can be modelled comes to be treated as what must be done.
+
+Its more responsible role may be to augment our capacity for preparedness under conditions of incomplete knowledge. AI can help construct scenarios, detect weak signals, map cascading risks, compare possible interventions, identify vulnerable populations and infrastructures, and continually revise assumptions as new evidence arrives. Its greatest contribution may ultimately be epistemic rather than predictive: helping us know what we do not know, and helping us act despite that knowledge.
+
+AI cannot reverse climatic convergence. Nor can it tell us with certainty what the planet will look like several decades from now. But it may help us develop a different relationship to uncertainty—one based less on the fantasy of prediction and more on the discipline of preparedness.
+
+AI may not give us certainty about the planetary future; it may give us a greater capacity to act intelligently without certainty.
+
+That may ultimately be the more consequential promise. The question is no longer whether we can predict every disruption before it occurs. It is whether we can build societies sufficiently attentive, adaptive, and resilient to respond intelligently when the future refuses to conform to our predictions. In an age of climatic convergence, preparedness may therefore become a more realistic measure of intelligence than prediction—and perhaps a more responsible measure of civilisation itself.
+
+Epistemic Humility Under Planetary Constraint Environmentalism is travelling light because certainty has become intellectually unsustainable, not because danger has diminished.
+
+If anything, the events of 2026 suggest that the opposite may be true. The weakening of deterministic narratives has coincided with an extraordinary expansion in the visibility of planetary risk. The Earth system appears less like a machine moving along a single predictable trajectory than like a complex field in which different processes can suddenly reinforce one another.
+
+A grand narrative tells us where history must end.
+
+A scientific understanding of planetary convergence tells us where risks are accumulating.
+
+The first invites certainty. The second demands vigilance.
+
+The Anthropocene therefore does not yield a new master narrative of planetary history. It names instead a condition in which human activity has become entangled with Earth-system processes whose consequences exceed the temporal and institutional horizons within which most human decisions are made.
+
+The lesson of the glacier-and-rock collapse in the Himalayas, the heatwaves and wildfires of Europe, the record warmth and regional flooding of the United States, the torrential rains of Japan, and extreme rainfall in Saudi Arabia is not that these events share a single cause. They do not. It is that their interactions with human vulnerability are becoming increasingly difficult to treat as a collection of discrete environmental problems awaiting discrete technical solutions.
+
+The emerging problem is systemic.
+
+Environmental thought consequently requires neither a return to grand narratives nor a retreat into scepticism. It requires a more difficult intellectual position: epistemic humility without climatic agnosticism.
+
+We should acknowledge uncertainty without surrendering judgement, complexity without surrendering pattern recognition, and contingency without surrendering responsibility.
+
+The task is not to predict the planetary future with certainty. It is to recognise when uncertainty itself is becoming dangerous.
+
+Ecological thresholds may be approached gradually yet crossed abruptly. Glacier systems may retreat incrementally yet fail suddenly. Heat may accumulate invisibly until it becomes lethal. Forests may dry progressively before fire transforms landscapes within hours. Rainfall patterns may shift until infrastructure designed for another climatic regime can no longer absorb them.
+
+In such a world, uncertainty does not diminish responsibility. It intensifies it.
+
+To travel light, then, is not to abandon concern but to relinquish the illusion that certainty is a prerequisite for action. Environmental thought must move without the burden of a predetermined ending while carrying something more difficult to abandon: the recognition that the planetary system is changing, that its components are increasingly interacting, and that waiting for complete certainty may itself carry irreversible costs. The goal is therefore neither prophecy nor paralysis.
+
+It is preparedness under conditions of incomplete knowledge. That may be the most intellectually honest form of environmentalism available to us now.
+
+Dr. Faridul Alam , a former academic, writes from New York City.

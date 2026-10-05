@@ -1,0 +1,41 @@
+Is Bangladesh’s garment industry ready for the next shock?
+2026-08-19T00:25:00+06:00 | Aminul Huda Aman, Laura Boudreau, Rachel Heath
+https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-garment-industry-ready-the-next-shock-4250891
+
+Bangladesh's ready-made garment (RMG) sector employs over four million workers and generates over 80% of the country's export earnings. That concentration has powered decades of growth. It also means that whenever a shock hits — a global recession, a pandemic, a change in a foreign government's trade policy — it lands on nearly the entire export economy at once. And these shocks are coming more often: the 2008–09 financial crisis, COVID-19, and in 2025, the Trump administration's “Liberation Day” tariffs. Climate disruptions to cotton supply chains and shipping routes loom as the next in line.
+
+On 2 April 2025, President Trump announced a 37% “reciprocal” tariff on Bangladeshi exports to the US — more than double the country's prior average rate of 15.7% — as part of a sweeping overhaul of US trade policy. The US buys about one-fifth of Bangladesh's garment exports, so the announcement mattered enormously for an export sector this concentrated, and it offered a real-time test of whether the sector could absorb and respond to a shock swiftly.
+
+Towards a 'just transition' in the labour market: Rights, gender and environment
+
+It could not — at least not yet. We surveyed 1,146 senior managers, 1,304 HR managers, and 2,849 workers across major garment-manufacturing hubs (Gazipur, Narayanganj, Savar) in August–September 2025, extending an ongoing panel study. The results are a warning that the sector is ill-prepared to weather the next shock, whatever form it takes.
+
+Without knowing their employer is exposed to a foreign policy shock, workers cannot take precautionary steps, such as saving more or looking for other work, that will cushion them if the shock materialises.
+
+Without knowing their employer is exposed to a foreign policy shock, workers cannot take precautionary steps, such as saving more or looking for other work, that will cushion them if the shock materialises.
+
+Beginning with workers, more than 80% did not know which country their factory's products were sold to. Only around 30% were aware of the US tariff change at all — including workers at factories that export directly to the US. Without knowing their employer is exposed to a foreign policy shock, workers cannot take precautionary steps, such as saving more or looking for other work, that will cushion them if the shock materialises.
+
+Managers were far more likely to eventually learn of the change, but the diffusion was strikingly slow. About 70% of managers only learned of the tariffs in June 2025 or later — more than two months after the announcement. Even among managers at US-exposed factories, who had the most at stake, only 32% knew before June (Figure 1). Social media was the most common channel through which managers learned about the changes.
+
+Figure 1: Timing of when managers learned about US tariff changes
+
+Slow information was compounded by confused information. The US policy evolved significantly between April and September 2025 — a 37% proposal, a 90-day pause, a reduction to 35%, a negotiated 20% — and most managers, even at US-exposed firms, could not correctly say whether tariffs on Bangladesh were going up or down. A fast-moving, complicated policy left the people meant to respond to it uncertain about its basic direction.
+
+Buyers did not wait for that clarity to arrive. By September 2025, 28% of manufacturers with active US buyers reported that at least one (of their two largest) buyer had renegotiated or cancelled an order, mostly through downsizing, price cuts, or rushed delivery deadlines. Buyers, in other words, were already adjusting while much of the sector was still catching up on the news.
+
+Which female-dominated jobs are actually the most exposed to AI?
+
+Reflecting the high level of uncertainty about future US policy changes, there was substantial dispersion of beliefs about what would come next. Asked how tariffs would affect their factory's production over the coming year, managers' and workers' answers were scattered across “no effect,” “increase,” and “decrease” — with little consensus even within the US exposure group (Figure 2). Workers across all exposure groups predominantly expected tariffs to either increase or not affect their factory’s production and employment, consistent with limited understanding of the economics of tariff increases on export demand. This uncertainty may contribute to “wait-and-see” behaviour by firms, contributing to the lack of responsiveness to the US policy announcement and possibly causing them to delay investments.
+
+Figure 2: Expectations for how US tariffs will impact factory’s production
+
+(a) Managers
+
+(b) Workers
+
+To its credit, the sector weathered this particular shock without a detectable employment downturn — at least through the end of our dataset in September 2025. But the underlying vulnerability is structural: a heavily concentrated export sector, with slow and highly uneven information diffusion, is not equipped to respond quickly to whatever the next shock turns out to be.
+
+A key implication is to strengthen how quickly and reliably trade information reaches both managers and workers, via timely, visible communication by government agencies such as the Ministry of Commerce and the Ministry of Labour and Employment and trade associations such as the BGMEA and BKMEA, and via the deepening of traditional media markets. In the longer term, Bangladesh needs to diversify the jobs available outside garments. These measures would leave Bangladesh better placed the next time the ground shifts.
+
+Aminul Huda Aman is Country Economist at the International Growth Centre (IGC)-Bangladesh; Laura Boudreau is Associate Professor of Economics at Columbia Business School, Columbia University; and Rachel Heath is Professor of Economics at the University of Washington.

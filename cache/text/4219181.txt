@@ -1,0 +1,141 @@
+Why Bangladesh’s children are in school but not learning
+2026-07-09T00:12:02+06:00 | John Richards & Shahidul Islam
+https://www.thedailystar.net/slow-reads/big-picture/news/why-bangladeshs-children-are-school-not-learning-4219181
+
+Sub-Saharan Africa and South Asia are the only regions where the majority of young teenage children cannot read, and the majority will probably not achieve literacy as adults. The consequences extend far beyond the education sector. At a time when artificial intelligence, automation, and other technological advances are reshaping labour markets, and countries are seeking to build knowledge-based economies, Bangladesh has a workforce in which more than half lack functional literacy and numeracy.
+
+Bangladesh has struggled for nearly five decades to secure foundational literacy and numeracy for all children. Successive governments have made progress, but not enough to justify complacency. For the new government, this is both an urgent challenge and an opportunity to reassess existing plans and learn systematically from past policy and implementation failures.
+
+Government to fix learning standards in pry schools
+
+The only country in South Asia with universal foundational learning is Sri Lanka. Despite its political conflicts, it has made education a central national development priority for a century.
+
+Completion of the primary cycle for all children was the UN's second Millennium Development Goal (MDG2). 2015 was the target date. In South Asia, by 2015, nearly all children were in school, but most could not read. The sequel is the UN's fourth Sustainable Development Goal (SDG4), with 2030 as the target date: "By 2030, ensure that all girls and boys complete free, equitable, and quality primary and secondary education leading to relevant and effective learning outcomes." In South Asia, the target will not be realised in 2030, just as it was not in 2015.
+
+What is basic literacy?
+
+In the 2010s, Jim Yong Kim, a Korean physician and head of the World Bank, vented his frustration in a major World Bank report: "What is important, and what generates a real return on investment, is learning and acquiring skills. This is what truly builds human capital … in many countries and communities, learning isn't happening. Schooling without learning is a terrible waste of precious resources and of human potential."
+
+Frustrated by endless debates over the definition, the World Bank in the 2010s "cut the Gordian knot" by defining learning poverty as children aged 10–14 who are unable to read a 100-word story at approximately Grade 2 level fluently. The definition of basic literacy is implicit: children in the relevant age cohort (10–14) minus those suffering from learning poverty (see Box 1).
+
+Using this definition, the World Bank published basic literacy rates for regions: 40% in South Asia and 14% in Sub-Saharan Africa, as well as for 78 individual countries. The basic literacy rate in Sri Lanka is 85% (= 100% [all Sri Lankan children aged 10–14] minus 15% [Sri Lankan children aged 10–14 unable to read a 100-word story]). The basic literacy rate in India is 44% (= 100% minus 56%); the rate in Bangladesh is 42% (= 100% minus 58%); the rate in Pakistan is 23% (= 100% minus 77%). Data are unavailable for Nepal.
+
+The World Bank's learning poverty statistic is an assessment of the inability to read, at a basic grade 2 level, among national cohorts of children aged 10–14. The basic grade 2 literacy rate in a country is defined as 100% minus the learning poverty rate. In this age cohort, students are expected to be in an upper primary grade or to have completed the primary cycle. The learning poverty rate is defined as the sum of two subsets:
+
+children in the age cohort who are not in school, and hence experiencing "school deprivation" and are expected to be illiterate;
+
+children in the age cohort who are in school but are unable to read short texts in the relevant language at the grade 2 level, and are therefore experiencing "learning deprivation".
+
+Parents want their children to learn
+
+From 2013 to 2024, enrolment in Bangladesh's government primary schools declined dramatically, by 40%! The number of families with sufficient income to pay student fees in either kindergarten (low-cost) or private (high-cost) schools has more than doubled. Enrolment in madrasahs and NGO schools has also increased substantially.
+
+Why have parents in South Asia abandoned government primary schools?
+
+Sri Lanka experienced a civil war for over three decades, from 1980 to 2009. It faces educational challenges in teaching students to learn both Sinhalese and Tamil. As defined by the World Bank, Sri Lanka has nonetheless sustained a low level of learning poverty, which implies a near-universal basic literacy rate. However, in the three large-population countries of India, Pakistan, and Bangladesh, the World Bank concludes that the majority of children aged 10–14 cannot read at the basic level and are therefore experiencing high levels of learning poverty.
+
+In both Dhaka and Delhi, the central governments provide a second source of evidence on students' ability to read in government primary schools: the National Student Assessment (NSA) in Bangladesh and the Rashtriya Sarvekshan (PARAKH) in India. Both countries conduct large-scale, in-school random-sample assessments using similar protocols, based on grade and curriculum, which evaluate students' ability to read and do basic arithmetic in grade 3 and the final year of primary school, grade 5.
+
+The protocols classify results into one of four categories: "below basic", "basic", "proficient", and "advanced". The first two categories are deemed undesirable; the third and fourth are deemed desirable. In both India and Bangladesh, the average grade 5 results in government schools are consistently at the undesirable "basic" level. In other words, only a minority of students in government schools are in the desirable categories.
+
+The third source of evidence for children in rural India comes from the large, biennial, at-home ASER surveys of children organised by Pratham, an NGO. The ASER reading protocol is simple: can students read a 100-word story at a basic grade 2 level fluently? Since 2012, the surveys have consistently found average grade 5 results in government schools below 50%. Admittedly, in three states—Kerala, Himachal Pradesh, and Punjab—the majority of grade 5 students in government primary schools can consistently read at least a basic 100-word story. This is not the case in the other 25 Indian states.
+
+The crisis has no single cause; rather, it reflects five interconnected historical, institutional, fiscal, and governance obstacles that repeatedly prevent government primary schools from converting schooling into learning.
+
+The burden of history
+
+The burden of history
+
+In India, high-caste Hindus ensure that their children acquire literacy at an early age. When India became an independent country in 1947, the Brahmin majority among government officials in Delhi emphasised secondary and tertiary education, not primary education. Since the Bangladesh Liberation War in 1971, the Department of Primary Education (DPE) in Dhaka has followed much of the inadequate education strategy adopted in Delhi.
+
+Weak teacher training and a lack of a professional culture among teachers
+
+Weak teacher training and a lack of a professional culture among teachers
+
+In both India and Bangladesh, most government primary school teachers receive degrees from teacher training centres, but they do not consider themselves professionals committed to teaching students the ability to read and do basic arithmetic. In both countries, teachers are civil servants with salaries based on negotiations between teachers' associations and governments, with few incentives linked to learning outcomes. Governments and teachers' associations (at the state level in India and centrally in Bangladesh) bargain over teachers' remuneration and working conditions; they do not concern themselves with students' learning outcomes.
+
+Corruption
+
+Corruption
+
+In South Asian countries, there are many forms of government corruption. For example, printers may leak examination questions; companies may pay baksheesh for contracts to publish school textbooks; teachers may take paid leave in order to campaign on behalf of the governing political party. Probably the most important dimension of corruption is teachers paying to transfer from a remote school to a more desirable one.
+
+Weak taxing effort
+
+Weak taxing effort
+
+South Asian governments do not spend enough to offer remuneration that would attract young people into teaching as a profession. These governments justify low levels of taxation and low budgets for government primary schools because teachers are treated as low-level civil servants, with few professional expectations.
+
+Lack of ‘coherent’ management of government primary schools
+
+Lack of ‘coherent’ management of government primary schools
+
+Many developing countries in East and Southeast Asia have taken seriously the creation of coherent relationships among the institutions necessary for an effective school system. With the exception of Sri Lanka, education management in South Asia is incoherent.
+
+Determine central budget priorities that ensure the ability to finance quality schools
+
+As with officials, politicians may engage in rent-seeking
+
+Politicians in office may expect government school teachers to support the government party during election campaigns
+
+Pursue teacher certification standards based on best practice;
+
+Adopt new teaching techniques based on evaluation of outcomes;
+
+Contribute to the design of tests and assessments of student learning.
+
+Contribute to curriculum design.
+
+Accept conventions whereby applicants pay officials and/or politicians to obtain teaching positions.
+
+Pursue salary gains well beyond international norms;
+
+Oppose professional evaluation
+
+Engage in extensive private tutoring (for pay) of students in their respective schools
+
+Coordinate student and teacher obligations;
+
+Address major learning problems in school
+
+Play a role in the hiring and promotion of teachers
+
+Engage in favouritism (e.g., adjust student assessments in exchange for favours)
+
+Leak examination answers.
+
+Ensure the quality of school infrastructure;
+
+Ensure the timely supply of textbooks and other teaching materials.
+
+Establish school funding formulas that ensure reasonable equity in school funding based on student numbers and the needs of students with special educational needs.
+
+Engage in rent-seeking by, for example, insisting on payment for the performance of services
+
+Support professional, high-quality schooling;
+
+Organise apprenticeship programmes for upper secondary students
+
+Lobby for unduly low taxes, thereby contributing to underfunded schools.
+
+Provide good-quality inputs at a reasonable cost
+
+Abuse contracts by, for example, using inferior building supplies
+
+NGO and religious schools may successfully cater to the educational needs of student groups poorly served by government schools and whose families cannot afford fee-paying schools.
+
+Private schools may provide higher-quality education for those able to pay.
+
+Rely on information asymmetry to attract students, and provide inferior teaching that does not meet curriculum expectations
+
+Provide stable funding based on well-defined, accountable goals.
+
+Adjust funding arbitrarily in response to political pressure from the diaspora in the donor country.
+
+Source: Adapted from Table O.2 in World Bank (2018, p. 14).
+
+Realising universal ‘basic literacy’ during the primary education cycle—and, hopefully, more advanced reading ability—is crucial for achieving higher incomes and stronger economic growth in the next generation. There are numerous obstacles to student learning in government primary schools, and addressing them will not be easy. The advantage of the new government elected in February is its clean blackboard; it is not responsible for the errors of the past. The challenge now is to translate that fresh start into sustained reforms that finally ensure every child leaves primary school able to read, write, and do basic arithmetic.
+
+John Richards is a Canadian economist at Simon Fraser University, Vancouver. He has undertaken volunteer teaching and research in Bangladesh. He can be contacted at [email protected]
+
+Shahidul Islam is an education policy and planning expert currently based in Canada. He can be contacted at [email protected]

@@ -1,0 +1,117 @@
+Can Bangladesh achieve energy sovereignty? A new perspective
+2026-06-06T00:14:40+06:00 | Chowdhury F. Rahim
+https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-achieve-energy-sovereignty-new-perspective-4191451
+
+Bangladesh stands at a critical developmental crossroads, paralysed by an acute and systemic energy crisis. Recent global shortages in fossil fuels have exposed the severe vulnerabilities of the nation’s energy architecture. Across urban and rural centres, gasoline-reliant vehicles and autorickshaws endure queues lasting 12 hours or more just to purchase a few litres of fuel, stripping drivers of their daily livelihoods. Simultaneously, the vital ready-made garment sector, the backbone of the national export economy, is suffering widespread factory closures due to intense electrical power cycling. For most of these facilities, domestic backup power sources are either nonexistent or financially ruinous due to the soaring costs of diesel and Liquefied Natural Gas (LNG).
+
+To break this cycle of economic volatility, Bangladesh must urgently transition away from fossil fuels and cultivate a diversified, self-reliant power-generation strategy. While the newly elected government has announced a commendable goal to generate 10,000 megawatts of electricity from renewable sources by 2030, the physical realities of the country’s climate and geography present severe headwinds to achieving this target through traditional renewables alone.
+
+The realities and limitations of renewable energy
+
+While alternative energy paths are essential, mass-scale reliance on solar and wind power face structural obstacles within Bangladesh’s unique deltaic environment:
+
+Thermal losses and solar degradation: Commercial solar cells operate at a base efficiency of only 10% to 15%, a metric calibrated for moderate temperatures around 27°C. During Bangladeshi summers, temperatures frequently exceed 35°C, triggering severe thermal losses that degrade cell efficiency.
+
+Seasonal intermittency: Bangladesh’s intense rainy season spans 30% to 45% of the calendar year, a prolonged period during which solar arrays fail to generate significant grid power. Currently, solar power accounts for only 2.3% of the total national grid supply.
+
+High capital expenditure for wind turbines: Wind power has a theoretical potential of at least 30 gigawatts (GW) across the delta. However, the nation’s installed capacity languishes at just 66 megawatts (MW), representing a negligible portion of generated power. This stagnation is driven by high capital expenditures of $1,900 to $2,100 per kilowatt (KW), alongside unfavourable localised wind patterns, extreme cyclone exposure, and bureaucratic regulatory bottlenecks.
+
+The peak load mismatch: The most profound flaw of solar and wind installations is their inability to serve the nation’s peak operational needs. Solar energy is unavailable at night, precisely when industrial demand peaks during the garment sector’s high-output period. Wind patterns remain unpredictable outside localised coastal zones, such as the 22-turbine Cox’s Bazar Wind Power Project developed via Chinese investment.
+
+To overcome these limitations, both technologies require massive, cost-prohibitive electrical storage facilities that demand large tracts of real estate, a luxury that a highly congested nation cannot afford.
+
+Why Bangladesh must pivot to renewable energy now
+
+Traditional large-scale nuclear power and the Rooppur bottleneck
+
+Faced with these land and atmospheric constraints, Bangladesh has turned to nuclear energy as a sustainable, low-carbon, zero-emission baseload source. The nation is on the verge of becoming the third country in the subcontinent to deploy nuclear power as the Rooppur Nuclear Plant nears operational status. Once both Rooppur I and II become operational—projected for 2028—they will inject a vital 10% baseload supply into the National Grid.
+
+However, the Rooppur project highlights the immense vulnerabilities inherent to traditional, large-scale Gen-III pressurised water reactors.
+
+Financial and timeline overruns: Exacerbated by geopolitical disruptions such as the war in Ukraine, the project has suffered a minimum 5-year delay beyond its original 2022 completion target. This has inflated initial feasibility budgets, with current estimates projecting the final cost to exceed $20 billion once interest is factored in.
+
+Spatial inefficiency: Traditional plants require sprawling territories; the Rooppur complex alone occupies 4.3 square kilometres (1,962 acres) of premium land. A similar project in any other place would inevitably result in the eviction of many people, which is undesirable.
+
+High-volume water dependencies: The Rooppur plant’s water-cooled design requires a staggering 455,000 gallons of cooling water per minute, continuously drawn from the Padma River. Because India controls the upstream flow via the Farakka Barrage, summer diversions could reduce river levels to critical lows. A subsequent “loss of coolant” event introduces the catastrophic risk of a core meltdown, mirroring the 2011 Fukushima disaster.
+
+Sovereign and fuel dependencies: Bangladesh is heavily reliant on Russian entities for the supply of fuel rods, initial operations, maintenance, and nuclear waste management. Without a rapid transfer of technical expertise to local engineers, the plant risks long-term unprofitability and strategic vulnerability.
+
+With national demand projected to skyrocket to 60,000 MW by 2041, Rooppur alone cannot solve the energy deficit. Bangladesh cannot simply replicate these massive, decades-long mega-projects elsewhere. Instead, it must look toward decentralised, innovative alternatives, such as Small Modular Reactors (SMRs).
+
+Why our energy future keeps slipping away
+
+The SMR and HTR-PM revolution: Safer by design
+
+High-Temperature Gas-Cooled Reactor-Pebble Bed Module (HTR-PM) technology represents a paradigm shift in nuclear engineering. Rooted in historical German AVR and THTR-300 architectures from 1969–1980, this Gen-IV technology was initially sidelined by Western nations following high-profile disasters like Three Mile Island, Chornobyl, and Fukushima. However, researchers in China systematically analysed those historical failures to pioneer a modern, inherently safe reactor variant that completely redefines nuclear security and efficiency. The safety and operational advantages of HTR-PM reactors over traditional plants are profound:
+
+Inherent meltdown immunity: Unlike conventional reactors that utilise high-pressure water and vulnerable fuel rods, HTR-PM reactors rely entirely on passive physics and material properties. The nuclear fuel is encased in multilayer ceramic shells to form tennis-ball-sized pellets, which are then enclosed in pyrolytic graphite moderators. These pebbles withstand extreme temperatures exceeding 1,600°C without degrading, operating safely above the reactor’s standard 650°C to 700°C thresholds.
+
+Passive heat dissipation: The reactor core features an exceptionally large surface-to-volume ratio, allowing decay heat to escape naturally faster than it can be generated. Furthermore, the physics of the core dictates that the nuclear chain reaction automatically slows down and drops to safe levels as temperatures rise. Chinese engineers demonstrated this at the commercial-scale Shidaowan Nuclear Plant in Shandong, proving that, under simulated total failure, the reactor safely cooled itself to a stable temperature within 40 hours without any human intervention or backup power.
+
+Radical footprint reduction: An HTR-PM facility requires only one-tenth of the land area of a conventional plant like Rooppur. This compact nature makes it possible to deploy them near high-density urban populations, industrial zones, river ports, or even aboard medium-sized ships.
+
+Eradication of water reliance: Because these reactors utilise gas or salt coolants rather than open-loop river water, Bangladesh can break free from geopolitical dependencies on neighbouring nations regarding transboundary river flows.
+
+Bangladesh’s looming energy crisis and the choices ahead
+
+Technical coolant dilemmas and global alternatives
+
+While the benefits are clear, deploying SMR technology requires evaluating competing international cooling methodologies, each presenting distinct engineering trade-offs:
+
+1. High-pressure inert helium gas
+
+Pioneered by China’s Institute of Nuclear and New Energy Technology (INET) at Tsinghua University, this method is deployed commercially at the Shidaowan project. Helium does not react with neutrons or corrode the internal reactor shell, making it exceptionally safe. However, helium is expensive, is commercially controlled by a few nations, and presents mechanical challenges due to the high operating pressures required. Using cheaper alternatives, such as carbon dioxide, causes long-term structural degradation of the graphite core, while nitrogen reacts to form toxic gases.
+
+2. Molten fluoride salts (FHR)
+
+Advocated by companies like Kairos Power in the United States, molten fluoride salt heat reactors (FHR) operate at low, nominal pressures around 650°C. Because the salt vaporises above 1,400°C, the liquid state eliminates any risk of a high-pressure gas explosion. However, molten salts are highly corrosive and will destroy standard metal alloys, requiring advanced nickel-based structural metals. Furthermore, Kairos has yet to demonstrate a commercial-scale project, making it an unproven option for meeting Bangladesh’s immediate cost objectives.
+
+3. Liquid sodium pools (Natrium)
+
+Developed by Bill Gates’ company, TerraPower, this architecture submerges the nuclear core in a pool of liquid sodium. TerraPower is constructing a flagship facility in Wyoming, USA, though it will be several years before real-world operational data can be compared against China’s established commercial track record.
+
+Domestic barriers: The crisis of the national grid
+
+Even if Bangladesh acquires the world’s most advanced modular reactors, the technology will fail to rescue the energy sector unless the state addresses its broken domestic distribution network. While successive political administrations have steadily expanded electricity generation capacity, the national transmission infrastructure has lagged far behind, creating a severe bottleneck.
+
+As the 2023 IEEE President, Prof. Saifur Rahman noted, achieving deep carbon reductions and self-reliance over the next quarter-century is fundamentally impossible without nuclear power, given the spatial limitations of solar and wind energy. Distributed SMR networks offer the ideal blueprint for Bangladesh’s future, balancing intermittent fields by functioning as massive thermal batteries.
+
+As the 2023 IEEE President, Prof. Saifur Rahman noted, achieving deep carbon reductions and self-reliance over the next quarter-century is fundamentally impossible without nuclear power, given the spatial limitations of solar and wind energy. Distributed SMR networks offer the ideal blueprint for Bangladesh’s future, balancing intermittent fields by functioning as massive thermal batteries.
+
+The critical nature of this bottleneck is visible today: as the Rooppur plant prepares to come online, the essential transmission lines required to transfer its power to Dhaka and major industrial centres via the national grid are not ready. Furthermore, the grid lacks modern automation and a “smart grid” system. In the past, single substation trips have caused cascading domino failures across the country because the grid could not manage sudden surges or drops in demand. Major load centres in Dhaka and Chattogram are frequently overloaded and operate at their absolute thermal limits. For modular distributed power to succeed, grid modernisation must be legally and operationally synchronised with reactor deployment.
+
+Economic evaluation and geopolitical navigation
+
+Financially, the choice between international SMR options reveals a steep divide in capital efficiency:
+
+The Shidaowan HTR-PM model: China’s scaled-up six-reactor design (HTR-PM600) achieves a net capacity of 600 MWe for an estimated cost of $1.5 billion. This translates to an optimal cost of roughly $2,500 per KW, making it highly competitive with traditional fossil-fuel plants.
+
+The TerraPower Natrium model: The U.S. alternative carries a staggering $4.0 billion price tag for a lower capacity of 345 MWe, resulting in a substantially higher cost per kilowatt. The following projects can become more cost-effective.
+
+From a purely financial standpoint, the Chinese architecture is vastly superior for a developing economy. However, procurement is complicated by geopolitical policy. A recent reciprocal trade agreement between Bangladesh and the United States reportedly seeks to bar the purchase of nuclear technology from “non-market economies” like China. Violating this agreement could trigger severe retaliatory tariffs on Bangladesh’s vital clothing exports.
+
+How can Bangladesh rapidly expand solar capacity?
+
+To navigate this geopolitical minefield, Bangladesh has three strategic pathways:
+
+Negotiate a U.S. waiver: Formally petition the United States on the grounds that civilian pebble-bed architecture has no military application and is not built commercially by Western nations.
+
+Deploy American SMRs: Partner directly with Bill Gates’ TerraPower group to build local engineering proficiency through Western-approved channels.
+
+Partner with Indonesia: Collaborate with Indonesia, which has launched a 40MW thermal fourth-generation HTR-PM reactor and successfully built fuel pellets, allowing Bangladesh to procure the IP and technical channels while bypassing direct Western trade barriers.
+
+Policy recommendations
+
+As the 2023 IEEE President, Prof. Saifur Rahman noted, achieving deep carbon reductions and self-reliance over the next quarter-century is fundamentally impossible without nuclear power, given the spatial limitations of solar and wind energy. Distributed SMR networks offer the ideal blueprint for Bangladesh’s future, balancing intermittent fields by functioning as massive thermal batteries. When solar and wind power are active during the day, the HTR-PM system can store excess heat in its molten salt beds, releasing it to steam turbines during peak night hours when manufacturing sectors need it most.
+
+To realise this vision within the next decade, the Government of Bangladesh must immediately implement a tripartite policy framework:
+
+Academic mobilisation: Establish targeted nuclear engineering programs at BUET and other Universities of Engineering and Technology (UETs) to build a domestic workforce of several hundred specialised engineers within five years.
+
+Diplomatic orientation: Actively pursue the architectural waiver from the U.S. while simultaneously initiating technology transfer talks with Indonesian and American private nuclear firms.
+
+Unified infrastructure mandate: Legally bind all future power generation approvals to mandatory, synchronised upgrades of the national automated smart grid.
+
+By moving deliberately, resolving the grid bottleneck, and embracing distributed fourth-generation nuclear technology, Bangladesh can secure a clean, resilient, and sovereign energy solvent status for the 21st century.
+
+Chowdhury F. Rahim is a distinguished electrical engineer and semiconductor pioneer with over four decades of innovation.

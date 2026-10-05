@@ -1,0 +1,151 @@
+The family card: Universal promise or targeted programme?
+2026-03-12T16:26:01+06:00 | Asad Islam
+https://www.thedailystar.net/slow-reads/big-picture/news/the-family-card-universal-promise-or-targeted-programme-4127146
+
+A promise that landed
+
+In the 12 February national election, Prime Minister Tarique Rahman and the BNP placed social protection at the centre of their campaign. The most prominent pledge was a "Family Card" providing Tk 2,500 monthly to households across Bangladesh. The programme has been presented as direct income support—relief from rising costs, a cushion against shocks, and a signal that the state intends to stand closer to ordinary families.
+
+With the government now rolling out the programme through a pilot phase in selected areas, the conversation is shifting from political promise to questions of design and implementation.
+
+Family Card launch signals a positive start
+
+The promise resonated because for millions of households, recent years have felt like a constant negotiation with uncertainty. Prices rise faster than many household incomes. A modest but predictable monthly transfer can mean more than extra cash: the ability to plan for children's education, to smooth consumption across lean months, and to avoid distress borrowing that traps families in debt cycles.
+
+But when campaign commitments become governing policy, ambition must meet structure. The Family Card, if permanent, will shape fiscal priorities, administrative systems, and the country's social protection architecture for years. Clarity matters now—before expectations harden and design choices become politically difficult to reverse.
+
+The definitional fog
+
+Public debate has been energetic but confusing. People hear "universal" in one statement, then "starting with the ultra-poor" in another, then learn of a pilot in selected upazilas. These are not details for technicians to iron out later. They are the programme's structural foundation. Whether the Family Card is universal, targeted, or something in between will determine who receives it, whether it can be financed sustainably, and whether it survives election cycles.
+
+Bangladesh's development record provides context. Poverty has fallen markedly over recent decades. Infrastructure and human development have improved. Yet vulnerability has not disappeared—it has changed form. A large share of work remains informal or irregular. Many families sit close to the poverty line, one illness or income disruption away from slipping back. Climate stress and price volatility add to that fragility.
+
+Modern social protection is not only about poverty reduction; it is also about stabilising lives in a volatile economy. The question is not whether households need support—they clearly do. It is the form of support the state can credibly sustain.
+
+What "universal" actually means .
+
+In policy terms, a universal programme means everyone receives the benefit without income screening or means testing. Its appeal is simplicity. It avoids the difficulty of identifying the poor in an economy where incomes are hard to verify. It minimises exclusion. It reduces stigma. It can also build broad political ownership because everyone becomes a stakeholder.
+
+But universality carries structural fiscal consequences. If the programme truly covers all households, it becomes a permanent budget commitment large enough to reshape spending elsewhere. It also creates entitlement expectations that are politically difficult to reverse if fiscal conditions deteriorate.
+
+That is why the universal label should not be used casually. It signals a specific kind of state commitment with long-run budget consequences.
+
+Tarique Rahman inaugurates ‘Family Card’ programme
+
+The logic of targeting
+
+Targeting concentrates resources on households classified as poor or vulnerable. The welfare logic is clear: Tk 2,500 has a very different meaning depending on income. For a struggling family, it can be significant; for a secure household, it is marginal. Targeting can therefore deliver greater poverty reduction per taka spent.
+
+But targeting is not simply a technical choice to be delegated to statisticians. It is an institutional choice. It raises practical questions citizens care about personally: who decides eligibility, using what criteria, with what data, and with what appeals process when a family believes it has been wrongly excluded? How often will lists be updated, given that poverty is dynamic? How will the system deal with inevitable errors—poor households excluded and non-poor included?
+
+A targeting system that lacks transparency can erode trust even if its statistical logic is sound. In a politically charged environment, perceived unfairness can become as damaging as actual unfairness.
+
+The pilot is not just a pilot—it is a design signal
+
+The pilot phase matters because it signals design direction. A pilot can test delivery systems, registry quality, payment channels, and grievance mechanisms. But it also reveals the programme's underlying policy model.
+
+Public statements from senior government leaders continue to describe the Family Card as a universal initiative—often suggesting that eventually every household would receive a card issued in the name of a woman within the family.Yet the pilot that has recently begun in selected areas appears to prioritise households identified as extremely poor or vulnerable. This difference between the political message and the early design of the programme is not unusual in large social policies, but it makes clarity especially important.
+
+If every household in a pilot area receives the benefit regardless of income, that reflects universality—at least locally—and primarily tests delivery logistics. If households are screened based on vulnerability criteria, the programme effectively begins as targeted. In that case, the pilot becomes a test not only of payment delivery but also of identification systems, data accuracy, verification processes, and implementation integrity.
+
+A universal entitlement typically begins by distributing the benefit broadly and testing logistics. A targeted programme, by contrast, begins by testing how well the system identifies eligible households. The structure of the pilot, therefore, provides the clearest signal of which model is actually being built.
+
+This distinction matters for public expectations. If political messaging suggests that everyone will eventually receive the benefit while the initial implementation focuses on the most vulnerable, confusion may follow. Citizens will naturally ask whether the programme is universal, targeted, or something evolving between the two.
+
+Used well, the pilot could also serve a larger purpose: building a reliable national social protection registry that can support not only the Family Card but future welfare programmes as well.
+
+The transition question
+
+If universality is truly the end goal, the government should spell out the transition path clearly. How does the programme move from the current pilot phase to the national scale? Over what timeline does it expand from the extremely poor to the poor to the near-poor—and eventually to everyone? What revenue sources support that expansion? What administrative benchmarks must be met before scaling?
+
+If targeting is the long-term model, transparency becomes central: clear criteria, consistent application across regions, accessible appeals, and periodic reassessment so that today's eligibility list does not become tomorrow's injustice.
+
+Either way, ambiguity undermines credibility. The government owes citizens a simple statement of intent: what is this programme now, and what is it intended to become?
+
+The political economy we should acknowledge calmly
+
+Universal programmes often build broad coalitions. When middle-income families benefit, programmes can become politically durable and harder to reverse. Everyone defends them because everyone receives them.
+
+In Bangladesh, many families identify as "middle class" but live with precarious cash flow. They are neither poor enough to qualify easily nor secure enough to absorb shocks.
+
+In Bangladesh, many families identify as "middle class" but live with precarious cash flow. They are neither poor enough to qualify easily nor secure enough to absorb shocks.
+
+Targeted programmes can be fiscally smarter yet politically fragile. Households just above cutoffs often feel excluded and resentful. In countries with weak institutional trust, even accurate targeting can be politically contested because people doubt the fairness of the process.
+
+In Bangladesh, many families identify as "middle class" but live with precarious cash flow. They are neither poor enough to qualify easily nor secure enough to absorb shocks. If the Family Card is targeted, the government must communicate clearly why fiscal concentration is necessary—and how fairness will be protected for those hovering near thresholds.
+
+That communication is not a public relations exercise. It is part of policy sustainability. Social protection survives when citizens believe rules are fair and processes are credible.
+
+How targeting works in practice
+
+In most countries with experience, effective targeting is layered rather than singular. No single method is sufficient, and each has predictable weaknesses.
+
+Statistical screening (often called proxy means testing) uses observable household indicators to estimate vulnerability when income cannot be verified reliably. It can be scaled nationally but requires good data collection, regular updating, and serious quality control. It also struggles with "hidden vulnerability": households that appear stable on paper but face high medical costs, recent job loss, or seasonal income collapses.
+
+Geographic prioritisation can accelerate rollout by focusing resources on high-poverty areas or climate-vulnerable regions. It can be administratively simpler but may miss poor households in better-off districts.
+
+Community validation can add local knowledge and identify households experiencing sudden shocks. But it can also introduce discretion and local capture if governance is weak. When selection involves human judgment, households worry about favouritism, political influence, and the power of local intermediaries.
+
+Digital payments reduce certain leakage risks but cannot substitute for registry quality. If the wrong name is in the database, a perfect payment system simply pays the wrong person efficiently.
+
+All of these points point to a simple design truth: the hardest part of targeting is not distributing money; it is deciding who qualifies, and maintaining that decision fairly over time.
+
+The unit problem: what exactly is a "family"?
+
+A quieter but crucial technical question sits beneath the political debate: what is the unit of benefit?
+
+Bangladesh's household structure is complex—multi-generational living, circular migration, and fluid boundaries that shift with marriage, separation, or economic necessity. Transfer programmes can unintentionally create incentives for households to split or reclassify if eligibility ties to how "family" is defined. These behavioural responses are not dishonesty; they are predictable adaptations to policy incentives.
+
+Good design anticipates this. It defines the unit clearly, explains it publicly, and builds verification systems that accommodate household change without turning routine life events into bureaucratic crises.
+
+The macro question: scale and sustainability
+
+Then comes the macro question that the public deserves to hear explained plainly. Tk 2,500 sounds modest. At the national scale, it becomes significant.
+
+A universal version would represent a spending commitment in the range of roughly one to two per cent of GDP annually—potentially closer to two per cent at the scale currently discussed—comparable in magnitude to what Bangladesh currently spends on major social protection programmes combined. For comparison, large targeted cash-transfer programmes in countries such as Brazil and Pakistan typically cost around half of one per cent of GDP. A targeted version would reduce that cost proportionately, depending on coverage.
+
+Long-run cost is also shaped by inflation. If the transfer is not adjusted, its real value erodes, and the programme quietly shrinks in effectiveness. If adjusted to maintain purchasing power, fiscal costs rise, and the programme becomes a growing commitment.
+
+Sustainability is not about year one. It is about resilience across economic cycles. Programmes that align expansion with institutional capacity and revenue growth tend to endure. Those who outrun both often face abrupt correction.
+
+Financing choices and their consequences
+
+Bangladesh's revenue base remains constrained relative to its ambitions. With tax revenue at roughly nine per cent of GDP, fiscal space is significantly narrower than in countries that operate large social grant systems. Borrowing can support initial expansion, but persistent deficit financing for a large programme increases future debt service obligations and narrows fiscal space.
+
+None of this proves social protection is "too expensive" or that Bangladesh cannot afford a Family Card. It means scale must align with fiscal capacity, and sequencing matters. Programmes that expand alongside revenue mobilisation and institutional strengthening are more likely to endure.
+
+What other countries show
+
+International experience offers both encouragement and caution. Some countries have shown that targeted transfers backed by strong registries can reduce poverty while remaining fiscally manageable. Others show that rapid expansion without reliable identification and updating systems can create lasting political controversy and become difficult to reform.
+
+Brazil's Bolsa Família demonstrates how targeted transfers backed by strong registries can reduce poverty while remaining fiscally manageable, operating at roughly half a per cent of GDP in a country with a tax-to-GDP ratio above thirty per cent.
+
+Pakistan's Benazir Income Support Programme reaches millions of households and has refined its targeting and payment systems over time, costing roughly half a per cent of GDP in a country with a similar revenue constraint to Bangladesh.
+
+Indonesia invested heavily in household registries before scaling transfers. Registry quality preceded expansion, reducing chaos and making scale-up credible.
+
+Iran's universal cash transfer offers caution: following subsidy reform, it reached a broad share of the population, became fiscally difficult to sustain, and reform faced political resistance from recipients accustomed to transfers. Once a near-universal benefit is established, reversal becomes politically costly—even when macroeconomic pressures intensify.
+
+The consistent themes are straightforward: institutional infrastructure determines durability, sequencing reduces implementation risk, and fiscal alignment sustains credibility.
+
+Consolidation or layering?
+
+Bangladesh already operates multiple safety-net programmes across ministries. A Family Card could unify delivery, reduce duplication, and improve transparency. Or it could become another layer in an already fragmented system.
+
+Consolidation is politically and administratively difficult but yields long-term efficiency. Layering is easier initially, but it entrenches complexity.
+
+The direction chosen will determine whether the Family Card reforms the system or simply expands it.
+
+The core argument
+
+This is not an argument for or against the Family Card. It is an argument for design clarity.
+
+If the programme is targeted—as the pilot suggests—the public deserves clear rules and credible grievance mechanisms. If it is intended to become universal, the public deserves a transparent transition path and a sustainable financing plan. If it aims to reform social protection rather than merely expand it, consolidation must be built in from the beginning.
+
+In public policy, the "how" determines whether aspiration becomes durable progress. The Family Card's advocates have already won the argument that social protection matters—that the state has a role in stabilising households against volatility, reducing poverty, and standing closer to citizens who face uncertainty every day.
+
+Now the harder task begins: showing, in practical terms, how the programme will be built—fairly, transparently, and sustainably. Not just for the first year, but for the decade. Not just for households that are easy to reach, but for those in remote areas, those without documents, and those whom databases miss.
+
+That is the weight of this moment. The promise has been made. The real test now is whether its design can withstand reality.
+
+Asad Islam is a Professor of Economics at Monash Business School, Australia.

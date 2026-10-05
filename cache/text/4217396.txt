@@ -1,0 +1,87 @@
+Why Bangladesh’s new data protection law may fail to protect your data
+2026-07-07T00:02:28+06:00 | Meem Arafat Manab
+https://www.thedailystar.net/slow-reads/big-picture/news/why-bangladeshs-new-data-protection-law-may-fail-protect-your-data-4217396
+
+On August 19, 2025, hackers broke into Shwapno's customer database. They took 410 gigabytes of data: the names, phone numbers, and purchase histories of forty lakh registered customers. They demanded $1.5 million. Shwapno refused, secured its systems, and said nothing to its customers for seven months. When the hackers published the stolen data on the dark web in March 2026, news of the breach spread across social media before Shwapno filed a police report.
+
+On June 24, 2026, a Dismislab investigation found that the final voter list for Bangladesh's 13th parliamentary election, containing the names, voter numbers, parents' names, dates of birth, occupations, and permanent addresses of crores of citizens, was being sold openly on Facebook for between 30 taka and 250 taka. There were over 500 posts across at least 15 accounts. There were even paid advertisements in Facebook's Ad Library. A 250 taka payment to a bKash number could get you access to a Google Drive folder organised by division, constituency, and area. The Election Commission said it had not authorised the sale. Nobody knew who was legally accountable. The new data protection law's penalty structure is designed for institutional data controllers; it offers no clear mechanism for holding individuals who sell citizens' personal data on social media accountable.
+
+Bangladesh recently passed a data protection law. Unbelievably enough, it contains no mandatory breach notification requirement. There was nothing that required Shwapno to tell you sooner. And there is, apparently, nothing yet to stop someone from selling your address and date of birth for forty taka.
+
+Most readers will recognise that something is seriously wrong. But it is important to understand exactly what has gone wrong, because the answer has implications for every digital system Bangladesh is now building.
+
+What is a data breach?
+
+A data breach is any incident in which personal information is accessed, disclosed, or used without the authorisation of the person to whom it belongs. It can happen through a hack: an attacker exploits a vulnerability in a system. It can happen through an insider: an employee sells access. It can happen through negligence: data is left unsecured because no one thought carefully about where it was stored.
+
+The Shwapno case involved all three risks. But the most consequential data breaches in Bangladesh have involved something far more sensitive than supermarket purchase records: our National Identity (NID) data, as the recent Dismislab investigation has once again highlighted.
+
+The National Identity database maintained by the Election Commission holds personal records for approximately twelve crore citizens. Over the past three years, this data has been repeatedly exposed through multiple breaches. In 2023, the personal information of over five crore people, including names, dates of birth, and NID numbers, was found to be accessible via a simple internet search after a vulnerability in the website of a government partner exposed it. Smart NID data appeared on a Telegram bot: anyone with a person's NID number and date of birth could retrieve their complete profile. Call detail records, the logs showing who called whom, when, and for how long, were found being sold through hundreds of Facebook groups and WhatsApp channels after being taken from a government monitoring server by officials using stolen login credentials.
+
+Earlier this year, the Election Commission confirmed that five organisations with legitimate API access to the NID system, including the Directorate General of Health Services, a major bank, and the Chittagong Port Authority, had leaked data to third parties.
+
+Individually, these are data breaches. Taken together, however, they reveal a structural problem.
+
+Why the breaches keep happening
+
+The NID database was originally designed as an identity verification service. Over time, however, it evolved into the central system through which almost every digital transaction in Bangladesh is authenticated. Opening a bank account, registering a SIM card, applying for a government service, and receiving health care all require NID verification. As demand for verification grew, access to the database expanded. Today, 174 organisations are directly connected to the database, and each connection represents a potential point of breach.
+
+But the more important problem is what happens after verification. An organisation verifying your identity does not just receive a yes-or-no answer. It receives your name, your date of birth, your address, and your NID number and stores this data on its own servers and systems, governed by its own security practices, which may be excellent or almost non-existent. Researchers studying this architecture call these "shadow copies": data pulled for a legitimate purpose and then retained indefinitely, outside any logging, auditing, or deletion schedule.
+
+This is why breaches rarely come from the Election Commission's core database. They come from the shadow copies: the hospital portal, the bank's onboarding system, or the port authority's records, none of which were thought of as security liabilities until they became so.
+
+A data breach is not primarily a technical event. It is the predictable outcome of a system that treats data as a resource to be accumulated and stored rather than as something that carries ongoing obligations.
+
+A data breach is not primarily a technical event. It is the predictable outcome of a system that treats data as a resource to be accumulated and stored rather than as something that carries ongoing obligations.
+
+The same pattern is evident in the private sector. Shwapno was not targeted because supermarket data was uniquely valuable. It was targeted because the company had accumulated years of detailed behavioural data on millions of customers and stored it without adequate protection. Even after receiving a ransom demand, it had no legal obligation to notify those affected. Bangladesh still has no mandatory breach notification requirement and no regulator with the enforcement capacity to compel companies to disclose such breaches.
+
+A data breach, in other words, is not primarily a technical event. It is the predictable outcome of a system that treats data as a resource to be accumulated and stored rather than as something that carries ongoing obligations to the people to whom it belongs.
+
+What Bangladesh’s new data protection law can and cannot do
+
+The Personal Data Protection Ordinance, gazetted in November 2025, became the Personal Data Protection Act on April 15, 2026: Bangladesh's first comprehensive data protection law. The Act establishes rights for citizens over their personal data, requires consent before collection, and introduces penalties for violations. This is necessary legislation, and its passage is genuinely significant.
+
+But the voter list story illustrates the accountability gap. The Election Commission distributed the list through an established process. A candidate or representative is believed to have leaked it. Individuals are now reselling it on social media. The Act's penalty structure is built around institutional data controllers with measurable annual turnovers. It has no clear answer for the person selling your permanent address for 40 taka on Facebook.
+
+A data protection law is only as strong as the institution enforcing it. The body responsible for enforcing the Act operates under the Prime Minister's Office and was established through a separate ordinance passed in the same week. Section 49 of the Act explicitly states that the government may issue directions to the Authority in the interests of national security or public order and that the Authority is legally bound to comply. This matters because the most serious data abuses in Bangladesh, involving the NID spine, the NTMC surveillance infrastructure, and the shadow copies inside state agencies, all involve state actors. A regulator that cannot investigate the state is not a data protection authority. It is a complaints desk.
+
+To understand why this matters, consider the institutions and enforcement mechanisms that make the European Union’s data protection law, the General Data Protection Regulation (GDPR), effective in practice. The European Data Protection Board issues guidelines and recommendations to clarify the law: documents that run to dozens of pages on a single clause, developed through public consultation and refined over years of enforcement practice. CEN-CENELEC, Europe's standardisation body, translates those legal obligations into technical standards: the engineering specifications that tell an organisation's IT team what "adequate security" actually means in practice. In the United States, the Federal Trade Commission acts as a watchdog, able to bring enforcement actions and impose remedies, including the mandatory deletion of illegally obtained data. These bodies are the independent, field-level functionaries that provide the operational content needed to turn a law into something organisations can follow and regulators can enforce.
+
+In the EU, data protection authorities are statutorily independent under Article 52 of the GDPR; they have investigated and fined their own governments, and the Court of Justice of the European Union has ruled that this independence is not a courtesy but a structural requirement of the framework.
+
+Bangladesh drafted an imperfect law for a shifting scenario. Then, it handed enforcement to a body that, by its own statute, cannot fully investigate the government that created it.
+
+The law also came into effect after the existing data infrastructure had already been built. The NID system, the telecommunications monitoring infrastructure, and the 174 access points were already in place. A new law can impose penalties for future breaches, but it cannot change the underlying architecture that makes such breaches structurally inevitable.
+
+Addressing that problem requires a different approach.
+
+What is a data commons?
+
+A commons is a resource governed collectively in the interests of everyone who depends on it. Water, roads, and public parks: these are commons. The concept is old. Its application to data is new, but the underlying logic is the same: some resources are too important to be governed by the accumulation instincts of whoever happens to control them.
+
+A data commons treats personal data not as a product to be extracted and sold, but as infrastructure to be governed in the public interest. This may sound abstract. It has concrete technical forms.
+
+The most immediate is minimal disclosure. When you verify your identity for a service, the questions being answered are simple: are you who you claim to be, and do you meet the relevant criteria? You do not need to hand over your NID number, your date of birth, and your address for those questions to be answered. A well-designed identity system returns a cryptographic confirmation: yes, this person is over eighteen; yes, this person is a registered citizen, without transferring the underlying data to the organisation asking. No shadow copy is created because no data has been transferred.
+
+A more ambitious form is the data cooperative. In this model, people who generate data, such as farmers recording crop yields, patients receiving health care, and workers using financial services, collectively govern the conditions under which that data can be used. A health data cooperative might allow anonymised records to be shared with researchers while prohibiting their commercial sale. An agricultural data cooperative might share weather and yield data with government planners while retaining community control over who can access individual farmers' records. The EU is currently building exactly this kind of infrastructure through its Data Governance Act and sectoral Data Spaces: shared environments where data flows under governance rules embedded in the architecture itself, rather than added afterwards through law.
+
+The ideas behind this approach include those of Aaron Swartz, a programmer and activist who argued that information infrastructure should be governed as a public good. He died in 2013 at the age of 26 while facing up to 35 years in federal prison for downloading academic journal articles.
+
+Tim Berners-Lee's Solid project is currently building a decentralised architecture in which individuals retain their own data and grant specific, revocable access to services rather than surrendering their data permanently. The common thread is that governance built into how a system works is more durable than governance imposed from outside through rules that can be ignored, circumvented, or simply not enforced.
+
+This is particularly important for Bangladesh.
+
+Bangladesh is not a passive victim of global data governance failures. It is making active choices about the architecture of its digital public infrastructure, and those choices, once made, are very difficult to reverse.
+
+The NID spine is already built. But how the next layer of infrastructure will be built remains an open question. The health data system is being digitised. Government programmes are collecting agricultural data. Financial transaction data is flowing through the growing fintech sector. Each of these systems could be built on an accumulation model: data is centralised, organisations are given broad access, and security is addressed reactively after the inevitable breach. Or each could be built on a commons model: data is governed as a shared resource, access is minimal and auditable, and the architecture itself enforces the principles that the law is trying to establish.
+
+There is also an economic case for stronger data protection. Bangladesh's garments sector, its business process outsourcing industry, and its fintech sector all handle data that flows to and from the European Union. The EU grants data adequacy, a formal recognition that a country's data protection framework is equivalent to its own, only to countries with independent enforcement, meaningful rights, and constrained state access. Without adequacy, every data transfer requires individually negotiated legal contracts. The compliance burden does not disappear; it falls on the businesses least equipped to carry it. Kenya, at a comparable stage of digital development, built a genuinely independent data regulator in 2019 and is now in active adequacy dialogue with the EU. The gap between what Kenya built and what Bangladesh has built is not primarily technical. It is a question of institutional design.
+
+The question every data breach asks
+
+When the purchase histories of 40 lakh people landed on the dark web in March 2026, most of those affected did not know it had happened. They found out through social media, seven months after the fact, because no law required the company to tell them sooner. The sensitive nature of that exposure, involving your shopping habits, your phone number, and the patterns of your daily life, is what makes data breaches feel deeply personal. But that feeling points to something structural: data about you was being held by an organisation with no meaningful obligation to protect it, under a legal framework with no meaningful mechanism to compel disclosure, and within an architecture designed to accumulate data rather than safeguard it.
+
+Beyond the immediate outrage, every data breach raises a fundamental question: who governs this data, and in whose interests? Bangladesh has passed a law that begins to answer this question. But a law without enforcement mechanisms is a first-aid manual without any medicine. Without access to an actual remedy, we are helping no one while poring over a badly drafted text. The governance we need is not only a stronger Act that imposes limits. It requires a different set of decisions about how the infrastructure itself is to be built; decisions that are still, for now, ours to make.
+
+Meem Arafat Manab is a Marie Skłodowska-Curie Doctoral Fellow at Universidad Politécnica de Madrid, researching the risks and governance of Data Spaces.

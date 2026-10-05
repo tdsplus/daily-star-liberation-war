@@ -1,0 +1,167 @@
+Can outcome-based education survive the age of AI?
+2026-06-22T08:52:00+06:00 | Dr Fazlul K. Rabbanee
+https://www.thedailystar.net/slow-reads/big-picture/news/can-outcome-based-education-survive-the-age-ai-4202226
+
+Many public and private universities across Bangladesh have recently been celebrating the implementation of Outcome-Based Education (OBE). This marks a significant shift from traditional teaching methods and content-driven, final-exam-centric assessment towards a learning paradigm that emphasises student competencies, skills, and measurable outcomes. However, this transition is unfolding as Generative Artificial Intelligence (GenAI) rapidly transforms higher education globally. While OBE seeks to promote higher-order skills—such as critical thinking, problem-solving, presentation skills, and analytical abilities—GenAI enables students to generate academic outputs with minimal cognitive effort. This creates a fundamental paradox: a system designed to enhance authentic learning outcomes is being challenged by a technology that can potentially bypass them.
+
+Under OBE, universities are shifting away from a heavy reliance on final examinations towards a more balanced assessment structure. Greater emphasis is now placed on continuous internal assessments (e.g., around 40%) and presentations (e.g., around 10%), while the weight of final examinations is reduced to approximately 50%. This is intended to foster the acquisition of skills such as critical thinking, presentation, and problem-solving through internal assessments. However, there remains considerable uncertainty regarding the design and implementation of these internal assessments. Historically, institutions have relied heavily on classroom-based tutorial examinations to meet internal assessment requirements—approaches that are often not substantially different from traditional, content-based final examinations. Besides, managing student presentations in large classes—often with around 100 students in public universities—poses significant challenges. In such settings, it becomes difficult to ensure meaningful participation, provide individual feedback, and maintain assessment quality.
+
+As a result, academics may be compelled to compromise on the depth and effectiveness of presentations, thereby limiting the intended development of students' communication and presentation skills—key competencies within an OBE framework. Consequently, significant questions persist about the effectiveness of OBE in achieving its intended outcomes. Moreover, in the Bangladeshi context, where OBE implementation is still evolving, the rise of GenAI further complicates this transition. GenAI risks weakening the alignment between intended learning outcomes and students' actual skills and capabilities, particularly when assessment practices remain largely traditional and insufficiently adapted to the new educational realities.
+
+Recent evidence from the Bangladeshi context indicates that GenAI is already widely used among tertiary students and is generally perceived as beneficial for productivity, learning, and academic performance. For example, a recent study found that 73.4% of students reported using AI-powered tools, and 71.8% believed these tools improved their learning outcomes (Dowlla, 2024). However, this growing adoption is accompanied by important ethical and pedagogical concerns, as students may feel guilty about using AI in their assignments and express a desire for stricter regulation. While GenAI enhances efficiency and supports learning, its unregulated and excessive use risks fostering over-reliance, weakening critical thinking, and undermining key competencies that OBE frameworks are designed to develop.
+
+The impacts of GenAI on tertiary education in Bangladesh are multifaceted and closely linked to the implementation of OBE. While GenAI has the potential to enhance productivity and support more flexible, student-centred learning, its current use patterns are creating significant misalignments with OBE principles, as outlined below.
+
+Why writing classes still matter in the age of AI
+
+(i) Disruption of teaching & learning practices: GenAI is transforming how students access, process, and produce knowledge. Its responsible and ethical use may contribute to shifting learning away from information recall towards higher-order competencies such as critical thinking, judgement, and synthesis—capabilities that are central to OBE but not yet consistently embedded in teaching practices across Bangladeshi universities. At the same time, tasks that previously required sustained cognitive effort—such as writing essays or preparing assignments on a given topic—can now be completed instantly with AI tools; however, doing so for graded work is unethical and academically unacceptable. In predominantly lecture-based, content-heavy systems, the use of GenAI reduces the effectiveness of traditional pedagogy because it encourages surface-level learning unless teaching strategies are redesigned to align with OBE's emphasis on active, competency-based learning. Without a deliberate redesign of teaching strategies towards active, competency-driven learning, GenAI risks weakening the very learning processes that OBE seeks to strengthen.
+
+When AI-generated outputs cannot be distinguished from original work, assessment loses its ability to capture students' competencies accurately
+
+When AI-generated outputs cannot be distinguished from original work, assessment loses its ability to capture students' competencies accurately
+
+(ii) Assessment crisis and academic integrity: The most immediate disruption caused by GenAI is in assessment. GenAI can generate high-quality essays, reports, and assignments, undermining conventional formats that rely on verifying individual authorship. As a result, educators increasingly struggle to determine whether student submissions reflect genuine learning. This creates a fundamental challenge for OBE, which depends on the valid measurement of clearly defined learning outcomes. When AI-generated outputs cannot be distinguished from original work, assessment loses its ability to capture students' competencies accurately. In Bangladesh, the absence of clear institutional policies and guidance further exacerbates this problem, leaving educators uncertain about how to design assessments that uphold both academic integrity and OBE standards. Additionally, the uncritical use of GenAI—where outputs are adopted without careful verification, contextualisation, or human judgement—can introduce inaccuracies or fabricated content. This directly undermines the authenticity, integrity, and ethical foundations that OBE seeks to uphold.
+
+(iii) Risks of "cognitive surrender": A critical concern is the growing tendency towards cognitive offloading, where students rely on AI to perform core intellectual tasks. This over-reliance can limit opportunities for active learning, critical analysis, and problem-solving—key competencies that OBE aims to develop and assess. Consequently, students may appear to meet learning outcomes through polished, AI-assisted outputs without genuinely developing the underlying skills. This "cognitive surrender" undermines the integrity of OBE by blurring the distinction between demonstrated performance and actual competence, thereby weakening the long-term learning outcomes that the OBE framework is designed to ensure.
+
+(iv) Structural and governance constraints: The effective integration of GenAI is further hindered by systemic challenges in Bangladesh, including the absence of formal AI governance frameworks, limited preparedness among teachers and educators, unequal access to digital infrastructure, and a lack of structured AI literacy initiatives. These constraints prevent institutions from consistently and strategically aligning GenAI use with OBE objectives. As a result, adoption remains fragmented and ad hoc, increasing the risk of inequitable learning experiences and inconsistent outcome attainment across universities. Institutions with better resources and policy readiness are more likely to adapt successfully, while others fall behind—exacerbating disparities within the higher education system.
+
+How not to use AI in children’s education
+
+Overall, although GenAI offers significant opportunities to enhance learning and productivity, its current trajectory in Bangladesh risks undermining the foundational principles of OBE. Without deliberate alignment among AI use, pedagogy, and assessment design, there is a growing disconnect between intended learning outcomes and students' actual competencies.
+
+Strategic way forward: Aligning GenAI use with OBE in universities
+
+To effectively address the challenges posed by GenAI while strengthening OBE practices in Bangladesh, universities require a coordinated, strategic transformation across pedagogy, assessment, governance, and capacity-building. The objective is not to restrict the use of AI, but to ensure its ethical, transparent, and pedagogically meaningful integration into the teaching–learning process. Such an approach will enable students to genuinely achieve the intended learning outcomes while developing robust AI literacy—a capability increasingly in demand across industries. The following strategic recommendations outline key directions for achieving this alignment.
+
+1. Strengthening faculty capacity and institutional readiness
+
+The effective implementation of GenAI within an OBE framework fundamentally depends on the readiness and capability of academic staff. Without well-prepared educators, even the most robust policies will have limited impact. Therefore, universities must adopt a strategic and sustained approach to faculty development to ensure that GenAI is integrated in ways that enhance learning outcomes while safeguarding academic integrity. Key priority issues in this regard include:
+
+Capacity building in AI-integrated pedagogy and assessment design: Academics should be trained to design learning experiences and assessments where GenAI supports, but does not replace, critical thinking and competency development.
+
+Capacity building in AI-integrated pedagogy and assessment design: Academics should be trained to design learning experiences and assessments where GenAI supports, but does not replace, critical thinking and competency development.
+
+Development of AI-aware teaching and learning resources: Universities should support educators with structured materials, tools, and guidelines that enable the effective and responsible use of AI in teaching, learning, and assessment.
+
+Development of AI-aware teaching and learning resources: Universities should support educators with structured materials, tools, and guidelines that enable the effective and responsible use of AI in teaching, learning, and assessment.
+
+Continuous professional development and collaborative learning: Establishing ongoing training programmes, peer-learning communities, and communities of practice can help educators share experiences, refine approaches, and stay updated with evolving AI capabilities.
+
+Continuous professional development and collaborative learning: Establishing ongoing training programmes, peer-learning communities, and communities of practice can help educators share experiences, refine approaches, and stay updated with evolving AI capabilities.
+
+By investing in these areas, universities can empower academics to design OBE-aligned, AI-resilient learning environments, where students engage meaningfully with content, demonstrate authentic competencies, and use GenAI ethically and responsibly.
+
+2. Pedagogical transformation and human–ai collaborative learning
+
+Universities should deliberately position GenAI as a supporting learning tool rather than a substitute for thinking. While students may use AI for brainstorming, feedback, and exploration, they must retain responsibility for core intellectual tasks such as analysis, interpretation, and evaluation. This approach safeguards authentic competence development, ensuring that learning remains aligned with OBE's emphasis on demonstrable skills rather than AI-generated outputs. To operationalise this shift, a set of complementary pedagogical strategies is essential:
+
+Inquiry-based and problem-centred learning: Moving beyond memorisation towards problem-solving, case-based, and context-driven learning encourages students to apply knowledge in real-world situations. Such approaches reduce reliance on AI-generated responses and ensure that learning outcomes reflect applied competencies and critical engagement, which are central to OBE.
+
+Inquiry-based and problem-centred learning: Moving beyond memorisation towards problem-solving, case-based, and context-driven learning encourages students to apply knowledge in real-world situations. Such approaches reduce reliance on AI-generated responses and ensure that learning outcomes reflect applied competencies and critical engagement, which are central to OBE.
+
+Process-oriented and reflective learning: Educators should emphasise how learning occurs rather than just the final output. Incorporating reflection logs on AI use, iterative drafting, and explicit documentation of reasoning helps make students' thinking visible. This enables educators to assess genuine cognitive effort and skill development, thereby strengthening the validity of OBE assessments.
+
+Process-oriented and reflective learning: Educators should emphasise how learning occurs rather than just the final output. Incorporating reflection logs on AI use, iterative drafting, and explicit documentation of reasoning helps make students' thinking visible. This enables educators to assess genuine cognitive effort and skill development, thereby strengthening the validity of OBE assessments.
+
+Embedding critical AI literacy: AI literacy must be integrated across disciplines to enable students to critically evaluate AI-generated content, recognise biases, and understand ethical implications. Such integration fosters responsible and informed AI use, reinforcing ethical awareness and critical thinking—key attributes within an OBE framework.
+
+Embedding critical AI literacy: AI literacy must be integrated across disciplines to enable students to critically evaluate AI-generated content, recognise biases, and understand ethical implications. Such integration fosters responsible and informed AI use, reinforcing ethical awareness and critical thinking—key attributes within an OBE framework.
+
+By embedding these strategies, universities can transform GenAI from a potential source of dependency into a powerful enabler of deeper learning, ensuring that students not only use AI effectively but also develop the competencies required for academic integrity and professional success.
+
+3. Redesigning assessment for valid outcome measurement
+
+To ensure the effective integration of GenAI within the OBE framework, universities must move beyond a sole reliance on traditional examination- and assignment-based assessment practices. Instead, they should adopt multi-modal assessment systems—an approach that combines diverse, complementary evaluation methods to capture a more accurate, holistic picture of students' knowledge, skills, and competencies. A well-balanced assessment system in an AI-enabled learning environment should integrate:
+
+Secure assessments (e.g., in-class tests, presentations, viva voce examinations) to ensure authenticity and reduce misuse of AI;
+
+Secure assessments (e.g., in-class tests, presentations, viva voce examinations) to ensure authenticity and reduce misuse of AI;
+
+AI-integrated tasks (e.g., evaluating, critiquing, or improving AI-generated outputs) to develop critical AI literacy;
+
+AI-integrated tasks (e.g., evaluating, critiquing, or improving AI-generated outputs) to develop critical AI literacy;
+
+Reflective assessments (e.g., learning journals and process logs) to capture students' reasoning and learning processes;
+
+Reflective assessments (e.g., learning journals and process logs) to capture students' reasoning and learning processes;
+
+Authentic, industry-oriented tasks (e.g., industry case studies, problem-solving exercises, and client-based projects) to assess the application of knowledge in practical contexts.
+
+Authentic, industry-oriented tasks (e.g., industry case studies, problem-solving exercises, and client-based projects) to assess the application of knowledge in practical contexts.
+
+Such a diversified approach ensures that assessment systems remain valid, reliable, and aligned with OBE, even in the presence of widespread AI use. In addition, assessment design must place greater emphasis on higher-order thinking skills—including analysis, evaluation, and creation—requiring students to justify their reasoning and demonstrate independent judgment. These competencies are central to OBE and cannot be easily replicated by AI tools. Expanding the use of authentic and context-driven assessments, such as internships, real-world projects, and interdisciplinary tasks, further strengthens employability and ensures that learning outcomes remain relevant to professional practice. Importantly, all assessment practices must be underpinned by clear expectations around AI transparency and accountability. Students should be required to explicitly disclose how they used AI tools and clearly articulate their own contributions. This fosters academic integrity, ethical awareness, and trustworthiness in assessment, ensuring that demonstrated performance genuinely reflects student competence. Collectively, these strategies transform assessment from a product-focused exercise into a process-driven, outcome-aligned system that supports meaningful learning in an AI-enabled educational landscape.
+
+4. Responsible use of GenAI to prevent "cognitive surrender"
+
+Within an OBE framework, the central challenge is not whether to use GenAI, but how to use it responsibly in ways that strengthen—rather than weaken—student learning. Universities must therefore establish clear principles that guide ethical, transparent, and accountable AI use. Responsible GenAI integration should be anchored in four key principles:
+
+Transparency: Students clearly disclose how and where AI tools have been used;
+
+Transparency: Students clearly disclose how and where AI tools have been used;
+
+Accountability: Clear boundaries define acceptable and unacceptable uses.
+
+Accountability: Clear boundaries define acceptable and unacceptable uses.
+
+Ethical Awareness: Students are trained to recognise issues such as bias, misinformation, and data privacy.
+
+Ethical Awareness: Students are trained to recognise issues such as bias, misinformation, and data privacy.
+
+Human and Contextual Intelligence: AI supports—rather than replaces—human judgement and intellectual effort. A human must vet any AI output for contextual relevance and information accuracy.
+
+Human and Contextual Intelligence: AI supports—rather than replaces—human judgement and intellectual effort. A human must vet any AI output for contextual relevance and information accuracy.
+
+Embedding these principles ensures that GenAI enhances learning while preserving the integrity and ethical foundations of OBE. A critical objective of this approach is to prevent "cognitive surrender", where students over-rely on AI and disengage from deep thinking. To safeguard meaningful learning and ensure the authentic achievement of learning outcomes, academics and universities should adopt the following practices:
+
+Require critical evaluation of AI outputs: Students should be expected to question, verify, and improve AI-generated content, rather than accept it passively.
+
+Require critical evaluation of AI outputs: Students should be expected to question, verify, and improve AI-generated content, rather than accept it passively.
+
+Promote independent thinking before AI use: Encouraging students to engage with problems independently before using AI helps preserve cognitive effort and deep understanding.
+
+Promote independent thinking before AI use: Encouraging students to engage with problems independently before using AI helps preserve cognitive effort and deep understanding.
+
+Assess reasoning and learning processes: Assessment should focus on how students arrive at answers, not just the final output, making cognitive engagement visible.
+
+Assess reasoning and learning processes: Assessment should focus on how students arrive at answers, not just the final output, making cognitive engagement visible.
+
+Embed metacognitive reflection: Students should reflect on how AI influenced their thinking, decisions, and learning process.
+
+Embed metacognitive reflection: Students should reflect on how AI influenced their thinking, decisions, and learning process.
+
+How AI became an authority in our classrooms
+
+5. Establishing policy and governance frameworks
+
+The final strategic recommendation is to establish a coherent, overarching institutional policy and governance framework that guides the alignment of GenAI with OBE across both public and private universities. A strong and coherent institutional framework is essential to guide the ethical, consistent, and effective use of GenAI across both public and private universities in Bangladesh. In this regard, the University Grants Commission (UGC) should play a central strategic and oversight role to ensure that institutional policies are aligned with OBE principles. A well-designed framework can help integrate GenAI in ways that enhance learning outcomes, safeguard academic integrity, and promote responsible use. Key strategic directions include:
+
+(a) Clear and contextualised usage guidelines: Universities should adopt a transparent and practical "traffic light" model to define acceptable AI use:
+
+Prohibited (Red)—fully AI-generated submissions and misuse that compromise academic integrity;
+
+Prohibited (Red)—fully AI-generated submissions and misuse that compromise academic integrity;
+
+Conditional (Yellow)—limited and guided use under specific academic contexts;
+
+Conditional (Yellow)—limited and guided use under specific academic contexts;
+
+Permitted (Green)—acceptable uses such as brainstorming, editing, and feedback.
+
+Permitted (Green)—acceptable uses such as brainstorming, editing, and feedback.
+
+Such clarity reduces misuse, promotes ethical behaviour, and ensures that assessment practices remain aligned with OBE's requirement for the authentic demonstration of competencies.
+
+(b) Alignment of assessment and pedagogy with OBE outcomes: Institutional policies must mandate the adoption of multi-modal assessment systems that prioritise reasoning, critical thinking, and applied skills. This includes integrating AI-enabled tasks (e.g., evaluating AI outputs) in ways that directly support learning outcomes. At the same time, universities must ensure that students have the necessary academic and technological resources to engage meaningfully with these redesigned assessments.
+
+(c) Equity, access, and infrastructure development: To prevent widening disparities, universities must ensure equitable access to AI tools, learning resources, and mentoring support. Investment in digital infrastructure and targeted support for disadvantaged students are critical to ensuring that all learners can achieve OBE outcomes fairly and inclusively.
+
+(d) Monitoring, evaluation, and continuous improvement: Institutions should establish mechanisms for ongoing evaluation and refinement of AI-integrated teaching and assessment practices. This includes collecting feedback from students and academic staff, using data to assess the achievement of learning outcomes, and periodically updating policies to reflect emerging challenges and best practices.
+
+Conclusion
+
+The integration of GenAI into tertiary education in Bangladesh presents both significant opportunities and critical challenges for OBE. While GenAI enhances access, efficiency, and innovation, its unregulated use risks undermining academic integrity, authentic assessment, and the development of critical thinking. The key issue, therefore, is not whether to adopt GenAI, but how to integrate it in ways that strengthen OBE practices. This requires a coordinated transformation of pedagogy, assessment, governance, and educators' capacity. Emphasising human–AI collaboration, multi-modal assessment, and the fostering of higher-order thinking, alongside embedding structured AI literacy (functional, critical, and ethical), will ensure that learning outcomes remain meaningful, measurable, and aligned with real-world competencies.
+
+Equally important is the establishment of clear institutional frameworks that promote transparency, accountability, and responsible AI use, while preventing over-reliance and "cognitive surrender". Ultimately, the goal is to ensure that GenAI augments rather than replaces human intelligence. By doing so, Bangladeshi universities can move from fragmented experimentation to a coherent, outcome-driven, and ethically grounded integration of GenAI—producing graduates who are critically aware, ethically responsible, and fully prepared for an AI-enabled future.
+
+Dr Fazlul K. Rabbanee is an Associate Professor in the School of Management and Marketing, Curtin University, Australia.

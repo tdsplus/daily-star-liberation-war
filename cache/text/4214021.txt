@@ -1,0 +1,63 @@
+Building Islamic banking on Islamic values: The case for a Qard Hasan Bank
+2026-07-02T15:10:00+06:00 | M Kabir Hassan
+https://www.thedailystar.net/slow-reads/big-picture/news/building-islamic-banking-islamic-values-the-case-qard-hasan-bank-4214021
+
+In my last piece for these pages, I argued that Islamic banking’s problem is the model, not the name . A profit-and-loss-sharing ethic cannot survive once you bolt it onto a balance sheet engineered for fixed-claim intermediation. Rename the contract all you like; the machine reverts to form. That was the diagnosis. The natural question that follows is the harder one: if not this, then what?
+
+For nearly five decades, modern Islamic banking has pursued a single goal: to build a Shariah-compliant alternative to conventional, interest-based banking. When Muslim societies recognised that interest-driven banking conflicts with the core principles of the Shariah, the Islamic bank was born as the answer. It promised financial intermediation grounded not in the relationship between lender and borrower, but in sale and partnership: murabaha, mudaraba, musharaka, salam and istisna.
+
+Yet we must admit, honestly, that across half a century this journey has left Islamic banking as little more than an institutional alternative to the conventional bank. Its reference point and its measure of success have always been the same: how faithfully it can mirror the institution it set out to replace. Products were engineered to behave financially just like those of a conventional bank while satisfying the formal conditions of the Shariah. Analysts have long noted that many of these instruments—ijara and murabaha among them—have recognisable equivalents in conventional Western finance .
+
+From here, a more fundamental question arises. Had Islamic civilisation been able to develop its own financial institutions freely, insulated from external influence, what kind of structures would it have created? The answer, in my view, lies beyond capitalism’s inherited model of banking, in the deep roots of Islamic values such as justice, equity and inclusion. And those roots rest on two pillars: partnership-based enterprise, which I discussed last time, and qard hasan, which I want to take seriously here.
+
+Qard hasan: a forgotten inheritance
+
+The Arabic phrase qard hasan means a "good loan": a loan extended without interest, regarded as an act of virtue and compassion. It is the practice of giving the needy an unconditional, profit-free, interest-free loan. In the Qur’an , Allah describes such a loan as a loan made to Him, and attaches to it a vast promise in this world and the next. The Prophet (peace be upon him) described its reward as greater even than that of sadaqah (Sunan Ibn Majah 2431) . For centuries, it was among the most powerful instruments of Muslim brotherhood and social solidarity.
+
+Islamic banking’s problem is the model, not the name
+
+History bears this out. In the 1960s, Malaysia’s Tabung Haji, Egypt’s Mit Ghamr Savings Bank and the Nasser Social Bank all built qard hasan into their models . Sadly, as commercial Islamic banking expanded from the 1960s onwards, qard hasan was pushed to the margins as a lending mechanism for a simple reason: an interest-free loan generates no direct revenue for the institution. Yet in my own research, analysing data from 21 countries between 2013 and 2018, I found that qard hasan can play a decisive role in achieving the Sustainable Development Goals. The problem, then, was never relevance. The problem was institutionalisation.
+
+A proposed structure
+
+What I propose is no cure-all, nor a replacement for the existing system. It is a complement to strong capital markets and partnership-based finance: a first step towards restoring the Islamic economy in the modern world. I would call this institution the Qard Hasan Bank. Its central purpose would be to transform consumer lending into a qard hasan -based, non-profit, cooperative-style specialised institution. Its foundation would rest on waqf .
+
+At the outset, a waqf fund would be formed through the endowments of several wealthy Muslims, serving as the institution’s core capital—up to roughly 10 percent of permanently paid-up capital. This capital would act as a cushion against financial shocks. Crucially, its returns would come not from lending but from other sources: foreign exchange trading, real estate, or other productive investments. The idea of using waqf as an instrument of financial stability is itself drawing growing attention among researchers today.
+
+This would be a specialised bank. Like a conventional bank, it would hold authorised and paid-up capital. Ten percent of the paid-up capital would be treated as permanent stock against the permanent waqf assets, and the remaining 90 percent would be raised from the other sources described here. Its funding would therefore flow from four streams: the waqf fund (including initial capital), the qard hasan fund, ordinary charity and sadaqah, and cash waqf.
+
+The institution would accept deposits in two kinds of accounts: a qard hasan (al-wadiah) account and a term cash-waqf account, paying no profit on either. Qard hasan account holders would enjoy the ordinary conveniences of a bank: cheques, ATM services, and limited transfers. Term cash-waqf depositors would open their accounts not in pursuit of return but from a genuine wish to place their money with a benevolent institution; such deposits could be held under the principle of temporary waqf.
+
+How Islamic is Islamic banking?
+
+On the lending side, the institution would extend short- and medium-term interest-free loans. The administrative and operating costs of making a loan would be borne by the borrower. Because no opportunity cost is reckoned here, this charge would not be considered riba. A large share of the Islamic Development Bank’s financing already takes exactly this form: interest-free lending with administrative costs included .
+
+A three-tier distribution: discipline and aligned interests
+
+To turn qard hasan into a durable financial structure rather than an act of occasional charity, its distribution can be arranged in tiers. The poorest and most vulnerable would receive non-repayable support—disbursed from the qard hasan fund but reconciled through a separate benevolent fund built and run on takaful-style participatory contributions. The lower-middle class would receive partly non-repayable loans, with risk managed through a combination of group guarantees and the benevolent fund. The middle class would receive fully repayable short- and medium-term loans, preserving the continuity and flow of the core fund.
+
+A profit-and-loss-sharing ethic cannot survive once you bolt it onto a balance sheet engineered for fixed-claim intermediation. Rename the contract all you like; the machine reverts to form.
+
+A profit-and-loss-sharing ethic cannot survive once you bolt it onto a balance sheet engineered for fixed-claim intermediation. Rename the contract all you like; the machine reverts to form.
+
+In this way—non-repayable, partly supportive, and fully repayable—the three tiers together form a balanced, participatory, solidarity-based structure. Funds are disbursed from a common source, but only the non-repayable portion is reconciled through the benevolent fund. Each class benefits according to its capacity, and the system as a whole maintains its sustainable balance.
+
+For all its charitable character, the Qard Hasan Bank would not be lax in lending to its target clientele. Through modern credit scoring and risk analysis, loans would go only to those with the capacity to repay—not on the basis of wealth, but of creditworthiness. To deter a culture of default, it could follow the penalty policies of conventional Islamic banks, with the penalty money given as sadaqah (with no expectation of reward) to avoid any taint of interest.
+
+The greatest difference lies in corporate policy. A conventional bank’s management is accountable to shareholders for maximising profit, so shareholder interests take precedence over those of depositors and borrowers. Where competition among banks is weak, the tendency is to pay token returns on deposits while lending at high rates. In a waqf-based structure, the conflict of interest among management, depositors, and borrowers is sharply reduced. Managers would be salaried, their primary aim being not profit but better service and the widening reach of the institution.
+
+Aimed at the middle class, with macroeconomic effect
+
+As in every modern society, the middle class is the largest segment of Muslim societies, so the bulk of funds would flow to them, with a defined share reaching the poor and the vulnerable. The institution would function, in effect, as an instrument of wealth redistribution—of distributive justice. The wealthy would meet their needs through capital markets and direct partnership, while those without regular income would receive one-time non-repayable support on a group-guarantee basis, along with help from the sadaqah fund.
+
+Loan use would remain purposeful and controlled. Funds would flow mainly into human capital development (education, technical and vocational training, higher study); production and small enterprise (small businesses, micro-industries, agriculture-based ventures, and start-ups); emergency consumption and social protection (health and medical costs, family emergencies, home repairs, temporary loss of income); and production-supporting infrastructure and services (transport, small-scale housing finance, agricultural inputs, and digital access). These uses balance social security on one side with economic productivity on the other.
+
+The most significant dimension is the macroeconomic one. Money creation is one of banking’s fundamental powers; without bank credit, expanding an economy is difficult, and a contraction in the money supply can usher in recession. For structural reasons, the Qard Hasan Bank would possess the same limited money-creating capacity as a conventional bank.
+
+Here lies a real difference. A conventional “interest-free” Islamic bank may avoid interest in law, but the prevailing interest rate still tugs indirectly at the supply of and demand for its funds . The Qard Hasan Bank’s operations would be interest-free in substance: the cost of a loan would be determined by the real, market-based expense of providing it, not by a fluctuating interest rate. This is no flight from reality: in a downturn, as funds contract, the bank’s lending capacity would naturally contract too.
+
+A first step
+
+The Qard Hasan Bank is not the solution to every problem in Islamic banking, and it makes no such claim. But it moves us away from a comfortable question towards an urgent one. Will we remain content to manufacture a Shariah-compliant likeness of the conventional bank—the very trap I described last time—or will we summon the courage to build distinct institutions drawn from the Islamic economy’s own values? Transforming qard hasan from a marginal act of charity into a full-fledged financial institution may be the first step in that direction. Had Islamic society been allowed to evolve along its own natural course, this would have been its natural outcome.
+
+M. Kabir Hassan is Professor of Finance and the Moffett Chair at the University of New Orleans. He is the 2016 IsDB Prize winner in Islamic Banking and Finance, a member of the AAOIFI Ethics and Governance Board, and Chairman of its Education Board.

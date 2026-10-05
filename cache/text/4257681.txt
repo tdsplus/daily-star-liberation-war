@@ -1,0 +1,33 @@
+Why Nepal’s devastating floods should no longer surprise us
+2026-08-27T13:10:46+06:00 | Sandeep Joshi
+https://www.thedailystar.net/slow-reads/big-picture/news/why-nepals-devastating-floods-should-no-longer-surprise-us-4257681
+
+Look at the Bhotekoshi riverbed in Northern Rasuwa. On the morning of August 26, a sudden 10-metre wall of water swept through Timure and Syabrubesi, destroying many settlements, tearing apart the customs infrastructure, ripping down police posts, damaging hydropower facilities, and snapping newly completed bridges along our primary trade route. The official reports across Kathmandu ministries will inevitably cite an ‘unprecedented hydrological surge/event’. But when an event hits the same landscape more than once in a decade, calling it a ‘surprise’ is just poor planning and shortsightedness.
+
+We are building a country for a climate that no longer exists.
+
+Go through any strategic document in Kathmandu, whether it is a national adaptation plan, a road expansion blueprint, or a donor-funded rural livelihood initiative, and you will find a quiet, persistent reliance on central tendencies. Planners build models around mean annual rainfall, baseline temperature increases and average river discharges. Means make complex landscape systems look neat on paper. They let us draw predictable trendlines into five-year project budgets.
+
+Nepal’s geography, however, does not care about averages.
+
+A slope in Rasuwa does not slump, nor does a bridge abutment fail, because the Trishuli corridor received its typical seasonal rainfall. It collapses because a high-altitude outburst upstream dumps months of water into a narrow gorge within minutes. Climate change, particularly in the Himalayas, is not merely shifting baseline medians upward by fractions of a degree. Its real impact is extreme variance stretching the distance between the expected mean and the destructive tail event.
+
+Our failure to account for this gap is a failure of basic statistics. Standard engineering in Nepal designs structures around historical averages: the 30-year mean flood level or the average monsoon runoff. But in volatile landscape systems such as in Nepal, the mean tells you almost nothing useful. The real threat lives in the standard deviation, the measure of how wildly extreme events deviate from that comfortable average.
+
+When you design a concrete bridge or a riverside highway for the mean, you are effectively designing it for a calm day that occurs 90 percent of the time. But infrastructure does not fail on calm days. It fails when a statistical outlier, a three-standard-deviation event, strikes the watershed. A structure built to withstand the mean is, by definition, built to wash away the moment variance rears its head.
+
+This statistical blind spot ruins public budgets from the federal level down to local units. The aftermath permeates the daily lives of thousands, crippling them to the point that bouncing back becomes nearly impossible. When an intense, high-variance storm or glacial lake outburst hits, the actual discharge overwhelms structures engineered for historical medians. Drains overflow, culverts snap, and retaining walls slide into the riverbed. Rebuilding the exact same bridge in the exact same spot using the exact same mean-based calculations every autumn invites a recurring loss of lives and fiscal drain.
+
+Breaking this cycle requires three concrete shifts in how we plan public investments across the country. First, the Ministry of Physical Infrastructure and Transport must legally ban average-based calculations for critical landscapes such as mountain corridors. All public works from local roads to major highway bridges must be engineered explicitly around high standard deviations. Approval should require stress-testing against 100-year variance models, accounting for sudden high-volume deluges rather than historical rainfall medians.
+
+Second, international development agencies and regional planners must overhaul project evaluation metrics. A programme that claims to have stabilised a riverbank or boosted local economic activity by 15 percent based on average seasonal data has accomplished nothing if a single high-sigma flood event destroys the entire valley six months later. Evaluations must measure resilience against variance, implicitly asking how well an investment holds up under extreme shocks rather than reporting basic, outdated static average returns.
+
+Finally, the National Disaster Risk Reduction and Management Authority (NDRRMA) needs to move resources away from post-disaster cleanup and into forecast-triggered action. Waiting for a landslide to choke a river before mobilising emergency funds is an expensive strategy. Automated, forecast-based budget mobilisations and warnings must trigger the moment high-variance weather patterns or upstream outburst indicators appear, allowing vulnerable communities to secure assets before the shock wave arrives.
+
+There is no doubt Nepal’s terrain presents natural challenges, but geography alone is not destroying our roads and infrastructure. Our current systems fail because our planners insist on designing for a calm middle ground that no longer exists, and we have seen multiple devastating examples of it.
+
+A bridge or an adaptation policy that performs beautifully during 99 average days is entirely useless if it collapses on the one day the river shows us its true standard deviation. So, it is highly urgent that planning moves from mean- to standard deviation-based thinking, staying ready for so-called unprecedented and outlier events which in reality are precedented.
+
+This article was first published under the title “Why Nepal’s infrastructure keeps getting devoured by rivers" in The Kathmandu Post, an ANN partner of The Daily Star, on August 26, 2026.
+
+Sandeep Joshi holds a PhD in Environmental Science.

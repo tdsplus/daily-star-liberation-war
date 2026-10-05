@@ -1,0 +1,97 @@
+How to make essential medicines affordable and accessible in Bangladesh
+2026-09-12T00:15:00+06:00 | Shafiun Nahin Shimul
+https://www.thedailystar.net/slow-reads/big-picture/news/how-make-essential-medicines-affordable-and-accessible-bangladesh-4270456
+
+Bangladesh's medicine policy has once again reached a crossroads, but the debate risks focusing on the wrong problem.
+
+On August 3, the government cancelled the Essential Medicines List (EML) 2026 and the Medicine Pricing Method 2026 on the grounds that the statutory National Drug Advisory Council had not been consulted, as required under the Drugs and Cosmetics Act 2023. The cancellation was subsequently gazetted. Until a replacement is developed, Bangladesh has reverted to the 1994 Essential Medicines List and its accompanying pricing system—a framework created more than three decades ago for a country with a vastly different epidemiological, economic and pharmaceutical landscape.
+
+The legal objection was reasonable. A policy of this magnitude should not bypass the statutory body created to vet it. But there is a meaningful difference between correcting a flawed process and abandoning a legitimate policy objective. Bangladesh appears to be at risk of doing the latter while believing it has only done the former.
+
+What makes a medicine essential?
+
+It is worth returning to first principles. The idea of an essential medicines list exists because no health system, rich or poor, can or should treat every available medicine as equally important. The World Health Organisation defines essential medicines as those that satisfy the priority healthcare needs of a population , selected on the basis of disease burden, public-health relevance, evidence of efficacy and safety, comparative cost-effectiveness and affordability. Once selected, they are meant to be available in adequate quantities, of assured quality and, most importantly, at prices individuals and health systems can actually sustain.
+
+WHO revises its own Model List every two years. The most recent iteration includes more than 520 medicines, reflecting a growing burden of chronic and non-communicable diseases worldwide. There is nothing wrong, in principle, with having a shorter list than that. A tightly curated list can, in fact, improve procurement discipline, rational prescribing and supply-chain management. But a short list is only good policy when its length is a conclusion drawn from evidence, not a number preserved out of administrative habit.
+
+This distinction is crucial, and it is precisely where reverting to the 1994 framework falls short.
+
+What kind of doctors does Bangladesh need?
+
+Why the 1994 list no longer works
+
+The 1994 list contains 117 medicines, reflecting a disease profile that has changed substantially over the past three decades. Non-communicable diseases such as hypertension, diabetes, cardiovascular disease and chronic respiratory illness now account for a large and growing share of Bangladesh's disease burden. At the same time, the country continues to confront infectious diseases and maternal and child health challenges, alongside emerging health threats that were not considered national priorities when the list was developed.
+
+The National Drug Policy of 2016 called for periodic revisions of the essential medicines list, yet no systematic review followed for years. By then, the list had expanded to around 285 medicines, while the government’s direct price controls continued to cover only the original 117. This created a fundamental contradiction: if a medicine was considered essential, why was there no effective mechanism to ensure that it remained affordable?
+
+The National Drug Policy of 2016 called for periodic revisions of the essential medicines list, yet no systematic review followed for years. By then, the list had expanded to around 285 medicines, while the government’s direct price controls continued to cover only the original 117. This created a fundamental contradiction: if a medicine was considered essential, why was there no effective mechanism to ensure that it remained affordable?
+
+The National Drug Policy of 2016 called for periodic revisions of the essential medicines list, yet no systematic review followed for years. By then, the list had expanded to around 285 medicines, while the government’s direct price controls continued to cover only the original 117. This created a fundamental contradiction: if a medicine was considered essential, why was there no effective mechanism to ensure that it remained affordable?
+
+The 2026 reform sought to close that gap by expanding the list to 295 medicines and bringing them under government price controls. The process may have been flawed, but that does not necessarily invalidate the objective behind the reform.
+
+Why Bangladesh is still failing to protect children from infectious diseases
+
+Production matters as much as price
+
+There is another problem in Bangladesh's medicine policy debate that receives far less attention than it deserves: keeping medicines affordable means little if manufacturers can no longer afford to produce them.
+
+Price ceilings set below sustainable production costs do not simply squeeze manufacturers' margins; over time, they can drive manufacturers out of the market altogether. The Bangladesh Association of Pharmaceutical Industries has claimed that production of roughly 60 percent of the 117 medicines covered by the old regulated-price regime has been suspended.
+
+Whatever the precise figure, the underlying economic logic is straightforward: if the regulated price of a medicine falls below the cost of reliably producing and supplying it, manufacturers will eventually have little incentive—or ability—to keep it on the market.
+
+An essential medicine that is commercially unviable to produce may be essential on paper, but it will be absent from pharmacy shelves. A medicine that is affordable in theory but unavailable in practice does not solve the problem of access; it merely creates a different one.
+
+Bangladesh's medicine policy must therefore manage two risks simultaneously. Overpricing harms patients directly by increasing out-of-pocket costs. Underpricing can harm them just as seriously by undermining the supply needed to keep medicines available. A successful pricing policy must therefore balance affordability with the sustainability of supply.
+
+Breastfeeding in Bangladesh: What is holding mothers back?
+
+A longer list is not necessarily a better list
+
+This does not mean that the 2026 list of 295 medicines should be accepted simply because it is more comprehensive than the 1994 list. An essential medicines list should not become an accumulation of every medicine that particular groups consider important. Expanding the list without clear justification is no more evidence-based than preserving an outdated list simply because it already exists.
+
+What Bangladesh needs instead is a transparent, criteria-driven selection process. Each medicine should be assessed according to disease burden and public-health importance, clinical effectiveness and safety, the availability of therapeutic alternatives, comparative cost-effectiveness, affordability for patients, relevance to primary healthcare, the consequences of leaving a condition untreated, reliability of supply, and the fiscal implications for the wider health system. The process should involve clinicians, health economists, pharmacists, public-health specialists, patient representatives, manufacturers, government agencies and independent experts, while ensuring that lobbying does not influence technical decisions.
+
+Three questions that need separate answers
+
+One of the most important structural reforms Bangladesh could make is also conceptual: separating the essential medicines list from the pricing mechanism, and separating both from procurement policy. These are three different policy instruments designed to answer three different questions. Treating them as though they were interchangeable has repeatedly produced confused and contradictory outcomes.
+
+The essential medicines list should answer: which medicines are necessary to meet Bangladesh's priority health needs? The pricing mechanism should answer: what constitutes a fair and sustainable price for those medicines? Procurement and reimbursement policy should answer a third question: which medicines should the government purchase directly, subsidise or reimburse for patients?
+
+The essential medicines list should answer: which medicines are necessary to meet Bangladesh's priority health needs? The pricing mechanism should answer: what constitutes a fair and sustainable price for those medicines? Procurement and reimbursement policy should answer a third question: which medicines should the government purchase directly, subsidise or reimburse for patients?
+
+The essential medicines list should answer: which medicines are necessary to meet Bangladesh's priority health needs? The pricing mechanism should answer: what constitutes a fair and sustainable price for those medicines? Procurement and reimbursement policy should answer a third question: which medicines should the government purchase directly, subsidise or reimburse for patients?
+
+These distinctions matter because inclusion on the essential medicines list does not necessarily mean that every medicine should be subject to the same degree of price control. A medicine can be essential to public health without requiring the same regulatory treatment as every other medicine on the list.
+
+Bangladesh's current binary approach leaves little room for such distinctions.
+
+Towards differentiated, evidence-based pricing
+
+A more economically sound approach would introduce tiered price regulation rather than applying a single pricing formula uniformly across thousands of products.
+
+Life-saving medicines with few therapeutic alternatives, as well as those central to national public-health programmes, could form a top tier subject to strong price regulation and guaranteed public procurement.
+
+Commonly used medicines for chronic conditions such as hypertension, diabetes and asthma could form a second tier, with the government setting maximum prices while allowing sufficient margins to keep manufacturers in the market.
+
+Medicines with several therapeutically equivalent generic alternatives could fall into a third tier, where market competition plays a greater role, supported by transparent reference prices or maximum retail prices. Medicines outside the essential category would generally not require direct price-fixing, although they should remain subject to appropriate transparency and competition oversight.
+
+Such a system should be supported by a reference-pricing methodology based on verified domestic production costs, the prices of comparable generic medicines, international reference prices, prices in structurally similar countries, relevant import costs, and reasonable margins needed to ensure continued supply. This would be preferable to relying solely on cost data reported by manufacturers themselves, which creates an information imbalance that makes it difficult for regulators to determine whether proposed prices accurately reflect the costs of production and supply.
+
+Nor should regulated prices remain fixed indefinitely. The costs of active pharmaceutical ingredients, packaging, energy, labour, transport and financing, as well as exchange-rate movements, change over time. A price set once and left unchanged for years may remain regulated in name, but it can become increasingly detached from economic reality. A predictable review cycle—perhaps an annual assessment to account for exceptional cost shocks, alongside a comprehensive review every two to three years—would allow the system to remain responsive without opening the door to constant renegotiation.
+
+Five reforms worth pursuing
+
+Bangladesh should pursue five concrete reforms. First, develop a new essential medicines list based on the country's current disease burden and treatment guidelines, rather than reverting to the 1994 list or simply preserving the 2026 figure of 295 medicines.
+
+Second, establish a genuine two-year review cycle, consistent with WHO's practice and Bangladesh's own stated policy objectives.
+
+Third, introduce differentiated price regulation based on therapeutic importance, the level of market competition and the risk of supply shortages, rather than applying a single formula indiscriminately.
+
+Fourth, establish an independent pricing mechanism based on verified data and a transparent methodology, with prices reviewed according to a predictable schedule rather than through ad hoc negotiations.
+
+Fifth, and perhaps most importantly, judge the policy by its outcomes rather than by the price list alone. This means tracking medicine availability, stock-outs, retail prices, affordability, treatment adherence, manufacturer participation, market concentration, quality and household out-of-pocket spending.
+
+A price reduction that leads to shortages cannot be considered a success. Nor can a system be considered successful if medicines remain readily available but become unaffordable to the patients who need them.
+
+Shafiun Nahin Shimul , PhD, is Professor and Director of the Institute of Health Economics, University of Dhaka.

@@ -70,7 +70,19 @@ def rows():
             "problems": problems,
         })
     key = lambda x: (x["date"] is None, x["date"] or date.min, x["title"].lower())
-    return sorted(out, key=key)
+    out = sorted(out, key=key)
+    # The site occasionally republishes an article under a new node id. Same
+    # normalised title + author => keep the earliest, report the rest.
+    seen, kept, dupes = {}, [], []
+    for it in out:
+        k = (re.sub(r"[^a-z0-9]+", " ", it["title"].lower()).strip(), it["author"].lower())
+        if k in seen:
+            it["problems"] = [f"likely duplicate of {seen[k]['url']} (same title and author)"]
+            dupes.append(it)
+        else:
+            seen[k] = it
+            kept.append(it)
+    return kept, dupes
 
 
 def style(ws, widths, wrap_cols):
@@ -104,10 +116,10 @@ def write_article_sheet(ws, items, extra=()):
 
 
 def main():
-    items = rows()
+    items, dupes = rows()
     main_items = [i for i in items if i["priority"]]
     other_items = [i for i in items if not i["priority"]]
-    review = [i for i in items if i["problems"]]
+    review = [i for i in items if i["problems"]] + dupes
 
     wb = Workbook()
     ws = wb.active
@@ -117,8 +129,11 @@ def main():
     ws = wb.create_sheet("Needs review")
     ws.append(["Date", "Author", "Title", "Link", "Relevance", "Sheet", "Why it needs review"])
     for it in review:
+        sheet = "Articles" if it["priority"] else "Other sections"
+        if it in dupes:
+            sheet = "(not listed - duplicate)"
         ws.append([it["date"], it["author"] or None, it["title"], it["url"], it["label"],
-                   "Articles" if it["priority"] else "Other sections", "; ".join(it["problems"])])
+                   sheet, "; ".join(it["problems"])])
         r = ws.max_row
         if it["date"]:
             ws.cell(r, 1).number_format = DATE_FMT
@@ -133,7 +148,8 @@ def main():
     ws.append(["Metric", "Value"])
     ws.append(["Articles (Slow Reads / In Focus)", len(main_items)])
     ws.append(["Other sections", len(other_items)])
-    ws.append(["Needs review (also listed on their main sheet)", len(review)])
+    ws.append(["Needs review (also listed on their main sheet, except duplicates)", len(review)])
+    ws.append(["Likely duplicates left off the main sheets (see Needs review)", len(dupes)])
     ws.append(["News reports excluded (listed in classification_log.csv)",
                sum(l.get("content_type") == NEWS for l in load_labels().values())])
     ws.append(["Rows needing a date added (amber Date cell)",

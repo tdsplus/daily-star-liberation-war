@@ -1,0 +1,53 @@
+How Bangladesh can stop the next data breach
+2026-07-14T23:53:56+06:00 | Khairul Hassan Jahin
+https://www.thedailystar.net/slow-reads/big-picture/news/how-bangladesh-can-stop-the-next-data-breach-4224041
+
+Dr B M Mainul Hossain, Professor and Director of the Institute of Information Technology at the University of Dhaka and an expert in software engineering and cybersecurity, speaks to The Daily Star about Bangladesh's ongoing data security paradox, the critical vulnerabilities caused by structural flaws in software design, and the legal and institutional reforms needed to make the protection of citizens' data more transparent and accountable.
+
+The Daily Star (TDS): Why do major data breaches continue in Bangladesh despite strict cyber laws and substantial digital investments?
+
+B M Moinul Hossain (BMHH): Having a law and enforcing it are two entirely different things. Laws against theft or murder have existed for a long time; does that mean crime has stopped? The way to reduce crime is through the proper enforcement of the law.
+
+Our law enforcement agencies suffer from technical weaknesses and shortfalls in many respects. We simply do not have enough personnel or technically skilled people to tackle the scale of cybercrime and data violations occurring today. Enforcing the law cannot be done through rhetoric alone; it requires long-term planning, investment, and the recruitment of technically skilled experts. Even though the world has advanced technologically, these issues remain largely uncharted territory for our law enforcement agencies and government. Because we are still in the early stages, we have not yet reached the desired level on the technical front.
+
+TDS: Why do basic structural flaws, rather than sophisticated hacks, cause major data leaks in our national systems? Furthermore, how does constant data-sharing between organisations create vulnerabilities, and what is the solution?
+
+BMHH : It isn't just the NID; sensitive data has leaked from various sources.The root cause lies in the difference between "developing software" and "software engineering". The capability and security of a piece of software must be determined at the architecture and design stage itself.
+
+For instance, streaming platforms often crash during the World Cup because they are not scalable. If proper software engineering practices are followed and systems are tested in advance, one can predict how a system will cope when millions of requests arrive simultaneously. Whether the necessary protocols were followed to secure data at the point of collection is equally important. Many organisations build software that is merely functional, without allocating any budget for security, because ensuring security substantially increases costs. This is precisely what eventually leads to major losses, such as data breaches or cyberattacks.
+
+Why Bangladesh’s new data protection law may fail to protect your data
+
+Students do learn these security-by-design principles at educational institutions, but they do not always get the opportunity to apply them once they enter the workforce. If an organisation or its management does not allocate a budget for security, an engineer cannot ensure it alone, however much they might want to. Many of our best IT graduates leave the country because of global demand. Those who stay often do not get sufficient opportunities to work on data protection or security. That said, some organisations are paying close attention to this, although, on the whole, this culture has not yet fully taken root in our country.
+
+The solution to this lies in the Data Protection Act. Roughly 150 countries worldwide have such legislation either in force or in draft. Once such a law comes into effect, public and private organisations handling citizens' data will be obliged to follow international protocols to protect it.
+
+There must also be a system of data protection certification and auditing. Companies earning thousands of crores of taka annually must allocate a budget for data security. If the government does not monitor them and hold them accountable, why would they spend money protecting citizens' data? Any weaknesses in the Data Protection Act must therefore be removed, the law enforced quickly, and a strong authority established to monitor it.
+
+TDS: How serious is the threat of identity theft from everyday consumer data leaks, and how does this compare with the national-level risks of NID data theft?
+
+BMHH : This is a very natural concern. A data leak can cause you financial, psychological, and even physical harm. If you call your bank for a service, it will ask for your name, your parents' names, your date of birth, and so on. If your data falls into someone else's hands, they can use that same information to gain access to your bank account, leaving you financially compromised.
+
+Someone could also use your leaked data to open a fake social media account. If they post anti-state or inflammatory content from it, you could find yourself in legal trouble. The police could arrest you, or you could become the target of mob violence. Data is such a critical asset in the digital space that it can be be used to put you in danger in almost any way imaginable.
+
+And yes, at the national level, the risks are enormous on an international scale. Cyber warfare is a reality of today's world. If one country's citizens' data falls into another country's hands, it becomes easier for that country to conduct espionage. The leak of sensitive information or conversations involving a state's VIPs or key figures poses a major threat to that state.
+
+The greatest concern of all is biometric data. You can change your password if you wish, but you cannot change your fingerprint or your iris. Once such data is compromised, it remains a lifelong risk.
+
+The greatest concern of all is biometric data. You can change your password if you wish, but you cannot change your fingerprint or your iris. Once such data is compromised, it remains a lifelong risk.
+
+The greatest concern of all is biometric data. You can change your password if you wish, but you cannot change your fingerprint or your iris. Once such data is compromised, it remains a lifelong risk.
+
+TDS: Are organisations properly encrypting citizens' data or storing it in plain text?
+
+BMHH : In the European Union, there are data protection standards and protocols, such as the GDPR. It sets out clearly how data must be collected and stored. Most importantly, a citizen has the right to instruct an organisation to delete their data at any time. But most websites in our country do not even offer a delete option. If we were to follow the Data Protection Act, organisations would be obliged to provide this option. If an organisation cannot guarantee the security of data, it has no right to collect that data from citizens in the first place.
+
+What's needed first is not so much structural change as a change in mindset. Ensuring data protection or security costs a great deal of money. Unless the government compels organisations through enforcement and holds them accountable, they will not spend this money of their own accord. Just as merely offering advice does not reduce crime in society, the law must be enforced, and punishment must follow. Enforcement is the most critical piece here, too.
+
+TDS: Does the current Data Protection Act genuinely prioritise protecting the data ecosystem, or is it geared more towards data localisation and state surveillance?
+
+BMHH : These laws are, in fact, deeply intertwined with one another. Frequent changes to legislation are creating a number of gaps. Within these laws, powers are left in the hands of the government and law enforcement agencies, which carry considerable potential for misuse. What's missing is "checks and balances", or accountability. If the government itself wrongs me, who do I turn to? Alongside protection from hackers, safeguarding citizens' personal privacy from unwanted state surveillance is equally essential, and this is something largely absent from our current law.
+
+Data localisation, too, is a complex issue. Current IT systems are global in nature. If Facebook's data can be accessed by the US government under its own laws, but not by our government, that is an inconsistency. On the other hand, insisting that all data be kept within the country would create performance problems, since systems slow down when data is not cached beyond geographic boundaries. The solution lies in dialogue and balance. If foreign governments have the means to access such data, our legal framework must have the same provision, but never at the expense of citizens' rights.
+
+The interview was taken by Khairul Hassan Jahin

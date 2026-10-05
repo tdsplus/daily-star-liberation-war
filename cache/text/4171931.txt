@@ -1,0 +1,103 @@
+How Asia negotiated with Washington while Bangladesh lost out
+2026-05-10T08:23:32+06:00 | M.G. Quibria
+https://www.thedailystar.net/slow-reads/big-picture/news/how-asia-negotiated-washington-while-bangladesh-lost-out-4171931
+
+On February 20, 2026, the Supreme Court handed Washington's Asian trading partners what looked, for a brief moment, like a reprieve. In a 6–3 decision, the Court struck down the tariffs President Trump had imposed under the International Emergency Economic Powers Act, ruling that levying tariffs is "very clearly a branch of the taxing power" reserved for Congress. Almost immediately, the administration pivoted to Section 122 of the Trade Act of 1974, slapping a uniform 10 percent tariff on all countries, which was eventually raised to 15 percent. The legal instrument changed. The pressure did not.
+
+For the dozen or so Asian governments that had spent months in high-stakes negotiations with Washington—signing deals, making concessions, and pledging billions—the ruling did not deliver relief so much as it unsettled the terms of the bargain. The advantages they had paid for suddenly looked far less exclusive. And the question that had been buried inside the fine print of their agreements surfaced with new urgency: what, exactly, had they bought?
+
+Washington was not merely seeking lower tariffs or narrower trade deficits. It was using tariff pressure to reshape supply chains, redirect procurement, discipline transhipment, expand regulatory influence, and pull Asian economies more tightly into its strategic orbit.
+
+Malaysia: A deal that lost its value
+
+No country better captured the drama—and the absurdity—of Asia's trade reckoning with Washington than Malaysia. Kuala Lumpur had signed an Agreement on Reciprocal Trade (ART) in October 2025 on the sidelines of the ASEAN Summit, reducing tariffs on Malaysian goods from a punishing 47 percent to a manageable 19 percent. At the time, it looked like a hard-won victory. Then the Court ruled, the Section 122 surcharge kicked in, and Malaysia found itself facing roughly the same rate as countries that had given Washington nothing at all.
+
+The response was swift and, by the standards of diplomatic protocol, startling. Trade Minister Johari declared the agreement "null and void" on March 16, 2026, before softening the position the following day with a diplomatic hedge: Malaysia had not, he noted, received formal confirmation of cancellation from Washington. The episode was less a negotiating gambit than a primal scream—a government telling its domestic audience that it knew it had been had.
+
+What Malaysia's predicament exposed was a vulnerability shared across the region. Its electronics and semiconductor sectors remain exposed to future US action as Washington turns to other statutory tools. The ruling gave Malaysia short-term relief. Strategic certainty it did not provide.
+
+Indonesia: Real concessions, terrible timing
+
+Indonesia's case requires sympathy, if not quite pity. Jakarta signed its ART on February 19, 2026—one day before the Supreme Court ruling. The deal was genuinely substantive: a baseline 19 percent reciprocal tariff, with zero-duty treatment across 1,819 tariff lines covering palm oil, coffee, cocoa, spices, rubber, semiconductors, and aircraft parts. Indonesian garment exporters received zero tariffs on agreed apparel volumes under a special tariff-rate quota tied to the use of American-origin cotton and synthetic fibres.
+
+Then the clock struck midnight. Some of Indonesia's most valuable benefits rested on IEEPA-based legal provisions that the Court invalidated the very next morning. Those gains need to be reissued under separate US statutory authority—and may be revised in the process. Indonesia secured more than most. But the durability of what it secured remains an open question.
+
+China: A reprieve, not a resolution
+
+China's position after the ruling is paradoxical in the way that only great-power trade conflicts can produce. On paper, Beijing benefited most from the decision: the ruling stripped away the reciprocal and fentanyl-related duties imposed under IEEPA. In practice, China remains the most comprehensively targeted economy in Asia, with its exports still buried under overlapping layers of Section 301 tariffs, Section 232 measures, and the new Section 122 surcharge. On many goods, the effective rate still hovers near 30 percent. On semiconductors and electric vehicles, it runs far higher.
+
+Unlike every other country discussed here, China has no ART, no framework agreement, and no preferential tariff lane. What it has is a fragile tariff truce—patched together through a series of extensions, the latest running through November 2026—and the ever-present possibility that the next round of escalation is one Truth Social post away. The Supreme Court ruling gave Beijing a reprieve. Washington's broader strategy of technological and industrial containment remains emphatically intact.
+
+Japan and South Korea: Investment pledges, legal exposure
+
+Japan and South Korea paid the highest price of any Asian negotiating partners—not through tariffs, but through investment commitments of a scale and structural novelty that left economists and constitutional lawyers equally baffled. Both are close US allies that negotiated under the long shadow of security dependence. And neither gained much from the Supreme Court ruling, because neither had faced the same scale of IEEPA-based tariff exposure as their Southeast Asian neighbours.
+
+Japan's September 2025 arrangement was extraordinary even by the standards of this era's extraordinary trade politics. Tokyo pledged roughly US$550 billion in investments across the US semiconductor, energy, and shipbuilding industries through a memorandum of understanding that gave the Trump administration broad discretion over allocations. Legal scholars were quick to observe that the structure appeared to bypass the congressional appropriations process entirely—essentially handing a foreign government's capital to a president to direct as he saw fit, outside the normal fiscal architecture of the United States. Implementation has proved predictably contentious: Washington and Tokyo have acknowledged "significant gaps" in their initial project priorities.
+
+Prime Minister Takaichi's government has resisted calls for renegotiation, describing it as "too soon to broach such a potentially explosive topic." The political arithmetic is clear enough: Japan cannot risk provoking Washington into raising automobile tariffs under Section 232, which the Supreme Court ruling left entirely intact.
+
+South Korea's path was more publicly fractious. Its investment package—US$350 billion covering shipbuilding and strategic industries—required domestic legislation to implement, and that ratification process became a parliamentary battle that Washington, unusually, chose to fight openly. President Trump posted on Truth Social, urging the Korean legislature to act and threatening to raise tariffs back to 25 percent. It worked, after a fashion. The National Assembly passed the Special Investment Act on March 12, 2026, though with a vote that reflected coercion more than conviction—opposition support was framed as a reluctant concession to the national interest. The parliamentary hurdle has been cleared. The underlying tensions have not.
+
+How Trump’s tariffs have failed the US economy
+
+For both Tokyo and Seoul, the Supreme Court's ruling added uncertainty rather than relief. For businesses planning supply chains, a signed agreement is cold comfort when the legal ground beneath it keeps shifting.
+
+Vietnam, Thailand, and the Philippines: Frameworks without finality
+
+Vietnam and Thailand experienced the sharpest tariff relief of any country: Vietnam's IEEPA rate had stood at 46 percent; Thailand's at 36 percent. Both dropped to the flat Section 122 tariff rate overnight, making their exports significantly more competitive in the US market without either country having concluded a final ART.
+
+Washington was not merely seeking lower tariffs or narrower trade deficits. It was using tariff pressure to reshape supply chains, redirect procurement, discipline transhipment, expand regulatory influence, and pull Asian economies more tightly into its strategic orbit
+
+Washington was not merely seeking lower tariffs or narrower trade deficits. It was using tariff pressure to reshape supply chains, redirect procurement, discipline transhipment, expand regulatory influence, and pull Asian economies more tightly into its strategic orbit
+
+That changed their incentives in ways Washington may not have intended. Vietnam had reached only a framework agreement, with a headline reciprocal rate of 20 percent; Thailand's framework anticipated a 19 percent rate. Both rates are higher than the Section 122 tariff that both countries now actually face. Hanoi and Bangkok therefore have every reason to slow-walk their negotiations—why lock in a 20 percent ceiling when the current rate is already lower?
+
+The Philippines finds itself in a structurally similar position. In July 2025, President Ferdinand Marcos Jr. and President Donald Trump announced a bilateral arrangement at the White House under which Philippine exports would face a 19 percent tariff. But no formal document appears to have been signed. Manila, like Hanoi and Bangkok, has a deal in name and a negotiation in practice.
+
+India: Leverage restored
+
+India's trade saga was among the most turbulent of any Asian country, and its resolution—still incomplete—is among the most strategically revealing. Throughout 2025, Washington raised tariffs on Indian goods to as high as 50 percent, partly as a penalty for India's continued purchases of discounted Russian crude. The pressure was real, but so was India's patience—New Delhi watched as its Russian import volumes gradually fell while other options were explored.
+
+The breakthrough came in early February 2026, when Prime Minister Narendra Modi signalled a significant reduction in Russian oil purchases—a move Trump announced via Truth Social as a "stop", though India never formally confirmed a complete halt. In exchange, Washington reduced its reciprocal tariff on Indian goods to 18 percent and promised zero tariffs on pharmaceuticals, gems, diamonds, and aircraft parts once an interim agreement was concluded. India, in turn, committed to concessions on US industrial goods, selected agricultural imports, and large purchases of US energy, technology, and commodities worth US$500 billion. New Delhi protected its most politically sensitive sectors—dairy, rice, and millets—throughout.
+
+The Supreme Court's ruling further strengthened India's hand. With the IEEPA threat gone, New Delhi gained room to slow the process and press for better terms. India's size gave it an option that smaller countries simply did not have.
+
+Bangladesh: A most asymmetric bargain
+
+Bangladesh is the most instructive case in this survey because it shows with unusual clarity what happens when a vulnerable exporter negotiates from a position of acute dependence, under time pressure, without a democratic mandate, and with no strategic card to play. Dhaka concluded its ART with Washington on February 9, 2026, eleven days before the Supreme Court ruling. The deal was negotiated under a non-disclosure arrangement, with little parliamentary or public oversight, by an interim government in the final days of its tenure, just days before a national election. Those facts alone should give pause.
+
+Bangladesh–US trade deal and the test of strategic autonomy
+
+What Bangladesh gave is extensive. In exchange for reducing its reciprocal tariff from 37 percent to 19 percent, Dhaka agreed to eliminate tariffs on nearly the full range of US imports over time; expand purchases of US wheat, soybeans, and cotton by billions of dollars; facilitate Biman Bangladesh Airlines' purchase of 14 Boeing aircraft; import approximately US$15 billion in US liquefied natural gas over 15 years; accept US federal motor vehicle safety and emissions standards; recognise US FDA approvals for pharmaceuticals and medical devices without separate domestic review; and align security procurement away from countries the United States classifies as non-market economies. That list is not a trade agreement. It is a strategic realignment disguised as one.
+
+The headline benefit—widely celebrated in Dhaka's initial press coverage—was a zero-tariff lane for apparel exports made with US-origin cotton or man-made fibres, available only up to a fixed volume, above which normal tariffs apply. But the celebration rested on a misreading. The zero tariff applies only to the reciprocal tariff component. The underlying most-favoured-nation tariff—roughly 15 percent for many garments—remains in place. Bangladesh's exporters were told they had won duty-free access. What they had actually won was a partial reduction in one layer of a multi-layered tariff regime.
+
+The deeper problem is not the tariff rate. It is the breadth of the policy concessions wrapped around it. The ART is less a narrow trade arrangement than a framework of managed trade and strategic alignment—one that directs Bangladesh's procurement towards US aircraft, energy, and agricultural goods; constrains its regulatory autonomy in pharmaceuticals; and limits its future economic diplomacy through termination provisions tied to US security preferences.
+
+The agreement's non-market economy clause—which uses the legal term without naming China or Russia directly, letting US law do the definitional work—could complicate and politically deter Bangladesh's future accession to the Regional Comprehensive Economic Partnership, the world's largest trade bloc, since accession requires bilateral agreements with all members, including China.
+
+The agreement enters into force 60 days after both parties certify completion of applicable legal procedures. That window gives Bangladesh's newly elected government both a basis—and an obligation—to review what was signed on its behalf. Whether it has the political will and diplomatic capital to do so is another matter. Cancelling the deal would damage Bangladesh's credibility with Washington. Allowing it to stand without scrutiny sets a precedent that reaches far beyond tariffs.
+
+Why Cambodia did better
+
+Cambodia, like Bangladesh, is a least developed country, and its ART explicitly acknowledges that status. Yet Phnom Penh walked away with a noticeably better bargain.
+
+Cambodia's managed-trade commitments were lighter. Its termination clause was vaguer and less constraining. Its security-related constraints appear less specific and less intrusive than those imposed on Bangladesh. In return for signing, Cambodia received concrete and valuable offsets: the lifting of a US arms embargo that the Biden administration had imposed due to concerns over Chinese military influence and human rights—a significant diplomatic rehabilitation; and a soft US commitment to consider the agreement when imposing future Section 232 tariffs. Bangladesh received no comparable strategic offsets.
+
+The explanation is not economic. It is geopolitical. Cambodia had something Washington wanted beyond trade concessions: leverage over Chinese military influence in a strategically sensitive corner of Southeast Asia. That gave Phnom Penh a card to play. Bangladesh arrived at the table under tariff pressure, with an interim government nearing the end of its mandate and no comparable strategic asset. The terms of the deal reflect that imbalance with merciless precision.
+
+The regional lesson
+
+Washington's trade offensive was never simply about deficits or market access. It was about reshaping supply chains, redirecting procurement, disciplining transhipment, and embedding US regulatory and security preferences deep within the domestic policy space of its trading partners. The terms each country received reflected not its economic weight so much as its strategic value to Washington at a particular moment.
+
+The countries that did best were not those most eager to concede. They were those with real leverage—market size, strategic location, supply-chain indispensability, or security value that Washington needed and could not easily replicate elsewhere. India had scale and patience. Cambodia had a Chinese military presence that Washington wanted constrained. Indonesia had palm oil, coal, and a president willing to fly to Washington and sign. Bangladesh had garments, desperation, and an interim government that would not be around to live with the consequences.
+
+Deals signed under tariff duress may not survive legal change, political scrutiny, or shifts in Washington's statutory strategy.
+
+When “America First” policy translates into “China First” outcome in a new Cold War
+
+Bangladesh should treat its ART not as a settled bargain but as a document requiring serious national review. The agreement's breadth—spanning pharmaceutical regulation, military procurement, energy infrastructure, and the future of its trade diplomacy—is too consequential to be left in place without democratic scrutiny. If it stands unexamined, it will normalise something worth resisting: the use of tariff pressure to reshape not just trade flows, but the sovereign space within which a country makes its choices.
+
+What is new in this moment is the granularity of the ambition: the willingness to reach inside another country's regulatory framework, its energy contracts, its arms procurement, its digital governance, and its future diplomatic options, and to treat all of it as negotiable in exchange for a lower tariff ceiling. And the countries that signed on the dotted line before they had time to read the fine print are only now beginning to understand what they agreed to.
+
+Dr. M.G. Quibria is an economist and public affairs commentator whose work explores trade, development, governance, and democratic change in Bangladesh and beyond. He can be reached at [email protected] .

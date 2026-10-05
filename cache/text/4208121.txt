@@ -1,0 +1,83 @@
+Will Bangladesh's social security budget help the poor?
+2026-06-25T16:03:12+06:00 | Asad Islam
+https://www.thedailystar.net/slow-reads/big-picture/news/will-bangladeshs-social-security-budget-help-the-poor-4208121
+
+On 11 June, Finance Minister Amir Khosru Mahmud Chowdhury presented the BNP government's first budget in twenty years. The budget's social security component is more than a fiscal allocation. It is the first real test of whether the new government's promise to rebuild Bangladesh's social contract by extending protection to those left behind, delivering benefits without political intermediation, and turning the safety net from a patronage instrument into a constitutional right would be reflected in actual spending priorities.
+
+On the surface, the numbers are striking. The FY2026-27 Social Security Budget Report presents a total allocation of Tk 1,44,338 crore across 90 programmes, the largest in Bangladesh's history and a 14 per cent nominal increase over last year. The Finance Minister's speech invoked Article 15(d) of the Constitution, framing social assistance not as charity but as a citizen's entitlement. The Family Card Programme, which promises Tk 2,500 per month to poor households through digital transfer, was presented as the centrepiece of a new welfare architecture.
+
+For millions of Bangladeshi families, social transfers are not numbers in a budget document. They are often the difference between eating three meals a day and skipping one, keeping children in school and withdrawing them, and seeking medical care and postponing it. Social protection is the state's most direct instrument for sharing economic progress with its most vulnerable citizens. That is why the Social Security Budget Report deserves to be read not just for its headline figure, but for what the numbers reveal about three questions: how much actually reaches poor households; what is being expanded and what is being quietly squeezed to make room for it; and whether the system being built this year moves Bangladesh towards a stronger and more durable form of social protection.
+
+A budget built on recovery and reform, but can it deliver?
+
+The real shape of the budget
+
+The headline allocation of Tk 1,44,338 crore is significantly less impressive than it first appears.
+
+Of the 90 programmes included in the social security budget, the Finance Division identifies only 48 as programmes primarily intended to support poor and vulnerable households. Together, these programmes receive Tk 56,229 crore, which is just 38.9 per cent of the total social security budget. The remaining 61 per cent is allocated elsewhere.
+
+A substantial share of the headline figure is the pension bill for government employees. Separating these categories, and publishing a transparent accounting of what actually reaches poor households, is a basic prerequisite for honest policymaking.
+
+The largest single item outside the poverty reduction category is Pension Management, with an allocation of around Tk 35,379 crore serving 9.59 lakh retired civil servants. A single pension scheme for fewer than 10 lakh retired civil servants consumes roughly two-thirds of what all 48 poverty reduction programmes receive combined. This is not a new structural problem, but it deserves to be acknowledged clearly each year.
+
+What is being prioritised and what is being squeezed
+
+Within the programmes aimed at reducing poverty, the composition of spending has shifted sharply—and not in ways the government has been particularly forthright about. The rapid expansion of the Family Card Programme, which rose from a pilot allocation of Tk 86.61 crore to Tk 14,500 crore in a single budget cycle, is the defining feature of this year's budget. That shift has consequences that the budget documents record quietly.
+
+The family card: Universal promise or targeted programme?
+
+Looking only at the budget allocated to programmes for poor and vulnerable households, the share devoted to public employment programmes fell from 6.85 per cent to 4.89 per cent. The share allocated to education-related transfers within the social protection budget declined from 10.64 per cent to 8.06 per cent, while the share devoted to food distribution programmes fell from 9.80 per cent to 7.13 per cent. The share allocated to programmes supporting households affected by floods, crop failures, and other shocks also declined, while the allocation for schoolchildren was reduced.
+
+Put differently, within the resources allocated to programmes for poor and vulnerable households, the Family Card has expanded rapidly while several existing programmes have become relatively smaller. Reallocation may be justified if the Family Card proves more effective than the programmes whose importance has been reduced. The budget, however, provides little explanation for these choices.
+
+There is also a broader concern about the overall composition of the social protection budget. According to the government's own lifecycle classification, nearly 70 per cent of the social protection budget is concentrated in just two categories: Household (Poverty) and Elderly programmes. By contrast, programmes supporting pregnancy and early childhood receive just 1.8 per cent of the total social protection budget.
+
+International evidence consistently shows that investments during pregnancy, early childhood, and the school years yield among the highest long-term returns of any social protection spending. A budget that reduces school stipends while allocating less than 2 per cent of its social protection budget to early childhood remains focused on managing today's hardships rather than reducing tomorrow's.
+
+The Family Card: Ambition, clarity and unresolved questions The Family Card Programme is the defining feature of the FY2026-27 social security budget. The ambition is genuine. At Tk 2,500 per month delivered directly to women's mobile accounts in 41 lakh poor households, it is the largest single social protection investment in Bangladesh's history. It uses Proxy Means Testing (PMT) to reduce political discretion. It is building a dynamic social registry, an integrated payment system, and a mechanism to review benefits against inflation. For a government presenting its first budget in twenty years, moving from a pilot programme to a nationwide commitment at this pace deserves recognition.
+
+But the Family Card raises three important questions.
+
+The first concerns what was promised versus what is being delivered. During the election and in the months that followed, many citizens came to understand the Family Card as a universal programme that would provide Tk 2,500 to every household. The budget introduces a programme targeted through PMT that will cover roughly 10 to 15 per cent of households.
+
+This is not a universal programme. A truly universal Family Card covering all 40 million households at Tk 2,500 per month would cost approximately Tk 1.2 lakh crore annually—roughly 2 per cent of GDP and comparable to the entire current social protection budget. Given Bangladesh's tax-to-GDP ratio of around 9 per cent, such a programme would represent a very different fiscal commitment.
+
+A budget that reduces school stipends while allocating less than 2 per cent of its social protection budget to early childhood remains focused on managing today's hardships rather than reducing tomorrow's.
+
+A budget that reduces school stipends while allocating less than 2 per cent of its social protection budget to early childhood remains focused on managing today's hardships rather than reducing tomorrow's.
+
+Beginning with a targeted programme and expanding coverage over time is a defensible strategy. But that strategy should be explained clearly, with a published roadmap and transparent milestones.
+
+The second question concerns who might quietly lose. The budget presents Tk 2,500, which is more than double the existing individual allowances. The Old Age Allowance is Tk 700 per month. The Widow Allowance is Tk 700. The Disability Allowance is Tk 1,000. But these are individual entitlements paid directly to specific beneficiaries. The Family Card is a household transfer.
+
+Consider a typical rural family where an elderly grandmother receives an old-age allowance, a disabled adult receives a disability allowance, and a school-going child receives a stipend. Together, these benefits may exceed Tk 2,500 per month. Replacing them with a single household transfer could reduce overall support and remove the financial autonomy that vulnerable individuals currently enjoy.
+
+The elderly category grew by less than 1 per cent in this budget, while spending on household poverty support increased by 85 per cent. This sharp contrast raises an important question. If households are expected to move from multiple individual benefits to a single household benefit, there should be an explicit guarantee that no household will be worse off. If that guarantee cannot be provided, households should retain the right to remain in existing programmes.
+
+The third question concerns targeting. PMT is undoubtedly an improvement over political discretion, and the available evidence suggests it generally identifies poor households more accurately than community-based or politically driven selection. But the gains are not dramatic, and PMT has its own blind spots. Because it relies on periodically updated information about household assets and characteristics, it can be slow to identify families whose circumstances have changed suddenly due to illness, job loss, climate shocks, or migration. Community-based input often captures exactly these cases, which is one reason many well-designed targeting systems combine the two approaches rather than relying exclusively on either one.
+
+The Family Card adopts exactly this hybrid approach, combining PMT with local verification committees. The rationale is sound, but the challenge lies in implementation. Local verification can improve accuracy, yet it can also reintroduce some of the local pressures and discretion that PMT was designed to limit. For a programme involving Tk 14,500 crore, the targeting process should be subject to independent oversight. Countries such as Indonesia, Brazil, and Mexico have complemented poverty-targeting systems with independent audits, verification exercises, and external scrutiny to improve transparency and reduce inclusion and exclusion errors.
+
+Bangladesh does not need to adopt any existing model wholesale. Still, an autonomous body or independent technical panel could be tasked with auditing the PMT methodology, monitoring how local verification committees apply the rules, and periodically reviewing targeting outcomes. Eligibility thresholds and scoring rules should also be published openly so that citizens can understand, verify, and challenge decisions. The credibility of the programme will depend not only on who is selected, but also on whether the selection process is perceived as fair, transparent, and free from undue influence.
+
+A stronger social contract cannot be built through announcements alone. It is built when citizens can see clearly who benefits, who does not, and whether the most vulnerable are genuinely better protected than before.
+
+A stronger social contract cannot be built through announcements alone. It is built when citizens can see clearly who benefits, who does not, and whether the most vulnerable are genuinely better protected than before.
+
+Most importantly, the programme requires rigorous independent evaluation before it reaches full scale. That evaluation should not be conducted internally. It should involve researchers with recognised expertise in evaluating social protection programmes, including international researchers who have worked on similar programmes across South and Southeast Asia. The cost would be negligible relative to the programme budget.
+
+The same clarity is needed for the Farmer's Card. Presented as another Tk 2,500 transfer for 42.5 lakh farmers, the budget document classifies it as a seasonal payment. Tk 1,400 crore divided among 42.5 lakh farmers amounts to roughly Tk 3,294 per farmer per year, not per month. The Farmer's Card may become a useful platform for delivering agricultural services and support, but it is not comparable to the monthly Family Card transfer.
+
+The budget as a test of intent
+
+The new government entered office promising to rebuild the social contract between citizens and the state. This year's social security budget reflects genuine ambition, but it also entails important choices.
+
+The broader challenge for Bangladesh is to recognise that social protection extends beyond cash transfers alone. Effective protection also requires investment across the life cycle, from early childhood and school-age support to disability inclusion, old-age security, and assistance for vulnerable women and families facing economic or social hardship.
+
+The Family Card itself is a landmark initiative. But it is a targeted programme covering only a fraction of households, not the universal programme many citizens believed was being proposed. Its success depends on a guarantee that no household will be worse off, transparent targeting rules, a clear roadmap for expansion, and rigorous independent evaluation.
+
+A stronger social contract cannot be built through announcements alone. It is built when citizens can see clearly who benefits, who does not, and whether the most vulnerable are genuinely better protected than before.
+
+The Family Card has the potential to become one of the most important social policy reforms Bangladesh has seen in decades. But it will ultimately be judged by a simple question: when the next economic shock arrives, are poor households better protected than they were before? The answer will depend not on the headline number, but on the choices and trade-offs hidden behind it.
+
+Asad Islam is Professor of Economics at Monash Business School, Monash University, Australia. He has written extensively on social protection, poverty, and development policy in Bangladesh.

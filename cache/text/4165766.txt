@@ -1,0 +1,51 @@
+Bangladesh’s anti-cyberbullying cell: One chance to get it right
+2026-05-02T13:11:33+06:00 | Tasnuva Shelley
+https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-anti-cyberbullying-cell-one-chance-get-it-right-4165766
+
+Last week, the Prime Minister’s Adviser confirmed that a special cell will be established under the Prime Minister’s Office to stop harassment and violence against women and children. In the same news cycle, Thailand announced that women can now petition a court online to remove harmful content — without first undergoing a police investigation.
+
+One country built a mechanism. Bangladesh is forming a cell. The question before us is no longer whether to build it. That decision has been made. The question is whether we will build it in a way that actually works — because we have tried before, and the record is unambiguous.
+
+What the data tells us At a national consultation held in Dhaka on April 17, data from a 2024 Bangladesh Bureau of Statistics and UNFPA report confirmed that 89% of women social media users in Bangladesh have experienced online violence at least once. Women aged 18 to 30 face the highest risk. At the same consultation, the Bangladesh Telecommunication Regulatory Commission revealed that it received 13,023 content removal complaints last year, of which approximately 90% were from women. The demand for protection already exists at scale. What does not exist is the infrastructure to meet it.
+
+Between 2013 and 2020, the Dhaka Cyber Tribunal secured convictions in 22 out of 2,669 cases,  a 2.86% conviction rate. Women came with evidence. The system produced acquittals. Seventy-six per cent of cybercrime victims in Bangladesh are women, yet between 80 and 88 per cent never file a complaint. Of those who did report, approximately 80% felt they received no meaningful help afterwards.
+
+The failure is not occurring at a single point in the process. It occurs at every stage, from before filing through investigation to after judgment.
+
+Deepfake incidents targeting Bangladeshi women rose 19% in the first quarter of 2025 alone compared to the entire previous year. As of August 2024, 5,818 cases remain pending across Bangladesh’s eight cyber tribunals. We are not starting from zero. We are inheriting a backlog, a broken pipeline, and a generation of women who have already lost faith in the system once.
+
+A new cell that routes complaints into this same infrastructure will not move these numbers. It will inherit them.
+
+We are building in a moment of legal transition. The Advisory Council’s recent amendment to the Cyber Security Ordinance 2025, allowing dismissal of all cases filed under the Digital Security Act 2018, is a necessary corrective. The DSA was widely weaponised against journalists, dissidents, and ordinary citizens. Its reform is overdue.
+
+But with 410 speech offence cases withdrawn across eight divisions and thousands more still pending, the cell is being announced into a moment of legal transition, not legal stability. The old framework is being dismantled. The replacement lacks enforcement infrastructure, trained personnel, and mechanisms for victim support. This cell is not a supplement to a functioning system. It is the infrastructure that the new system requires to function at all. That makes its design not merely important — it makes it urgent.
+
+What Thailand understood — and what our own data confirms Thailand’s reform is instructive because it is honest about where systems lose women. The barrier was never knowledge of the law. It was the requirement to navigate a police investigation before harm could be addressed. Remove that barrier, and you remove the primary reason most victims stay silent.
+
+Bangladesh’s own data confirms the same diagnosis. Field-level officers are working with basic call records and location tracking. Training is insufficient and frequently theoretical.
+
+This cell is not a supplement to a functioning system. It is the infrastructure that the new system requires to function at all.
+
+This cell is not a supplement to a functioning system. It is the infrastructure that the new system requires to function at all.
+
+Perpetrators operate through fake accounts and stolen SIM cards. Social media platforms routinely fail to cooperate with investigations. Senior officials at the April 17 national consultation acknowledged that while Bangladesh already has relevant legal frameworks, public awareness of these laws remains critically low. Awareness without access is not protection. Legal text without an enforcement architecture is not justice. It is an aspiration.
+
+The 2.86% conviction rate is not a failure of judgment. It is an evidence failure. Cases are reaching the tribunal without the forensic foundation required for prosecution. The system convicts based on the evidence it receives. The problem is that the evidence it receives is inadequate, because no one is currently responsible for making it adequate before it leaves the investigation stage. That is the gap the cell must close.
+
+The blueprint Bangladesh needs A functional cell is a legal infrastructure unit, not a complaint intake point. It requires five coordinated functions: victim support and case management; legal framework and enforcement; technology and platform accountability; judicial and law enforcement training; and public literacy. Each must be staffed correctly — not law enforcement officers as first responders, but trained paralegals, psychologists, and digital forensics specialists who can appropriately escalate.
+
+The hotline must operate around the clock, in Bangla and English at a minimum, with a digital intake option for women who cannot speak safely. Every case must receive a case number, a case manager, and a trackable outcome. The portal must function on low-bandwidth mobile connections, because that is how most women outside Dhaka access the internet. And the cell’s performance data — response times, case outcomes, conviction rates — must be published publicly every quarter. The 2.86% conviction rate became the norm because no one was watching. Accountability cannot be internal.
+
+The most critical and most overlooked design requirement is a structured layer of Legal Data Annotators, trained specialists who review incoming reports for completeness, ensure proper chain-of-custody integrity during evidence preservation, and track case outcomes to identify where the framework is failing. This is the function currently absent from Bangladesh’s entire digital justice architecture. It is a primary reason why evidence arrives at the tribunal in a form that cannot support a conviction.
+
+This function is most effectively performed by women who understand the social context of digital violence — the shame dynamics, the specific ways harmful content circulates, the barriers that cause victims to withdraw before a case concludes. That is not a diversity argument. It is a quality argument. Women must be co-designers of this cell: on its founding design committee, as community annotators reviewing the system before it launches, and as survivor advisors on its annual review panel. A system designed without the people it serves will fail to serve them. This is not idealism. It is the lesson of every failed gender policy that came before.
+
+The institutional backbone is ready The AI Justice Lab, currently being established at BRAC University’s School of Law, is designed to serve as the cell’s research and training partner — training legal data annotators, developing 24-hour content takedown protocols, building a Digital Legal Aid platform, and producing the research that keeps the cell’s framework current as the technology and the harms evolve. The cell needs an institutional partner that can move at research speed, train the next generation of legal professionals, and correct the framework when it fails. That institution is ready.
+
+What success looks like One year from now, success is not a functioning hotline. Success is a measurable shift in the 89% of women who have experienced online violence and the 80% who reported and received nothing. Success is a conviction rate that finally begins to move. Success is a woman in Rajshahi or Sylhet who finds a reporting system that was designed to hear her, because it was built with her in the room.
+
+Bangladesh does not need to copy Thailand’s model or import Singapore’s framework. We have the legal architecture, institutional relationships, regional precedent, and research base to build the model that the rest of South Asia follows. That requires a cell designed not around administrative convenience, but around the specific points where women are currently falling out of the system, and the deliberate choices that would catch them.
+
+The blueprint exists. What Bangladesh needs now is the institutional will to implement it.
+
+Barrister Tasnuva Shelley is the Deputy Attorney General for Bangladesh, Faculty at BRAC University’s School of Law, and Founder of AI for Breakfast Dhaka.

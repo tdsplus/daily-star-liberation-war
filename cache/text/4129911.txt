@@ -1,0 +1,49 @@
+Rooppur begins, but is Bangladesh Prepared?
+2026-03-16T11:49:23+06:00 | Kamrul Hassan Mamun
+https://www.thedailystar.net/slow-reads/big-picture/news/rooppur-begins-bangladesh-prepared-4129911
+
+Bangladesh stands on the threshold of a historic moment. Beginning on April 7, fuel loading is scheduled to start at the first unit of the Rooppur Nuclear Power Plant—a milestone that marks the transition from construction to operation. In this stage, uranium-enriched fuel rods are placed into the reactor core for the first time. Once inside the reactor, these rods will initiate a nuclear chain reaction, generating enormous heat. That heat will produce steam, the steam will turn turbines, and the turbines will generate electricity. Technically speaking, this is the moment when the reactor begins to come alive.
+
+But this milestone is not merely symbolic. Fuel loading is one of the most delicate and sensitive phases in the life of a nuclear reactor. From this point onward, the reactor becomes an active nuclear system. Consequently, issues of safety, radiation control, and technological reliability become paramount. Nuclear technology is indeed one of the most powerful sources of energy known to humanity—but its risks are not comparable to ordinary industrial risks. Even a minor lapse can have consequences of extraordinary magnitude.
+
+History offers sobering reminders of this reality. Incidents such as the Chernobyl disaster and the Fukushima Daiichi nuclear disaster illustrate how rare but catastrophic failures in nuclear systems can reshape societies and environments for decades. These examples underline a simple truth: nuclear power demands the highest standards of safety, technical competence, and transparent oversight.
+
+For many years I have expressed reservations about Bangladesh undertaking such a highly sensitive project largely through foreign loans, foreign companies, and foreign technical expertise. I said this repeatedly during the tenure of the previous government and again shortly after the current administration assumed office. My concern is not ideological; it is structural. Countries do not normally enter the nuclear power era without first building a strong domestic scientific and technological base.
+
+In most successful nuclear programmes, a nation develops its own generation of world-class nuclear scientists, engineers, and regulatory experts before constructing reactors. These human resources are cultivated over decades through universities, research institutes, and sustained scientific culture. Without such a foundation, a nuclear power project risks becoming primarily an imported technological system rather than an integrated national capability. Indeed, examples of countries implementing nuclear power programmes without first developing significant domestic expertise are exceedingly rare.
+
+When discussions about nuclear power arise, public attention typically focuses on the reactor itself—its technology, construction costs, or fuel supply. Yet the success of a nuclear power plant depends on something far less visible but equally critical: the strength and readiness of the national electricity grid.
+
+A nuclear reactor is an immense source of power. A single reactor often produces around 1,000 megawatts or more. Introducing such a large block of electricity into a relatively weak or unstable grid can create serious technical challenges. Electric grids operate on a delicate balance between supply and demand. Frequency, voltage, and load must remain synchronised across the entire network. Even small disturbances can propagate through the system, causing cascading failures. If a grid is not robust enough, a sudden injection—or loss—of a large power source can destabilise the entire system.
+
+This is why many electrical engineers follow a practical guideline: the capacity of the largest generating unit connected to a grid should generally not exceed about ten per cent of the total grid capacity. Otherwise, the sudden shutdown of that unit could remove a large fraction of the system's power instantaneously.
+
+A national power system functions much like a carefully coordinated orchestra. The power grid network consists of many generating stations connected through transmission lines. All generators must operate in synchrony at the same frequency. When one major power source suddenly goes offline, the grid instantly loses a substantial amount of electricity. If sufficient reserve capacity is not available to compensate for this loss, the system can quickly become unstable, potentially triggering widespread blackouts.
+
+This risk becomes particularly significant when a large nuclear reactor is involved. Nuclear plants are designed primarily for base-load electricity generation. They operate most efficiently when producing a steady output over long periods. Unlike gas turbines or hydroelectric plants, they cannot easily ramp production up or down in response to sudden changes in electricity demand.
+
+Therefore, other parts of the power system must provide the flexibility needed to accommodate fluctuations in demand. Gas turbines and hydropower stations typically play this balancing role. When nuclear and flexible sources operate together in the same grid, careful coordination becomes essential.
+
+Another major consideration is the transmission infrastructure required to distribute nuclear-generated electricity across the country. A power plant such as Rooppur will produce electricity far from many major load centers. Delivering this power efficiently requires strong high-voltage transmission lines capable of carrying large quantities of electricity over long distances.
+
+If the transmission network is weak or insufficient, several problems can arise. Electricity may not reach distant regions effectively, transmission losses may increase, and in extreme cases the plant itself may be forced to reduce output because the grid cannot absorb the generated power.
+
+Grid conditions can also affect nuclear safety systems. Nuclear reactors contain highly sensitive protection mechanisms designed to prevent accidents. If abnormal voltage or frequency fluctuations occur in the grid, the reactor may automatically disconnect itself as a precautionary measure. While such protective shutdowns enhance reactor safety, they can also place sudden stress on the grid—especially if the grid is not strong enough to absorb the loss of such a large generating unit.
+
+This interaction between nuclear plants and grid stability is often overlooked in public debate but is critically important in practice. Beyond infrastructure lies an even deeper issue: the development of scientific and technical capacity. History shows that major scientific achievements are rarely the result of short-term training programmes. They emerge from sustained intellectual ecosystems—universities, research institutions, and vibrant scientific cultures.
+
+The fuel loading at Rooppur is undeniably a historic step for Bangladesh. It signals the country's entry into a highly advanced and complex technological domain. Yet the true measure of success will not lie solely in the operation of the reactor.
+
+The fuel loading at Rooppur is undeniably a historic step for Bangladesh. It signals the country's entry into a highly advanced and complex technological domain. Yet the true measure of success will not lie solely in the operation of the reactor.
+
+Consider the trajectory of nuclear science in India. Scientists such as Homi Jehangir Bhabha played a foundational role in establishing the country's nuclear research programme. Bhabha was not only an internationally respected physicist but also connected to leading figures such as Albert Einstein. His work laid the intellectual groundwork for India's nuclear development.
+
+India later produced influential scientists like Vikram Sarabhai and R. Chidambaram, who contributed significantly to the country's scientific and technological progress. Pakistan, too, developed notable scientific figures. Among them are Abdul Qadeer Khan, Munir Ahmad Khan, and Nobel laureate Abdus Salam, whose work profoundly influenced modern particle physics. Scientists such as Samar Mubarakmand also played key roles in Pakistan's nuclear programme.
+
+These examples reveal a fundamental lesson: world-class scientists are not produced simply through a few years of overseas training or by acquiring academic degrees. They emerge from sustained research environments, strong institutions, intellectual freedom, and a culture that values deep scientific inquiry. The fuel loading at Rooppur is undeniably a historic step for Bangladesh. It signals the country's entry into a highly advanced and complex technological domain. Yet the true measure of success will not lie solely in the operation of the reactor.
+
+It will depend on whether Bangladesh can build the broader ecosystem required to sustain such technology—strong universities, robust regulatory institutions, skilled engineers, resilient power grids, and a culture of scientific excellence. Constructing a nuclear reactor is an extraordinary engineering achievement. But building the intellectual, technological, and infrastructural foundations necessary to support it may be an even greater national challenge.
+
+If Bangladesh can rise to that challenge, nuclear power may indeed become a pillar of its long-term energy security. If not, the lesson will be clear: technology imported without deep domestic capacity can illuminate cities—but it cannot by itself build a nation's scientific future.
+
+Dr Kamrul Hassan Mamun is professor in the Department of Physics at Dhaka University. He can be reached at [email protected] .

@@ -1,0 +1,113 @@
+Why is water-rich Bangladesh running short of water?
+2026-09-15T23:55:31+06:00 | Subail Bin Alam
+https://www.thedailystar.net/slow-reads/big-picture/news/why-water-rich-bangladesh-running-short-water-4273971
+
+The Multiple Indicator Cluster Survey (MICS) 2025, released in November, contains one pair of figures that should have brought the country to a standstill. Ninety-nine per cent of Bangladeshis use an improved drinking water source; only 42.6 per cent use a safely managed one, falling to 37.1 per cent under the WHO standard once arsenic and E. coli are taken into account. Translated out of survey language, that means more than 106 million people in Bangladesh lack safely managed drinking water.
+
+We have spent four decades reporting the first number and living with the reality of the second. That gap—between water that exists and water that is safe, and for which somebody is accountable—is the crisis. Bangladesh receives roughly 2,550 millimetres of rain a year and sits at the outfall of the largest delta on earth, making it one of the most water-abundant places on the planet. Yet the government has gazetted 4,911 Barind villages as water-stressed for a decade . Dhaka’s water table keeps falling, and along the coast, roughly 20 million people cannot safely drink the water around them.
+
+A country does not arrive at this point through bad luck, but through arithmetic that no one was required to do. Almost nothing written on this subject comes from an engineer’s point of view, because engineers sit on the implementation side and are rarely heard. When a system fails, look for the component no one specified and the price no one charged. We feed 18 crore people and earn most of our foreign exchange from an input we do not meter, price, or assign to any accountable owner. Scarcity here is not one problem but six, each with different physics, geographies, and owners. Treating them as a single subject called “water” helps explain why three decades of projects have not closed the gap.
+
+One: The water that arrives from somewhere else
+
+Nearly 90 per cent of the water flowing through Bangladesh each year comes from outside its borders, which sets the ceiling for everything else. The Farakka Barrage was built in 1975. The Ganges Water Sharing Treaty has been in effect for 30 years, from 12 December 1996 until this December, when it expires.
+
+To an engineer rather than a diplomat, the formula reveals two clear flaws. It is indexed to flows at Farakka, based on averages from 1949 to 1988. It takes no account of monsoon variability in the 2020s, glacier retreat, or upstream abstraction that has grown since then. We are running a 2026 river on a 1988 spreadsheet. And there is no general minimum guarantee: the 35,000-cusec figure so often quoted applies only in alternate ten-day periods between 11 March and 10 May. Outside that window, Bangladesh receives a share of whatever arrives. Article II offers no remedy when the river fails, only a promise to consult if the flow drops below 50,000 cusecs.
+
+Beyond groundwater: Rethinking Barind's water crisis
+
+Our own legal position matters, and it is the point I most want to emphasise. We have two instruments, and we keep confusing them. On 20 June 2025, Bangladesh acceded to the 1992 UN Water Convention, becoming the first South Asian country to do so, thereby giving us a multilateral platform. But the separate 1997 UN Watercourses Convention, which codifies equitable use and, in Article 7, the duty to prevent significant harm to other watercourse states, remains unratified. We voted for it in 1997 but never signed it, while India abstained and remains outside both. So we enter December with one leg of the legal argument built and the other left unbuilt by our own choice. Ratifying the 1997 Convention costs nothing and requires no upstream consent, and of the recommendations below, it is the only one we could complete before December.
+
+On the Teesta, the position is worse: there is no agreement at all, only a draft stalled since 2011. In its place sits the roughly one-billion-dollar Teesta River Comprehensive Management and Restoration Project, with its PowerChina memorandum renewed in January 2026: 140 million cubic metres of dredging, 171 square kilometres of reclamation, 234 kilometres of embankment, and 82 jetties. That is channel management and land reclamation. It does not create flow.
+
+Approving concrete before securing flow is the wrong order of operations, and the order of operations is the whole discipline of engineering.
+
+Approving concrete before securing flow is the wrong order of operations, and the order of operations is the whole discipline of engineering.
+
+The same objection applies to the Padma Barrage, whose first phase ECNEC approved on 13 May 2026 at Tk 34,497 crore, against a total project value of nearly Tk 50,443 crore. I reviewed the feasibility study and catalogued fourteen unresolved problems. My position is not one of opposition but of sequencing—a barrage stores only what the river delivers. If we do not secure dry-season discharge at Hardinge Bridge first, we will have spent Tk 50,000 crore on a well-engineered reservoir with less and less water to put in it. Approving concrete before securing flow is the wrong order of operations, and the order of operations is the whole discipline of engineering.
+
+Two: The aquifer we are mining
+
+Bangladesh withdraws about 32 cubic kilometres of groundwater a year, roughly 90 per cent of it for irrigation. This is not villainy: it helped lift rice output from just over one crore tonnes in 1971 to 3.7 crore tonnes by 2020. That was a groundwater subsidy that worked so well that nobody asked who would eventually pay. The Barind Tract was the first to receive the bill. Rainfall at its core is about 1,625 millimetres, compared with a national average of 2,550 millimetres, while hard red clay impedes recharge. The Barind Multipurpose Development Authority (BMDA) operates almost 16,000 deep tubewells there, has installed none since 2012, and has cut pumping to about 980 hours per boro season, down from 1,200–1,400 hours. In parts of Rajshahi and Naogaon, groundwater levels have fallen by 10 to 15 metres.
+
+Digging deeper into Barind’s water crisis
+
+A 2023–2024 study of farmers in Tanore and Nachole found that drought had cut rice yields by about 36 per cent and wheat yields by up to 60 per cent. One farmer put it plainly: the water table is now 130 to 135 feet below ground, compared with 80 to 85 feet a decade ago. But the findings that matter most for policy are these: nearly half the farmers had sold livestock or productive assets, and more than 60 per cent had taken out loans to survive drought seasons.
+
+Then came the gazette of 6 November 2025. It designated 4,911 villages across 25 upazilas as water-stressed for a decade and, under the Water Act 2013, banned groundwater extraction for anything other than drinking water.
+
+Here is the figure that should lead the headlines. The government authorised at most 11,400 deep tubewells for irrigation in these areas. By the state’s own count, the wells actually in the ground have a combined capacity equivalent to about 28,000 deep tubewells. The authorised limit had effectively been exceeded by a factor of two and a half before anyone bothered to add up the numbers. That is not simply an enforcement failure. It is the absence of measurement.
+
+What followed was worse than the ban itself. For families who sell livestock to buy diesel, there was no compensation, no alternative crop package, no transition finance, and no phased implementation. The directive was then effectively suspended, with the BMDA continuing irrigation on a verbal order. Professor Mohammad Shamsudduha of UCL warned that a sudden ban on rice cultivation here would be a food-security catastrophe for millions. A sound hydrological judgement was lost because it lacked an economic mechanism for implementation.
+
+Dhaka suffers from the same disease, only with better plumbing. Depending on the source, 66–74 per cent of its water supply comes from underground. The water table had fallen to about 75 metres by 2023, from 25 metres in 1996, and is closer to 109 metres in the city core. Active deep tubewells rose from about 960 in FY2020–21 to 1,351 in FY2025–26. This year, the utility launched a Tk 920.85 crore emergency project to add 57 crore litres a day from groundwater, while the two surface-water plants intended to reduce that dependence—Gandharbpur Phase 1 and Saidabad Phase 3—remain incomplete.
+
+Three: The salt line moving inland
+
+The saline area grew from 8,330 square kilometres in 1973 to 10,560 square kilometres by 2009, and about 1.02 million hectares of coastal arable land now show some degree of salinity. A UNDP survey of 271,464 people across five south-western upazilas found that 73 per cent were drinking unsafe saline water, with concentrations averaging 1,427 to 2,406 milligrams per litre. In Shyamnagar, dry-season concentrations reached 6,600 milligrams per litre, against a limit of 1,000. Salinity near 10 parts per thousand today is projected to reach 15 to 25 parts per thousand by 2050.
+
+The health arithmetic is what water studies usually omit. Women drinking water with sodium concentrations above 300 milligrams per litre face a 3.3 to 5.5 times higher risk of pregnancy-induced hypertension. In the dry season, coastal women can ingest 5 to 16 grams of sodium per day from drinking water alone , compared with a WHO-recommended limit of less than 2 grams. In parts of Khulna and Satkhira, drinking water itself poses a cardiovascular risk, and that risk falls first on pregnant women.
+
+We do not build that infrastructure because the loss does not appear on anyone’s budget line. That is what an economist is for, and exactly why one is rarely at the table.
+
+We do not build that infrastructure because the loss does not appear on anyone’s budget line. That is what an economist is for, and exactly why one is rarely at the table.
+
+On the ground, thousands of people in Dacope and Koyra draw water from a single pond in shifts that continue for 18 to 20 hours a day. A WaterAid assessment in Paikgacha found that households without water on their premises spent more than 1,100 hours a year collecting it, a burden borne overwhelmingly by women and girls. Convert that time into any plausible shadow wage, and the loss dwarfs the cost of the infrastructure that could have prevented it. We do not build that infrastructure because the loss does not appear on anyone’s budget line. That is what an economist is for, and exactly why one is rarely at the table.
+
+Four: Quality-induced scarcity
+
+Availability is not access. The 2009 national survey estimated that about 20 million people were drinking water exceeding the Bangladesh arsenic standard of 50 micrograms per litre, and about 45 million were drinking water exceeding the WHO guideline of 10 micrograms per litre. Fifty years ago, we promoted the use of tubewells to avoid pathogens in surface water. We reduced exposure to cholera but introduced another threat: arsenic-related disease. Some of that harm is reversible. A twenty-year cohort study of nearly 11,000 adults, published in JAMA in November 2025, found that lowering arsenic exposure reduced deaths from heart disease, cancer, and chronic illness, even among those exposed for long periods. Remediation is not a sunk cost. It can be measured in years of life saved.
+
+Can the Barind Tract survive its own agricultural success?
+
+A family finds arsenic in a shallow well and digs deeper, yet deep aquifers are precisely the ones we cannot afford to draw down indiscriminately, since they recharge over centuries. And the MICS finding of E. coli in about 85 per cent of point-of-use samples from 47 sources suggests that much of the contamination now occurs between the source and the glass, during collection and storage. That is a delivery problem, and no barrage will fix it.
+
+Five: Pollution, stranded plants, and water we lose after paying for it
+
+Pollution is scarcity by another name, and represents the cheapest supply we have thrown away. Industry accounts for roughly 60 per cent of pollution in the Dhaka watershed. The relocation of the tanneries from Hazaribagh to Savar offers the clearest lesson: the industry moved, the common effluent treatment plant underperformed, and the pollution followed. Relocation without functioning treatment is not environmental policy. It is transport.
+
+Until compliance is measured continuously rather than merely announced, an ETP (effluent treatment plant) is a building, not a process.
+
+Until compliance is measured continuously rather than merely announced, an ETP (effluent treatment plant) is a building, not a process.
+
+Why do effluent treatment plants exist on paper rather than operate effectively on rivers? The answer is economics. Capital costs are financed because installation is a licence condition; the electricity bill is not, so the plant runs for inspections and rests at night. Until compliance is measured continuously rather than merely announced, an ETP (effluent treatment plant) is a building, not a process.
+
+Municipal waste accounts for the largest share of pollution and receives a fraction of the attention. Nominal sewerage coverage in Dhaka is about 20 per cent; actual treatment is closer to 10 per cent. The Dasherkandi plant, the largest in South Asia at 500 million litres a day and valued at about Tk 3,370 crore, opened in December 2023 and still waits for a network to connect it. The Padma plant ran at half capacity for years for the same reason, even though the connecting works cost about 14 per cent of the plant’s cost. In both cases, we funded the expensive part and stalled on the cheaper part. The asset is real, the balance sheet is real, but the water is not.
+
+Meanwhile, system losses run at about 20 per cent. Of some 2,600 to 2,977 million litres produced daily, roughly 520 million litres never reach a paying customer—more than the entire output of the Padma plant, effectively discarded every day. And the tariff structure ensures that the utility cannot fund its own maintenance. Production costs are Tk 25 to Tk 30 per thousand litres, against a tariff of Tk 15 to Tk 18, charged at the same rate in Gulshan as in a slum, so the largest subsidy goes to the largest consumer. So here is the sentence I want readers to sit with: the largest untapped water source in Dhaka is the water Dhaka has already extracted, treated, and paid to produce.
+
+Dhaka floods and depletes its groundwater at the same time, which is arithmetically absurd: the rainwater that drowns Mirpur in July could instead be recharging the aquifer beneath it.
+
+Dhaka floods and depletes its groundwater at the same time, which is arithmetically absurd: the rainwater that drowns Mirpur in July could instead be recharging the aquifer beneath it.
+
+Six: A city built to fight water
+
+Dhaka floods and depletes its groundwater at the same time, which is arithmetically absurd: the rainwater that drowns Mirpur in July could instead be recharging the aquifer beneath it. We encase the city in concrete, fill the wetlands, shrink the canals, then treat flooding as a drainage problem, with water to be flushed away as quickly as possible. China spent a decade developing and implementing sponge-city standards for exactly this reason. The aim should not be to remove every drop, but to capture, store, recharge, and reuse it.
+
+What would actually work
+
+None of this requires technology we do not have. It requires measurement, sequencing, and accountability.
+
+1. Make December an economic negotiation, not a diplomatic ceremony. Four demands are defensible on the evidence: a genuine minimum dry-season flow across the entire January-to-May window, not merely during alternate ten-day periods; environmental flows for the Sundarbans and the salinity front, modelled and costed in taka; jointly published real-time gauging data; and a review trigger tied to observed hydrology rather than historical averages. A delegation of diplomats negotiates a communiqué. A delegation of hydrologists, salinity modellers, and agricultural economists negotiates a number.
+
+2. Measure, price, and put one authority in charge. The Water Act 2013 permits abstraction licensing that can be used as the basis for measurement. Begin where enforcement is easiest: every industrial and commercial user above a defined threshold gets a meter, a licence, a volumetric charge, and a public reporting requirement, while households and smallholders remain protected. Within two years, we could have a national water account, showing recharge against abstraction by district and published annually like the national budget. Today, WARPO plans, BWDB builds, DPHE drills, WASA supplies, DoE polices effluent, and BMDA irrigates, with no single institution accountable for the national water balance. We need an independent water regulator to maintain that account, with licensing and tariff-setting authority. We also need the institutional reform I have urged for a decade: engineers, economists, and seasoned project directors at the table. They should be there while the options are still open, not after the loan has been signed.
+
+3. Approve no new supply until the financed supply works, and make the city work with water. Cutting Dhaka’s system loss from 20 per cent to 10 per cent would free roughly 260 million litres a day, more than half the Padma plant’s output, at a fraction of the cost of new headworks. One rule could change behaviour: no ECNEC approval for a new production project until the distribution system for the previously financed one is commissioned and water is flowing through it. Beyond that, stop building a city that fights water. Mandatory rainwater harvesting and groundwater recharge in large developments, retention ponds, permeable surfaces, and enforceable protection of the remaining wetlands and canals all cost less than any barrage, and they lie entirely within our own jurisdiction. That is why inaction here is indefensible.
+
+Alternate wetting and drying can cut boro water use by about a fifth with little loss of yield, and requires only a perforated pipe and a trained farmer. Yet it has remained a niche practice since 2004, so the constraint is incentive, not science.
+
+Alternate wetting and drying can cut boro water use by about a fifth with little loss of yield, and requires only a perforated pipe and a trained farmer. Yet it has remained a niche practice since 2004, so the constraint is incentive, not science.
+
+4. Change the crop, not just the pump. Alternate wetting and drying can cut boro water use by about a fifth with little loss of yield, and requires only a perforated pipe and a trained farmer. Yet it has remained a niche practice since 2004, so the constraint is incentive, not science. Pair it with purchase guarantees for maize, wheat, pulses, and mustard in water-stressed upazilas, along with low-interest drought loans. And a caution from my own field: solar-powered pumps without abstraction quotas subsidise depletion, because once the marginal cost of pumping falls towards zero over a declining aquifer, pumping increases.
+
+5. Make compliance continuous, not ceremonial, and finish the canals properly. That means telemetered effluent data reported to the Department of Environment, a public dashboard, bank credit tied to compliance, and a polluter-pays levy that makes running an ETP cheaper than not running it. Our garment exporters respond faster to buyers’ compliance requirements than to regulations, and that leverage remains largely unused. The same discipline applies to the 20,000 kilometres of canal work pledged over five years, beginning in March 2026. Under the Netherlands-backed SAFAL programme, community-led rejuvenation of silted khals raised yields by 16 per cent and incomes by up to 75 per cent. The difference between that and an earth-moving statistic is whether the community that will maintain the canal has a role in its design.
+
+6. On the coast, decentralise and budget for operations from day one. Surface water will not be piped to Koyra, Gabura, or Dacope this decade. What works is already known: managed aquifer recharge, pond sand filters with a named owner, dry-season rainwater storage, and union-level solar-powered reverse osmosis. Every failed coastal scheme I have seen has failed on operations and maintenance, not engineering. Each one needs a ten-year plan that specifies who operates it, funds its maintenance, replaces equipment, and tests the water. Otherwise, it is a ribbon over a broken pump.
+
+The mathematics of delay
+
+Every item above has a cost, and so does the alternative; inaction is not free simply because its costs do not appear on any budget line. If Dhaka’s water table continues to fall, pumping energy requirements will rise as the required lift increases. If the salinity front reaches the projected 15 to 25 parts per thousand, those coastal districts will lose crops and residents, and that cost will eventually arrive in Dhaka as another million people seek access to a tap. If the treaty lapses in December without a successor, we will enter the 2027 dry season without a bilateral treaty-based claim at Farakka, and every taka invested in the Padma Barrage will become a bet on a river whose dry-season flow is no longer governed by an agreement.
+
+This is not a forecast about rainfall. Bangladesh will continue to receive roughly 2,500 millimetres a year. The question is whether we will ever count the water, price its use, and hold one institution answerable for its management. A country does not go dry overnight. It goes dry one unmeasured litre at a time, and then all at once.
+
+Subail Bin Alam is an engineer-economist. He is Chief Operating Officer of Rancon Infrastructures and Engineering Limited, a Director of the Bangladesh Sustainable and Renewable Energy Association, and a Trustee of the Panam Institute. He is also associated with the Centre for Science, Technology and Policy Diplomacy and the Bangladesh Research Analysis and Information Network. He can be reached at [email protected] .

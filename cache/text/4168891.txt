@@ -1,0 +1,153 @@
+Can Bangladesh manage its municipal waste better?
+2026-05-06T12:57:15+06:00 | Nasir Khan
+https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-manage-its-municipal-waste-better-4168891
+
+Bangladesh has long struggled with effective household waste management, despite increased governmental attention since 2000. Improperly managed Municipal Solid Waste (MSW) that is dumped indiscriminately decomposes over time, releasing methane gas. Methane is odourless, lighter than oxygen, and highly flammable. In enclosed spaces, it can displace oxygen, creating dangerous conditions. If methane accumulates and comes into contact with a spark, short circuit, or open flame, it can trigger an explosion. In addition, unmanaged MSW blocks urban drainage systems, leading to waterlogging during the monsoon season. It also contributes to air pollution and contamination of surface and groundwater.
+
+Municipal solid waste (MSW) is generated at the household level and is largely influenced by living standards and cultural practices. In the Indian subcontinent, the average MSW generation rate is estimated at about 0.50 kg per capita per day. In Dhaka city (North and South City Corporation), approximately 10,000–12,000 tonnes of waste are produced daily. Of this amount, around 50% is collected by the two city corporations and transported to the Aminbazar and Matuail dumping sites, where it is disposed of without proper scientific management.
+
+Similarly, other city corporations, pourashavas, and small upazila towns follow comparable practices, collecting only a portion of the generated MSW and disposing of it at designated dumping sites within their respective jurisdictions, a system that has continued for many years. Municipal waste management involves several steps to ensure proper collection, handling, and disposal, thereby minimising environmental contamination. These steps include:
+
+Waste Generation Residential households Commercial establishments Institutions (schools, hospitals, offices) Markets and street sweepings
+
+Residential households
+
+Commercial establishments
+
+Institutions (schools, hospitals, offices)
+
+Markets and street sweepings
+
+Waste Collection Door-to-door collection Community bins / curb-side collection Street sweeping Manual or mechanised collection
+
+Door-to-door collection
+
+Community bins / curb-side collection
+
+Street sweeping
+
+Manual or mechanised collection
+
+Waste Storage Household bins Community containers Temporary storage depots
+
+Household bins
+
+Community containers
+
+Temporary storage depots
+
+Transportation Compactor trucks Open trucks or tippers Transfer stations (for long-distance hauling)
+
+Compactor trucks
+
+Open trucks or tippers
+
+Transfer stations (for long-distance hauling)
+
+Treatment and final disposal Open dumping Sanitary landfill Composting or anaerobic digestion (for organic waste) Mechanical separation for inorganic Waste to energy (Incineration, Plasma, Gasification, etc.)
+
+Open dumping
+
+Sanitary landfill
+
+Composting or anaerobic digestion (for organic waste)
+
+Mechanical separation for inorganic
+
+Waste to energy (Incineration, Plasma, Gasification, etc.)
+
+Currently, Bangladesh relies predominantly on an open dumping system for municipal solid waste management. This practice contributes to air pollution, contamination of ground and surface water, and a significant public nuisance. In many parts of the country, developing sanitary landfills is also challenging due to alluvial soil conditions and shallow groundwater tables. Moreover, Bangladesh collects unsorted MSW, which typically has a high moisture content and a large proportion of organic matter, resulting in a low calorific value. In this context, composting and anaerobic digestion of the organic fraction can serve as viable options for partial waste management.
+
+Zero-waste communities thrive while incinerator plans loom
+
+The remaining inorganic portion can be mechanically separated to produce Refuse-Derived Fuel (RDF). This integrated approach is relatively cost-effective, requires less land, and can manage approximately 90–95% of household-generated MSW. Only a small fraction of inert residue would remain, which could then be disposed of in an appropriately designed landfill. Alternatively, modern Waste-to-Energy (WtE) systems could be adopted, which convert MSW into usable forms of energy, such as electricity, heat, or fuel, while significantly reducing reliance on landfills. However, these technologies require substantial capital investment and involve complex operation and maintenance. Despite these challenges, modern WtE facilities incorporate advanced emission control and wastewater treatment systems to minimise air and water pollution. The following sections describe several modern WtE technologies:
+
+1. Grate Incineration (Mass-Burn Incineration) Grate incineration is the most widely used waste-to-energy technology for municipal solid waste (MSW) management. Waste is fed onto a moving metal grate where it is burned at high temperatures (850–1100°C). The heat generated produces steam, which drives turbines to generate electricity and/or district heating. It is commonly used in countries like Germany and Sweden.
+
+Key features:
+
+Reduces waste volume by 70–90%
+
+Includes advanced flue gas cleaning systems
+
+Produces bottom ash (often used in construction)
+
+Can handle mixed municipal waste without extensive pre-treatment
+
+Proven and reliable large-scale technology
+
+Complex technology requiring skilled operation
+
+Generates electricity and district heating
+
+Metals can be recovered from bottom ash
+
+2. Plasma Pyrolysis Plasma pyrolysis uses extremely high temperatures (above 3,000°C) generated by plasma torches to break down waste in an oxygen-starved environment. Instead of burning, the waste is converted into Syngas (CO and H₂) and an inert vitrified slag (glass-like material).
+
+Key features:
+
+Suitable for hazardous and biomedical waste
+
+Produces minimal toxic residues
+
+High energy consumption and capital cost
+
+Extremely high temperatures destroy hazardous substances completely
+
+Very low dioxin and furan formation
+
+Very high installation and operational costs
+
+High electricity consumption
+
+Complex technology requiring skilled operation
+
+Not yet widely proven for large MSW volumes
+
+3. Gasification Gasification is a thermal process where waste is heated at high temperatures (800–1200°C) with limited oxygen. Instead of complete combustion, it converts waste into syngas (carbon monoxide and hydrogen). Syngas can be burned to generate electricity or processed into fuels or chemicals.
+
+Key features:
+
+Higher energy recovery efficiency than traditional incineration
+
+Requires pre-processed waste (often RDF)
+
+Lower emissions compared to conventional burning (when properly controlled)
+
+Produces useful syngas for electricity or fuel production
+
+Smaller plant footprint compared to mass-burn incineration
+
+Can be integrated with combined heat and power systems
+
+Sensitive to waste composition
+
+Tar formation can cause operational problems
+
+Higher technical complexity
+
+Still developing for large-scale mixed municipal waste
+
+In 2005, a German firm signed an agreement with the former Dhaka Municipal Corporation to establish a waste-to-energy (W2E) project. However, after completing a feasibility study, the company lost interest, and the initiative stalled. Subsequently, multiple project proposals were submitted to different city corporations. In 2012, an Italian company signed an agreement with Dhaka North City Corporation and Dhaka South City Corporation formally through the Local Government Department, to generate electricity from waste within two years. The project never materialised. The primary reason was the company’s lack of prior experience in waste-to-energy development; it reportedly acted as an intermediary, intending to transfer the contract to another party, but failed to do so.
+
+Moreover, after two extensions of the agreement, no new proposals could be entertained until 2017–18. In 2018, Keraniganj Municipality and Narayanganj City Corporation invited bids for two W2E projects under a BOO (Build-Own-Operate) model. Even after three bid submission deadline extensions, no credible proposals were received. Later, around 2021, Dhaka North City Corporation signed another BOO-based contract with a Chinese private company for a W2E project. Despite multiple implementation deadline extensions, the project has shown no visible progress. In parallel, the NGO Waste Concern has been working for many years to manage the organic fraction of household waste in various locations. Although pilot initiatives have been undertaken in areas such as Jashore and Sylhet, Bangladesh has yet to implement a comprehensive, integrated household waste management system at the national scale.
+
+Household waste management is not inherently a complex technical issue. European and other Western countries are significantly advanced in this sector. However, considering Bangladesh’s specific waste characteristics and climatic conditions, valuable lessons may also be drawn from neighbouring countries such as India, Thailand, Vietnam, and Malaysia. Waste composition analysis in Bangladesh indicates a high proportion of organic material and moisture content (50–60%). Waste is collected door-to-door and undergoes informal recycling at various stages before final disposal at dumping sites. As a result, the residual waste is predominantly organic and moist, with low calorific value, making it unsuitable as feedstock for conventional W2E technologies such as plasma, gasification, and incineration without pre-treatment.
+
+Bangladesh relies predominantly on an open dumping system for municipal solid waste management. This practice contributes to air pollution, contamination of ground and surface water, and a significant public nuisance.
+
+Bangladesh relies predominantly on an open dumping system for municipal solid waste management. This practice contributes to air pollution, contamination of ground and surface water, and a significant public nuisance.
+
+W2E projects are technically complex and capital-intensive, requiring substantial investment in technology selection, plant construction, and maintenance. Revenue generated from electricity sales or by-products is generally insufficient to ensure economic feasibility without public support. In most countries, such projects are financed by governments. Cost recovery typically requires 12–15 years after commissioning. Under a BOO model, the government must either pay tipping fees (a per-ton fee for processing waste) or purchase electricity at elevated tariffs, both of which impose significant fiscal burdens. In contrast, if implemented directly by the government, indirect benefits, such as reduced waterlogging, mitigation of groundwater and surface water pollution, improved public health, and control of waterborne diseases, accrue fully to the state.
+
+If private-sector participation under a BOO framework is considered, companies must be selected through rigorous due diligence, including verification of prior experience and detailed site-specific feasibility studies conducted with international subject-matter experts. In this regard, European technological expertise may be particularly relevant. Economies of scale suggest that large-capacity W2E plants become cost-effective only when processing at least 500 metric tons of municipal waste per day. Accordingly, major urban cities such as Dhaka (North and South), Chattogram, Gazipur, and Narayanganj may qualify. In Europe, approximately 1–1.5 megawatts of electricity can be generated per hour from every 100 tons of waste processed; however, due to Bangladesh’s high moisture content, actual output would likely be lower. Regardless of the technology choice, pre-processing and dehumidification would be essential.
+
+Why Bangladesh cannot afford to waste its food
+
+For smaller municipalities and district towns generating 50–300 metric tons of waste daily, W2E projects are not economically viable. Instead, producing Refuse-Derived Fuel (RDF) and compost offers a more affordable alternative. Typically, about 35 tons of RDF can be produced from 100 tons of household waste. RDF can serve as a renewable co-firing fuel alongside coal in industrial boilers and coal-fired power plants, potentially replacing up to 20% of coal usage, thereby reducing coal imports and carbon emissions. Expanding RDF production aligned with market demand could provide a cost-effective, environmentally sound solution for municipal waste management.
+
+Under the Intergovernmental Panel on Climate Change (IPCC) guidelines, Bangladesh submitted its Intended Nationally Determined Contribution (INDC) to the United Nations Framework Convention on Climate Change (UNFCCC) in 2015, using 2012 as the base year. The country pledged to reduce greenhouse gas emissions by 6.73% unconditionally and by 15.12% conditionally by 2030 compared with business-as-usual projections. The revised Nationally Determined Contribution (NDC) submitted in 2021 identifies industry, electricity generation, transport, brick kilns, agriculture, and waste as the primary drivers of rising emissions through 2030, with household solid and liquid waste contributing approximately 7.55%.
+
+The lack of an integrated household waste management system has exacerbated waterlogging, air and water pollution, and uncontrolled methane emissions from open dumping sites. Under conventional greenhouse gas accounting frameworks, methane has a global warming potential about 21 times greater than carbon dioxide over 100 years. Diverting waste into refuse-derived fuel (RDF) production and establishing structured waste management systems can therefore generate multiple co-benefits: reducing methane emissions, mitigating urban flooding and environmental pollution, improving public health, and supporting Bangladesh’s commitments under the UNFCCC framework as well as the United Nations Sustainable Development Goals, particularly SDG 3 (Good Health and Well-being), SDG 6 (Clean Water and Sanitation), SDG 7 (Affordable and Clean Energy), SDG 11 (Sustainable Cities and Communities), SDG 13 (Climate Action), SDG 14 (Life Below Water), and SDG 15 (Life on Land).
+
+Dr Nasir Khan is a waste management specialist, Sidcup, Kent, United Kingdom. He can be reached at [email protected]
