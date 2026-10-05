@@ -11,7 +11,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
-from .classify import load_labels
+from .classify import NEWS, load_labels
 from .extract import load_records
 from .store import ROOT, is_priority_section
 
@@ -47,7 +47,8 @@ def rows():
     recs, labels = load_records(), load_labels()
     out = []
     for nid, lab in labels.items():
-        if lab["label"] not in KEEP:
+        # News reports are out of scope even if mislabelled (defence in depth).
+        if lab["label"] not in KEEP or lab.get("content_type") == NEWS:
             continue
         r = recs.get(nid)
         if r is None:
@@ -133,6 +134,8 @@ def main():
     ws.append(["Articles (Slow Reads / In Focus)", len(main_items)])
     ws.append(["Other sections", len(other_items)])
     ws.append(["Needs review (also listed on their main sheet)", len(review)])
+    ws.append(["News reports excluded (listed in classification_log.csv)",
+               sum(l.get("content_type") == NEWS for l in load_labels().values())])
     ws.append(["Rows needing a date added (amber Date cell)",
                sum(i["date"] is None for i in items)])
     ws.append(["Rows needing an author added (yellow Author cell)",

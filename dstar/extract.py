@@ -175,11 +175,14 @@ def parse(html, url):
         "author": "; ".join(dict.fromkeys(authors)),
         "author_source": author_src,
         "section": section or "",
+        "ld_type": ld.get("@type", "") if isinstance(ld.get("@type", ""), str)
+                   else ", ".join(ld["@type"]),
         "breadcrumbs": crumbs,
         "tags": list(dict.fromkeys(tags)),
         "description": ld.get("description") or _meta(soup, "description", "og:description"),
         "body_links": list(dict.fromkeys(body_links)),
         "text_chars": len(text),
+        "word_count": len(text.split()),
         "flags": flags,
     }, text
 

@@ -20,7 +20,7 @@ python -m dstar.discover sitemaps          # (c) sitemap index + news sitemaps
 python -m dstar.discover search hits.csv   # (d) import search hits (url,keyword)
 python -m dstar.extract
 python -m dstar.classify pending 10        # read articles, then label them:
-python -m dstar.classify set <node_id> Core "reason" [--unsure "note"]
+python -m dstar.classify set <node_id> Core feature "reason" [--unsure "note"]
 python -m dstar.discover snowball          # (e) links inside relevant articles
 python -m dstar.extract                    # ...repeat extract/classify/snowball
 python -m dstar.build_xlsx
@@ -30,5 +30,5 @@ python -m dstar.recall                     # exits non-zero if a known article i
 ## Outputs
 * `candidates.csv`: url, source_of_discovery, first_seen (de-duplicated by the article's numeric id)
 * `cache/articles.jsonl`, `cache/text/<id>.txt`: extracted metadata and full text
-* `classification_log.csv`: label and reason for **every** candidate, including Irrelevant ones
+* `classification_log.csv`: label, content type and reason for **every** candidate, including Irrelevant ones. News reports (event/commemoration coverage, tribunal hearings) are always Irrelevant: only articles centred on 1971 are kept
 * `liberation_war_articles.xlsx`: sheets Articles, Needs review, Other sections, Summary
