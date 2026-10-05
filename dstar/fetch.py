@@ -14,6 +14,7 @@ import json
 import os
 import time
 import urllib.robotparser
+from urllib.parse import urljoin, urlsplit
 from datetime import datetime, timezone
 
 import requests
@@ -116,6 +117,22 @@ class Fetcher:
             time.sleep(MIN_DELAY - gap)
         self._last = time.monotonic()
 
+    def _get_same_site(self, url, max_hops=5):
+        """GET following redirects only within the same host.
+        Returns (response, None) or (None, offsite_location)."""
+        same = lambda h: h.lower().removeprefix("www.")
+        host = same(urlsplit(url).netloc)
+        for _ in range(max_hops + 1):
+            resp = self.session.get(url, timeout=30, allow_redirects=False)
+            if resp.status_code not in (301, 302, 303, 307, 308):
+                return resp, None
+            nxt = urljoin(url, resp.headers.get("Location", ""))
+            if same(urlsplit(nxt).netloc) != host:
+                return None, nxt
+            url = nxt
+            self._wait()
+        return resp, None
+
     def get(self, url, check_robots=True, refresh=False):
         """Return (status, text, final_url). Served from cache when possible."""
         path = _cache_path(url)
@@ -133,13 +150,19 @@ class Fetcher:
         for attempt in range(MAX_RETRIES + 1):
             self._wait()
             try:
-                resp = self.session.get(url, timeout=30)
+                resp, offsite = self._get_same_site(url)
             except requests.exceptions.ProxyError as exc:
                 raise BlockedError(f"network/proxy refused connection to {url}: {exc}")
             except requests.RequestException as exc:
                 last_err = str(exc)
                 time.sleep(2 ** (attempt + 1))
                 continue
+            if offsite:
+                # Redirect to another host (e.g. campaign.thedailystar.net): a
+                # single-page failure, not a site block. Logged and skipped.
+                self._write_log({"url": url, "status": "redirect-offsite",
+                                 "redirect_to": offsite, "at": _now()})
+                return None, "", url
 
             if resp.content[:2] == b"\x1f\x8b":  # raw .gz sitemap
                 body = gzip.decompress(resp.content).decode("utf-8", "replace")
