@@ -1,0 +1,17 @@
+MAKING OF LIBERATION '71
+2016-03-31T00:00:00+06:00 | Nony Khondaker
+https://www.thedailystar.net/shout/overclock/making-liberation-71-1201852
+
+In 2012, the Facebook group Gamer Zone took an initiative to request some of the top developers and publishers to consider making a game based on the Liberation War of 1971. After getting no response from the developers, the members of the group decided to unite and develop a game that would be an accurate portrayal of the 1971 Liberation War and thus began the bumpy journey of Team 71 and their first project, Liberation '71.
+
+Initially, there was no funding behind this game and there was not even an office space to work in. Amidst these adverse conditions, the developers released an alpha of the game on March 26, 2014 which was built using the Unity3D engine. The glitchy AI and the endless nature of the Alpha were not taken positively by gamers. The developers then focused on rectifying their mistakes and releasing a multiplayer map of the game on December 16 later that year. A mere few hours before the map was to be released, the AI system of the game crashed completely, creating a huge setback for Team 71.
+
+The development process of the game found new life when Unreal Engine was announced to be free. A switch to Unreal Engine meant better graphical quality, decreased development time and fewer risks.The financial and spatial woes also came to an end as another Bangladeshi game studio, Khelo Bangladesh collaborated with Team 71 in March 2016.
+
+The developers are now working hard on Liberation '71: Blackout, the prologue of the main game. Alongside Unreal Engine, the developers are using Blender for modelling and are implementing live motion-capture technology for animation purposes.
+
+"We are trying our best to make Liberation '71 a cinematic experience. Historical accuracy is also a prime factor in our efforts." said Farhad Rakib, CEO of Team 71. When asked about the platforms Liberation '71 will be released on, Faysal Ahmed of Khelo said, "PC is our first priority. However, considering the rising number of console users in the country, the game might make its way to the PlayStation 4 and Xbox One as well. It will be almost impossible to port the same game into mobile platforms but we have plans to make an Android version."
+
+The developers plan to release the game in three standalone versions over the course of the next two years. The first installment, Blackout, is expected to be released somewhere between the last week of March and the first week of April. It will be based on the events in Rajarbagh Police Line on March 25, 1971.
+
+Nony Khondaker is an introvert with immense passion for tech and music. Feel free to send your constructive feedback at [email protected] or follow him on twitter.com/NonyKhondaker

@@ -1,0 +1,35 @@
+UAS F-71: By Bangladesh, for Bangladesh
+2020-10-09T00:00:00+06:00 | Md. Saifullah Jamil
+https://www.thedailystar.net/bytes/news/uas-f-71-bangladesh-bangladesh-1974909
+
+It is commonly believed that "collective hard work to achieve goals" is how ant colonies function. That is also the motto of team ANTS from the Islamic University of Technology, Gazipur. This is how they won 3 awards in the IMechE UAS Challenge 2020. They built a UAS named Freedom-71 (F-71) and won the Business Proposition award, the Media and Engagement award, and the highest positioned entrants. We sat down with a couple of members from the team to hear their story.
+
+The Project
+
+The F-71 is designed to be able for aerial monitoring and carrying light packages. Samin Hasan, the head of ANTS R&D said, "the best way to use the F-71 is for data collection and light delivery. It is great for info gathering such as surveying or crop health monitoring through aerial photography."
+
+The team has presented that the aircraft has applications in package delivery, emergency response, agriculture and journalism. The context of Bangladesh played a major role in the team's planning. Since delivery by road takes a lot of time, the F-71 could be used to send some primary aid beforehand or to monitor emergency situations (an epidemic/pandemic, floods, fire accident etc.), enabling the preparation of efficient and effective countermeasures. The F-71 can be prepared for flight and delivery in just 10 minutes, the team stated in their presentation.
+
+Cost and environment pollution was also taken into account. "The UAS uses an electric power source. We also used jute based composite construction instead of carbon fibres, which is cheaper and environment friendly," said Samin. Overall, the project has innovated an emergency response system which saves time and resources.
+
+The Beginning
+
+The journey for ANTS began around September 2018, during the founding members' first year in IUT. Four friends Atik, Neehal, Tanvin, Samin participated in a competition arranged by Naval Architecture and Marine Engineering of BUET. They built an unmanned ship model for that occasion.
+
+Over the next few months, they participated in fury racing, mud racing, soccer bot competitions. Then they decided to build an aircraft for Techfest IIT but could not finish the project in time and missed the submission date on 15 November 2019. They finished the plane on 16 November, and unfortunately, it crashed. That is when the team targeted the IMechE UAS Challenge. Meanwhile, the team also grew to 14 members. Some members left, new members joined.
+
+Highs and Lows
+
+Their path was thorny since the logistics are not available in Bangladesh and sometimes the shipping process is also complicated. "We had to think at least 3 months ahead and order parts accordingly straight from foreign suppliers just to avoid the delays. It is difficult and extremely stressful because a minor slip may cause months-long delay," said Samin.
+
+Neehal picked up on this point, "When looking for a proper shipping route and method, sadly we could not find any that met our requirements. This was a big concern and will remain to be for future teams from Bangladesh. Also, a trip to the city centre where we had to go for the parts usually cost us around 5 hours being 50 km roundtrip. With our tight academic schedule, this was pretty tough." Both of them stated how hard it was to self- fund almost the entire project.
+
+The team acknowledges help received from several agencies. "Professionals from the Civil Aviation Training Centre under the Civil Aviation Authority of Bangladesh (CAAB) have mentored our team with ample knowledge of flight control and navigation. Manufacturing support in CAM was also received from PuzzleFun Games and Gifts and logistic support for importing materials & components was carried out by MMRC Technology Ltd," said Neehal.
+
+They also appreciated the huge enthusiasm they were met with from various educational institutes they went to for workshops.
+
+The Vision
+
+When asked about what is next for the team, Samin said, "next step is to complete the automation process for F-71 and do even better in the 2021 event."  The team's founder Neehal shares their vision "Carrying this momentum, we hope to participate in the 2021 competition as well and do even better than what we could in 2020.
+
+Our ultimate goal is to create a market for Unmanned Aviation in Bangladesh. At ANTS, we dream to do something new in the prospect of Bangladesh. We try to open doors and create paths for others. We try to pave the way for other aspiring engineers to chase their dreams, we try to encourage them. We try to reach what was previously thought unreachable."
