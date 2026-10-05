@@ -8,7 +8,7 @@ from collections import Counter
 from datetime import date, datetime
 
 from openpyxl import Workbook
-from openpyxl.styles import Alignment, Font
+from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
 from .classify import load_labels
@@ -18,6 +18,9 @@ from .store import ROOT, is_priority_section
 OUT = os.path.join(ROOT, "liberation_war_articles.xlsx")
 DATE_FMT = "DD-MMM-YYYY"
 KEEP = ("Core", "Borderline")
+# Cells you need to fill in by hand: missing date (amber), missing author (pale yellow).
+NEED_DATE = PatternFill("solid", fgColor="FFC000")
+NEED_AUTHOR = PatternFill("solid", fgColor="FFF2CC")
 
 
 def pub_date(raw):
@@ -88,8 +91,11 @@ def write_article_sheet(ws, items, extra=()):
         ws.append([n, it["date"], it["author"] or None, it["title"], it["url"], it["label"],
                    *[it[e.lower()] for e in extra]])
         r = ws.max_row
-        if it["date"]:
-            ws.cell(r, 2).number_format = DATE_FMT
+        ws.cell(r, 2).number_format = DATE_FMT
+        if not it["date"]:
+            ws.cell(r, 2).fill = NEED_DATE
+        if not it["author"]:
+            ws.cell(r, 3).fill = NEED_AUTHOR
         link = ws.cell(r, 5)
         link.hyperlink = it["url"]
         link.style = "Hyperlink"
@@ -127,6 +133,10 @@ def main():
     ws.append(["Articles (Slow Reads / In Focus)", len(main_items)])
     ws.append(["Other sections", len(other_items)])
     ws.append(["Needs review (also listed on their main sheet)", len(review)])
+    ws.append(["Rows needing a date added (amber Date cell)",
+               sum(i["date"] is None for i in items)])
+    ws.append(["Rows needing an author added (yellow Author cell)",
+               sum(not i["author"] for i in items)])
     ws.append([])
     ws.append(["By label", "Articles", "Other sections"])
     for lab in KEEP:

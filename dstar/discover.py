@@ -4,6 +4,7 @@ Usage:
     python -m dstar.discover listings
     python -m dstar.discover tags
     python -m dstar.discover sitemaps
+    python -m dstar.discover packages
     python -m dstar.discover search search_hits.csv
     python -m dstar.discover snowball
 """
@@ -26,7 +27,28 @@ LISTINGS = {
     "listing:slow-reads": BASE + "/slow-reads",
     "listing:in-focus": BASE + "/slow-reads/focus",
     "listing:views-in-focus": BASE + "/views/in-focus",
+    "listing:in-focus-legacy": BASE + "/in-focus",
 }
+
+# Tag pages seen in search results; more are harvested from fetched articles.
+SEED_TAGS = {
+    BASE + "/tags/1971-bangladesh-liberation-war": "1971 Bangladesh Liberation War",
+    BASE + "/tags/liberation-war-bangladesh": "Liberation War of Bangladesh",
+    BASE + "/tags/war-liberation": "War of Liberation",
+    BASE + "/tags/operation-searchlight": "Operation Searchlight",
+    BASE + "/tags/liberation-war": "Liberation War",
+    BASE + "/tags/1971-liberation-war": "1971 Liberation War",
+    BASE + "/tags/bijoy-dibosh": "Bijoy Dibosh",
+    BASE + "/tags/tajuddin-ahmad": "Tajuddin Ahmad",
+    BASE + "/tags/bangladesh-war-crimes-trial": "Bangladesh war crimes trial",
+    BASE + "/tags/international-crimes-tribunal": "International Crimes Tribunal",
+}
+
+# Themed listings seen in search results that no candidate path reveals.
+SEED_PACKAGES = [
+    BASE + "/1971-liberation-war-interviews",
+    BASE + "/supplements/martyred-intellectuals-day-2017",
+]
 
 # Tag names we look for; matched against the tag's slug and its visible label.
 TAG_TERMS = re.compile(
@@ -34,6 +56,18 @@ TAG_TERMS = re.compile(
     r"mujibnagar|victory[- ]day|bijoy|razakar|al[- ]badr|war[- ]crime|birangona|"
     r"martyred[- ]intellectual|operation[- ]searchlight|independence[- ]day|"
     r"bangabandhu|6[- ]point|six[- ]point|7[- ]march|march[- ]7|language[- ]movement",
+    re.I,
+)
+
+
+# Outside Slow Reads the site has far too many articles to fetch them all, so
+# sitemap URLs from other sections are kept only when the slug signals the topic.
+SLUG_TERMS = re.compile(
+    r"liberation-war|1971|muktijuddh|mukti-bahini|genocide|razakar|al-badr|al-shams|"
+    r"freedom-fighter|birangona|mujibnagar|searchlight|victory-day|bijoy-dibos|"
+    r"war-crime|war-criminal|ict-|tribunal|martyred-intellectual|intellectuals-day|"
+    r"tajuddin|archer-blood|kissinger|six-point|6-point|7-march|march-7|"
+    r"pakistan-army|surrender|independence-day|swadhinata|1970-election",
     re.I,
 )
 
@@ -101,10 +135,36 @@ def paginate(fetcher, cands, st, base_url, source, priority_only=False):
             break
 
 
+SUBSECTION_RE = re.compile(r"^/slow-reads/[a-z0-9-]+(?:/[a-z0-9-]+)?$")
+
+
+def slow_reads_subsections(fetcher, cands):
+    """Slow Reads subsection/package listings, from the landing page's links
+    and from the paths of candidates already found."""
+    found = set()
+    status, html, _ = fetcher.get(LISTINGS["listing:slow-reads"])
+    if status == 200:
+        soup = BeautifulSoup(html, "lxml")
+        for a in soup.find_all("a", href=True):
+            u = canonical(a["href"])
+            if SUBSECTION_RE.match(urlsplit(u).path) and not is_article(u):
+                found.add(u)
+    for row in cands.rows.values():
+        path = urlsplit(row["url"]).path
+        if path.startswith("/slow-reads/") and "/news/" in path:
+            found.add(BASE + path.split("/news/", 1)[0])
+    return sorted(found - set(LISTINGS.values()))
+
+
 def run_listings(fetcher, cands):
     st = _state()
     for source, url in LISTINGS.items():
         paginate(fetcher, cands, st, url, source, priority_only=True)
+    subs = slow_reads_subsections(fetcher, cands)
+    print(f"{len(subs)} Slow Reads subsections: {subs}")
+    for url in subs:
+        paginate(fetcher, cands, st, url, "listing:" + urlsplit(url).path[1:],
+                 priority_only=True)
 
 
 def collect_tags_from_cache(cands):
@@ -126,7 +186,8 @@ def collect_tags_from_cache(cands):
 
 def run_tags(fetcher, cands):
     st = _state()
-    found = collect_tags_from_cache(cands)
+    found = dict(SEED_TAGS)
+    found.update(collect_tags_from_cache(cands))
     for u, label in found.items():
         slug = urlsplit(u).path.split("/tags/", 1)[1]
         if TAG_TERMS.search(slug) or TAG_TERMS.search(label):
@@ -137,6 +198,27 @@ def run_tags(fetcher, cands):
         # Tag pages are site-wide; keep every article (non-priority ones feed
         # the "Other sections" sheet).
         paginate(fetcher, cands, st, u, "tag:" + urlsplit(u).path.split("/tags/", 1)[1])
+
+
+def package_listings(cands):
+    """Themed listings (supplements, special series) that hold relevant articles,
+    inferred from the paths of candidates, e.g. /supplements/victory-day-special-2021."""
+    found = set()
+    for row in cands.rows.values():
+        path = urlsplit(row["url"]).path
+        parent = path.split("/news/", 1)[0] if "/news/" in path else path.rsplit("/", 1)[0]
+        if parent and parent != "/" and SLUG_TERMS.search(parent) \
+                and not parent.startswith("/slow-reads"):
+            found.add(BASE + parent)
+    return sorted(found)
+
+
+def run_packages(fetcher, cands):
+    st = _state()
+    pkgs = sorted(set(package_listings(cands)) | set(SEED_PACKAGES))
+    print(f"{len(pkgs)} themed package listings: {pkgs}")
+    for url in pkgs:
+        paginate(fetcher, cands, st, url, "package:" + urlsplit(url).path[1:])
 
 
 def _sitemap_locs(text):
@@ -169,8 +251,10 @@ def run_sitemaps(fetcher, cands):
             u = canonical(loc)
             if is_priority_section(u):
                 added += cands.add(u, "sitemap")
+            elif SLUG_TERMS.search(urlsplit(u).path):
+                added += cands.add(u, "sitemap:slug")
         cands.save()
-        print(f"  sitemap {sm}: {len(locs)} urls, {added} new priority candidates")
+        print(f"  sitemap {sm}: {len(locs)} urls, {added} new candidates")
 
 
 def run_search(cands, path):
@@ -178,7 +262,7 @@ def run_search(cands, path):
     added = 0
     with open(path, newline="", encoding="utf-8") as fh:
         for row in csv.DictReader(fh):
-            added += cands.add(row["url"], "search:" + row["keyword"])
+            added += cands.add(row["url"], "search:" + row["keyword"], loose=True)
     cands.save()
     print(f"search: {added} new candidates (total {len(cands)})")
 
@@ -207,7 +291,8 @@ def main(argv):
     fetcher = Fetcher()
     fetcher.robots()
     {"listings": run_listings, "tags": run_tags,
-     "sitemaps": run_sitemaps, "snowball": run_snowball}[cmd](fetcher, cands)
+     "sitemaps": run_sitemaps, "snowball": run_snowball,
+     "packages": run_packages}[cmd](fetcher, cands)
 
 
 if __name__ == "__main__":

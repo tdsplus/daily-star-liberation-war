@@ -160,6 +160,9 @@ def parse(html, url):
     tags = [a.get_text(strip=True) for a in soup.select("a[href*='/tags/']")]
     if len(text) < 300:
         flags.append("short-text")
+    og_type = _meta(soup, "og:type").lower()
+    if not lds and og_type not in ("article", "news", "newsarticle"):
+        flags.append("not-article")
 
     return {
         "node_id": node_id(canon if is_article(canon) else url),
