@@ -1,77 +1,108 @@
 # Daily Star 1971 Liberation War index: final report
 
 Deliverable: `liberation_war_articles.xlsx`. Audit trail: `classification_log.csv`
-(label, content type and reason for every article read, including Irrelevant ones),
-`candidates.csv`, `discovery/pruned_candidates.csv`.
+(label, content type and reason for every page read, including excluded ones),
+`candidates.csv`, `discovery/pruned_candidates.csv`, `discovery/decisions/`.
 
-## Totals
+## What is listed, and where
 
-| Sheet | Rows | Core | Borderline |
-|---|---|---|---|
-| Articles (Slow Reads / In Focus) | 157 | 100 | 57 |
-| Other sections | 49 | 47 | 2 |
-| Needs review | 15 | | |
+Only articles whose **central theme** is the subject of the tab are listed. News
+reports (observances, speeches, court and tribunal reports, obituaries, release
+announcements) are never listed, whatever the topic.
 
-- Every row has a publication date and an author taken from the page. Nothing was guessed.
-- News reports were excluded by your rule: 9 relevant-topic reports, such as
-  commemoration coverage and tribunal reports, are logged as Irrelevant with the
-  reason "news report".
-- 1 duplicate was left off the main sheets: Mascarenhas's "Genocide", published under two
-  ids. The Slow Reads / In Focus copy was kept.
-- Recall check: **7/7** known articles present.
+| Tab | Rows | What it holds |
+|---|---|---|
+| Slow Reads - Liberation War | 112 | Slow Reads / In Focus pieces about 1971 itself |
+| Other - Liberation War | 769 | The same, from every other section |
+| Slow Reads - Language Movement | 15 | Slow Reads pieces about the 1948-52 Language Movement |
+| Other - Language Movement | 61 | The same, from every other section |
+| Pre-1971 | 11 | The run-up before 1971: Six Points, 1969, 1970 election, Bhola cyclone |
+| Present Day Discussions | 111 | Present-day debates where 1971 is the subject |
+| Needs review | 21 | Items flagged for a human look (see below) |
+| Summary | | Counts, years, date ranges, coverage |
+
+- Every listed row has a publication date and an author taken from the page. Nothing
+  was guessed, so no cells needed highlighting.
+- Each tab is sorted oldest first; dates are real dates shown as DD-MMM-YYYY; links
+  are clickable.
+- Recall check: **7/7** known Slow Reads articles are on the Slow Reads tab.
+
+### Rules applied (from your answers)
+- **Central theme only.** 147 pieces where 1971 matters but is not the subject
+  (biographies, tributes, Victory Day editorials, present-day politics citing 1971)
+  are labelled Borderline in the log and not listed.
+- **March 1971 counts as 1971.** The 7 March speech and the March 1971
+  non-cooperation movement are on the Liberation War tabs, not Pre-1971.
+- **Present Day Discussions** covers genocide recognition, Pakistan's denial and
+  apology, the war crimes trials, Jamaat's 1971 role, recognition of birangonas and
+  freedom fighters, neglected killing fields and memorials, and the politics of 1971
+  history.
+- **Arts pieces left out:** films, novels, plays, poems, music and games about 1971 or
+  1952, and reviews of them. Reviews of non-fiction history books stay.
+- **Language Movement:** only the 1948-52 movement, its people and its history.
+  International Mother Language Day pieces only when they are about 1952.
+- "Slow Reads" includes In Focus, the older `/in-focus/` and `/views/in-focus/` paths,
+  and `/ds/slow-reads-special/` (the site files these under its Slow Reads category).
+
+### The 1971 day-by-day chronicle
+About 420 rows on the Liberation War tabs are short dated chronicle entries: the
+2014 archive ("May 12, 1971"), "On this day in 1971" (2019), the March 1971 series
+(2018/2019) and "Road to Freedom" (2021). Entries under 50 words were left out as
+stubs. They can be moved to their own tab or dropped if preferred.
 
 ## Coverage
 
 | Section | Candidates read | Candidates found |
 |---|---|---|
-| Slow Reads / In Focus | 1,516 | 1,525 |
-| Other sections | 55 | 2,549 |
+| Slow Reads / In Focus | 1,536 | 1,545 |
+| Other sections | 2,838 | 2,840 |
 
-**The "Other sections" sheet is incomplete.** After about 1,500 polite requests,
-one at a time and about 2.5 s apart, the site returned HTTP 403 for
-`/news/bangladesh/special-read/news/watch-pakistan-lying-about-1971-genocide-185098`.
-The crawl stopped as instructed, and by your decision it was not resumed. About 2,490
-other-section candidates (pages from sitemaps, supplements and search) were never read.
-The existing 49 rows come mostly from targeted search, so treat that sheet as a sample,
-not a census.
+Slow Reads was read in full. Outside Slow Reads the site is far too large to read
+every page, so sitemap URLs were fetched only when the URL contained a 1971 or
+Language Movement term (the 8,500 URLs filtered out are in
+`discovery/pruned_candidates.csv`). A relevant article with a non-descriptive URL
+outside Slow Reads could therefore be missed; targeted web searches and themed
+supplement listings were used to catch these.
 
-## Discovery routes
+## Discovery routes (rows can have several)
 
-| Route | Articles sheet | Other sections |
-|---|---|---|
-| Sitemaps | 157 (9 found by no other route) | 32 |
-| Slow Reads / In Focus listing pagination | 147 | — |
-| Web search | 67 | 49 (16 found by no other route) |
-| Themed supplements / packages | 10 | 10 |
-| Tag pages | not used: `Disallow: /tags/` in robots.txt | |
+| Tab | Sitemaps | Listings | Search | Supplements |
+|---|---|---|---|---|
+| Slow Reads - Liberation War | 90 | 85 | 51 | 30 |
+| Other - Liberation War | 715 | - | 89 | 140 |
+| Slow Reads - Language Movement | 15 | 13 | 4 | - |
+| Other - Language Movement | 60 | - | - | 1 |
+| Pre-1971 | 9 | 4 | 6 | 1 |
+| Present Day Discussions | 103 | 4 | 10 | 12 |
 
-## Pages that failed to load
+Tag pages were not used: robots.txt disallows `/tags/`.
 
-- **HTTP 403** (crawl stopped here): the "[WATCH] Pakistan lying about 1971 genocide" page.
-- **Off-site redirects**, to subdomains this environment cannot reach:
-  - *Operation Searchlight: The night hell opened over Dhaka*. This is relevant (Core),
-    so it is listed on "Needs review" with date and author blank.
-  - Five unrelated Slow Reads pages that redirect to campaign microsites:
-    climate and gender, the haor crisis, labour, workplace safety, and a censorship
-    timeline.
-- **HTTP 404:** three listing URLs (`/in-focus`, `/views/in-focus`,
-  `/opinion/martyred-intellectuals-day`). Their articles were reached through other routes.
+## Crawl conduct and failures
 
-## Things I am unsure about
+- One request at a time, at least 5 seconds apart (2.5 s before the first 403),
+  robots.txt respected, descriptive User-Agent.
+- **HTTP 403 (once):** `/news/bangladesh/special-read/news/watch-pakistan-lying-about-1971-genocide-185098`
+  (a video item). The crawl stopped as instructed; with your go-ahead it resumed more
+  slowly and that page was never requested again. No other 403s or challenges occurred.
+- **Two dropped connections at this environment's proxy** (not the site) stopped the
+  crawl briefly; each time the proxy reported no faults and the same page then loaded
+  normally.
+- **Off-site redirects** to campaign microsites that cannot be reached from here:
+  *Operation Searchlight: The night hell opened over Dhaka* (relevant; listed on
+  Needs review with date and author blank) and five unrelated Slow Reads pages.
+- **HTTP 404:** three listing URLs; their articles were reached by other routes.
 
-1. **Possible republications** under new titles. Both copies are listed and flagged
-   on "Needs review":
-   - "The Proclamation of Independence was a beacon" (2025) and
-     "The proclamation that gave Bangladesh its statehood" (2026)
-   - "Anti-Bangladesh before & after '71" (2012) and "Anti-liberation all along" (2013)
-2. **Borderline judgements** flagged on "Needs review". For example, profiles of
-   martyred intellectuals that dwell on their earlier lives, the Tharparkar memorial
-   (western front), and Bengalis stranded in Pakistan after 1971.
-3. **Dates are the site's own creation timestamps.** For older pieces republished in
-   Slow Reads (e.g. Rehman Sobhan's June 1971 *Guardian* article), the date is the
-   republication date, not the original.
-4. **Sitemap filter for other sections.** Sitemap pages from other sections were
-   queued for reading only if the URL contained a 1971 term. A relevant article with
-   a non-descriptive URL could be missed there; this does not affect Slow Reads,
-   which was read in full. The 8,500 URLs filtered out are in
-   `discovery/pruned_candidates.csv`.
+## Things to check (Needs review tab)
+
+1. **Possible republications under new titles**, both copies listed:
+   - "The Proclamation of Independence was a beacon" (2025) / "The proclamation that
+     gave Bangladesh its statehood" (2026)
+   - "Anti-Bangladesh before & after '71" (2012) / "Anti-liberation all along" (2013)
+   - "My three martyred teachers" (2022) / "A Tribute to My Martyr Teachers" (2023)
+2. **Borderline-format pieces kept:** district liberation-day anniversary features
+   that are mostly history, a BSS piece on Kissinger, an online report on a book about
+   Nixon.
+3. **Eight exact republications** (same title, author and text) are listed once; the
+   other copy is on Needs review.
+4. **Dates are the site's creation timestamps.** For older pieces republished later
+   (e.g. reprints of 1971 articles), the date is the republication date.

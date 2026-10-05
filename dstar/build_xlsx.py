@@ -12,7 +12,7 @@ from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
 from .classify import NEWS, load_labels
-from .extract import load_records
+from .extract import load_records, text_path
 from .store import ROOT, is_priority_section
 
 OUT = os.path.join(ROOT, "liberation_war_articles.xlsx")
@@ -53,6 +53,24 @@ def pub_date(raw):
     return None
 
 
+def _words(it):
+    try:
+        with open(text_path(it["nid"]), encoding="utf-8") as fh:
+            body = fh.read().split("\n\n", 1)[-1]
+    except OSError:
+        return set()
+    w = re.findall(r"[a-z]+", body.lower()[:4000])
+    return {" ".join(w[i:i + 5]) for i in range(len(w) - 4)}
+
+
+def same_text(a, b, threshold=0.5):
+    """Do two items share most of their opening text (5-word shingles)?"""
+    wa, wb = _words(a), _words(b)
+    if not wa or not wb:
+        return True   # no text to compare: fall back to title + author
+    return len(wa & wb) / min(len(wa), len(wb)) >= threshold
+
+
 def rows():
     recs, labels = load_records(), load_labels()
     out = []
@@ -73,7 +91,7 @@ def rows():
         if lab.get("unsure_note"):
             problems.append("relevance uncertain: " + lab["unsure_note"])
         out.append({
-            "date": d, "author": r["author"], "title": r["title"],
+            "nid": nid, "date": d, "author": r["author"], "title": r["title"],
             "url": r["canonical_url"], "label": lab["label"], "reason": lab["reason"],
             "section": r["section"] or "/".join(r["canonical_url"].split("/")[3:5]),
             "priority": is_priority_section(r["canonical_url"]),
@@ -82,20 +100,23 @@ def rows():
     key = lambda x: (x["date"] is None, x["date"] or date.min, x["title"].lower())
     out = sorted(out, key=key)
     # The site occasionally republishes an article under a new node id. Same
-    # normalised title + author => keep the earliest, report the rest.
+    # normalised title + author AND largely the same text => keep one copy
+    # (the Slow Reads one if any) and report the rest. The text check stops
+    # series with a fixed title (e.g. "On this day in 1971") being merged.
     seen, kept, dupes = {}, [], []
     for it in out:
         k = (re.sub(r"[^a-z0-9]+", " ", it["title"].lower()).strip(), it["author"].lower())
-        if k in seen:
-            keep = seen[k]
+        keep = next((c for c in seen.get(k, []) if same_text(c, it)), None)
+        if keep is not None:
             if it["priority"] and not keep["priority"]:
                 # Prefer the Slow Reads / In Focus copy of a republished article.
                 kept[kept.index(keep)] = it
-                seen[k], keep, it = it, it, keep
-            it["problems"] = [f"likely duplicate of {keep['url']} (same title and author)"]
+                seen[k][seen[k].index(keep)] = it
+                keep, it = it, keep
+            it["problems"] = [f"likely duplicate of {keep['url']} (same title, author and text)"]
             dupes.append(it)
         else:
-            seen[k] = it
+            seen.setdefault(k, []).append(it)
             kept.append(it)
     # A swapped-in priority copy may have a later date than the one it replaced.
     return sorted(kept, key=key), dupes
@@ -206,8 +227,10 @@ def main():
     ws.append(["Coverage", "Candidates read", "Candidates found"])
     ws.append(["Slow Reads / In Focus", sum(k in done for k in pri), len(pri)])
     ws.append(["Other sections", sum(k in done for k in oth), len(oth)])
-    if sum(k in done for k in oth) < len(oth):
-        ws.append(["Note", "Other-section tabs are still being completed: some candidates are not yet read."])
+    unread = len(pri) + len(oth) - sum(k in done for k in pri) - sum(k in done for k in oth)
+    if unread:
+        ws.append(["Note", f"{unread} candidate pages could not be fetched (HTTP 403/404 or redirects "
+                           "to other sites); they are listed in REPORT.md."])
     for row in ws.iter_rows():
         if row[0].value in ("Metric", "By year", "Coverage"):
             for c in row:
