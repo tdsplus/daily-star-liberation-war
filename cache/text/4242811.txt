@@ -1,0 +1,49 @@
+How satellites are transforming conflict between India and Pakistan
+2026-08-08T17:10:01+06:00 | Muhammad Waqas Haider
+https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-satellites-are-transforming-conflict-between-india-and-pakistan-4242811
+
+India and Pakistan fought an intense four-day war in May 2025. But while the media narrative was dominated by fighter jets, drones and missiles, the most consequential contest unfolded in orbit a few hundred kilometres up.
+
+That short war was, arguably, the first between two nuclear-armed states to be shaped decisively by the use of satellites . Few analysts acknowledged this – and the silence matters. South Asia is now sliding into a new kind of arms race with no rules to restrain it.
+
+The opening night on May 6 carried a lesson that should unsettle far larger air forces than those of the two countries involved. Pakistan, with a smaller military, fought a tightly networked battle that fused ground radar, airborne early warning, data links and satellite navigation into a single kill chain , planning and executing attacks. Pakistan’s strategy has been developed by an air force whose leadership had drilled that doctrine for years.
+
+Pakistani officials claimed that one of their Chinese-built J-10C fighters downed an Indian Rafale with a PL-15 missile at more than 200kms. This was a kill made from beyond visual range – something with little precedent in combat. India disputes the account, but its own chief of defence staff later conceded that the air force lost aircraft that day.
+
+India regrouped and struck back hard over the following days. But the opening exchange was decided less by numbers, or by any single aircraft’s specifications, than by how well each side fused its radar, early warning, data links and missiles into one system, and by the training of the crews flying it.
+
+Sitting over all this was space-based technology. Modern strikes run on satellites : satellite imagery to find targets, navigation to guide weapons and links to hold it together. Both sides drew on them and both used them to reach beyond their borders.
+
+For years, the debate about war in space has focused on the US, China and Russia. Yet it may be here, between two states partitioned in 1947 that have fought four wars since, that the world first sees what space-enabled conflict between nuclear powers really looks like.
+
+For years, the debate about war in space has focused on the US, China and Russia. Yet it may be here, between two states partitioned in 1947 that have fought four wars since, that the world first sees what space-enabled conflict between nuclear powers really looks like.
+
+Despite the strength of India’s defence manufacturing industry, Delhi fell back on imagery bought from US commercial satellite firm Maxar Technologies to assess the damage its strikes had caused. Pakistan leaned on Chinese systems. According to India’s own deputy army chief, Beijing fed Pakistan live inputs on Indian deployments – and researchers have describe how a BeiDou-enabled satellite network (the Chinese equivalent of GPS) reportedly supplied targeting data during the fighting.
+
+This is where the familiar story about Pakistan’s dependence on China needs correcting. Reliance on a great power patron is not peculiar to Pakistan – most countries start out developing their space programme this way. India launched its first satellite on a Soviet rocket in 1975 and built its heavy-lift capability around Russian cryogenic engines , the high-efficiency rocket motors that burn super-cooled liquid fuel to launch heavy satellites, acquired in 1991.
+
+China itself began with Soviet missile designs. Pakistan’s turn to China, after years of relying on a US system it feared could be switched off in a crisis, is a rational decision of the same kind India once made when it sourced most of its weapons and its first satellite launch from Moscow rather than the west.
+
+Borrowed capability still comes with a cost. Commercial and allied space assets are becoming a strategic equaliser in South Asia, giving a smaller state capabilities it could not achieve on its own. The risk is that this hands a third power a seat inside a bilateral nuclear rivalry and ties a regional quarrel to the wider contest between Washington, Moscow and Beijing.
+
+India has chosen to respond with sheer volume, fast-tracking a home-grown programme worth US$3.2 billion (£2.4 billion) for 52 dedicated military satellites to watch Pakistan, China and the Indian Ocean, plus a new space doctrine and counterspace arsenal. It has already demonstrated its ability to destroy a satellite in orbit in its 2019 Mission Shakti test . Pakistan is likely to respond by deepening its partnership with China.
+
+The deeper hazard is not a battle in orbit but the way these systems compress the timing with which operational decisions are made. When commanders can watch an adversary almost in real time and believe a target can be struck within minutes, the pull to move first, before the target slips away, becomes hard to resist.
+
+The deeper hazard is not a battle in orbit but the way these systems compress the timing with which operational decisions are made. When commanders can watch an adversary almost in real time and believe a target can be struck within minutes, the pull to move first, before the target slips away, becomes hard to resist.
+
+Split-second decisions The deeper hazard is not a battle in orbit but the way these systems compress the timing with which operational decisions are made. When commanders can watch an adversary almost in real time and believe a target can be struck within minutes, the pull to move first, before the target slips away, becomes hard to resist.
+
+As I have written on the doctrine of limited air wars , nuclear neighbours rarely escalate deliberately. They tend to stumble into conflict under time pressure. Satellites do not make these states reckless. They reduce the margin for miscalculation.
+
+And there is no rule book. The 1967 Outer Space Treaty bans weapons of mass destruction in orbit, but is silent on the conventional, electronic and cyber tools that actually shaped this war. Fresh norms have stalled. India has abstained from recent United Nations resolutions on responsible behaviour in space, wary of a rule-making process it sees as led by the established western space powers and shaped without India’s full say.
+
+Meanwhile, Pakistan urges a restraint it cannot yet enforce. Nothing in the space domain resembles even the imperfect hotlines and arms-control treaties that disciplined the cold war rivalry between Washington and Moscow.
+
+For years, the debate about war in space has focused on the US, China and Russia. Yet it may be here, between two states partitioned in 1947 that have fought four wars since, that the world first sees what space-enabled conflict between nuclear powers really looks like.
+
+Having spent 17 years in the Pakistan Air Force before turning to research, I think the May war is not so much a story about Pakistan’s reliance on China than as two nuclear rivals racing the same space-enabled technology ahead of any restraint. The tools are advancing fast. The guardrails are not.
+
+This article was first published under the title “India and Pakistan’s 79‑year rivalry has made the dangerous move into space” in The Conversation, on August 5, 2026.
+
+Muhammad Waqas Haider is a PhD candidate in International Relations at Lancaster University and a 17-year Pakistan Air Force veteran who led national strategic research on future warfare.
