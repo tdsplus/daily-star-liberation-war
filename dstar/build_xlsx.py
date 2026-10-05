@@ -17,11 +17,17 @@ from .store import ROOT, is_priority_section
 
 OUT = os.path.join(ROOT, "liberation_war_articles.xlsx")
 DATE_FMT = "DD-MMM-YYYY"
-KEEP = ("Core", "Language Movement")   # Borderline is logged but not listed
-LW, LM = "Core", "Language Movement"
+KEEP = ("Core", "Pre-1971", "Present Day", "Language Movement")   # Borderline is logged but not listed
+LW, LM, PRE, PD = "Core", "Language Movement", "Pre-1971", "Present Day"
 # Excel sheet names: max 31 characters, no "/" allowed.
 TABS = {(LW, True): "Slow Reads - Liberation War", (LW, False): "Other - Liberation War",
-        (LM, True): "Slow Reads - Language Movement", (LM, False): "Other - Language Movement"}
+        (LM, True): "Slow Reads - Language Movement", (LM, False): "Other - Language Movement",
+        (PRE, None): "Pre-1971", (PD, None): "Present Day Discussions"}   # None: both sections on one tab
+
+
+def tab_key(it):
+    key = (it["label"], it["priority"])
+    return key if key in TABS else (it["label"], None)
 # Cells you need to fill in by hand: missing date (amber), missing author (pale yellow).
 NEED_DATE = PatternFill("solid", fgColor="FFC000")
 NEED_AUTHOR = PatternFill("solid", fgColor="FFF2CC")
@@ -108,10 +114,11 @@ def style(ws, widths, wrap_cols):
             cell.alignment = Alignment(wrap_text=True, vertical="top")
 
 
-def write_article_sheet(ws, items):
-    ws.append(["Serial Number", "Date", "Author", "Title", "Link"])
+def write_article_sheet(ws, items, with_section=False):
+    ws.append(["Serial Number", "Date", "Author", "Title", "Link"] + (["Section"] if with_section else []))
     for n, it in enumerate(items, 1):
-        ws.append([n, it["date"], it["author"] or None, it["title"], it["url"]])
+        ws.append([n, it["date"], it["author"] or None, it["title"], it["url"]]
+                  + (["Slow Reads" if it["priority"] else "Other"] if with_section else []))
         r = ws.max_row
         ws.cell(r, 2).number_format = DATE_FMT
         if not it["date"]:
@@ -121,7 +128,7 @@ def write_article_sheet(ws, items):
         link = ws.cell(r, 5)
         link.hyperlink = it["url"]
         link.style = "Hyperlink"
-    style(ws, [9, 14, 26, 60, 70], ["C", "D"])
+    style(ws, [9, 14, 26, 60, 70, 12], ["C", "D"])
 
 
 def main():
@@ -129,7 +136,7 @@ def main():
     from .classify import load_labels
     from .store import Candidates, node_id
     items, dupes = rows()
-    groups = {k: [i for i in items if (i["label"], i["priority"]) == k] for k in TABS}
+    groups = {k: [i for i in items if tab_key(i) == k] for k in TABS}
     review = [i for i in items if i["problems"]] + dupes
 
     # Relevant pages that could not be fetched (e.g. off-site interactive
@@ -146,12 +153,12 @@ def main():
     for n, (key, name) in enumerate(TABS.items()):
         ws = wb.active if n == 0 else wb.create_sheet()
         ws.title = name
-        write_article_sheet(ws, groups[key])
+        write_article_sheet(ws, groups[key], with_section=key[1] is None)
 
     ws = wb.create_sheet("Needs review")
     ws.append(["Date", "Author", "Title", "Link", "Tab", "Why it needs review"])
     for it in review:
-        tab = TABS.get((it["label"], it["priority"]), "")
+        tab = TABS.get(tab_key(it), "") if it.get("label") in KEEP else ""
         if it in dupes:
             tab = "(not listed - duplicate)"
         elif it.get("unfetched"):
