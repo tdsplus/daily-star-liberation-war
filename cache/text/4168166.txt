@@ -1,0 +1,37 @@
+How not to use AI in children’s education
+2026-05-05T15:08:31+06:00 | Sultana Chadni
+https://www.thedailystar.net/slow-reads/wisdom/news/how-not-use-ai-childrens-education-4168166
+
+Before a child learns to read or write, they learn to trust, to relate, and to feel.
+
+These early years of life are not only about cognitive development; they are about forming relationships, understanding emotions, and making sense of the world through interaction, play, and human connection. Research consistently shows that the foundations of brain development are laid before the age of five, but these foundations are deeply social and emotional, not just intellectual.
+
+As conversations around artificial intelligence (AI) in education continue to grow, shaped by global actors such as UNESCO and the OECD, an important question emerges: what does AI mean for children in these earliest and most formative years?
+
+More fundamentally, if learning begins through human interaction, does AI have a role in early childhood development at all? And if so, what should that role be?
+
+AI has the potential to support education in meaningful ways. It can assist teachers, personalise content, and improve access to resources. However, in early childhood, learning is not primarily driven by content delivery. It is shaped by relationships, responsiveness, and human experience. No system, however advanced, can replicate the emotional feedback, trust, and social learning that take place between a child and a caregiver, teacher, or peer.
+
+In contexts like Bangladesh, many schools still struggle with basic digital access. Teachers often work with limited resources, and in some areas, even reaching the classroom is a challenge. In such realities, discussions around AI can easily become disconnected from everyday practice. If introduced without sensitivity to context, AI risks widening existing inequalities.
+
+In contexts like Bangladesh, many schools still struggle with basic digital access. Teachers often work with limited resources, and in some areas, even reaching the classroom is a challenge. In such realities, discussions around AI can easily become disconnected from everyday practice. If introduced without sensitivity to context, AI risks widening existing inequalities.
+
+Drawing from my work in socio-emotional learning, children’s ability to manage emotions, build relationships, and develop empathy emerges through consistent human interaction. These are not secondary aspects of education; they are central to how learning happens.
+
+The COVID-19 pandemic offered a glimpse into what happens when these interactions are disrupted. While digital tools enabled continuity in learning, many children experienced reduced social engagement. This affected not only their academic progress, but also their confidence, communication, and emotional well-being. The lesson here is not that technology is harmful, but that it cannot substitute the relational foundations of learning.
+
+As AI becomes more embedded in education systems, there is a risk that efficiency and scalability take precedence over these human dimensions. This is particularly concerning in early childhood, where the long-term impact of such shifts is not yet fully understood.
+
+There are also important ethical considerations. Increasingly, educational spaces are being used to introduce and test new technologies. Yet schools, especially those serving young children, should not become experimental grounds without a clear understanding of long-term consequences. Questions around data use, consent, and unintended developmental impacts must be addressed with care.
+
+At the same time, the issue of inclusion cannot be ignored. In contexts like Bangladesh, many schools still struggle with basic digital access. Teachers often work with limited resources, and in some areas, even reaching the classroom is a challenge. In such realities, discussions around AI can easily become disconnected from everyday practice. If introduced without sensitivity to context, AI risks widening existing inequalities.
+
+Global AI frameworks often focus on optimisation, yet they overlook a unique reality of early childhood: in our classrooms, educators are essentially professional caregivers. They do not just deliver content; they provide the emotional safety children need to learn. We must ensure that AI serves to empower these individuals, rather than sidelining them in favour of tailored, machine-led processes that ignore the very bonds that drive early development.
+
+Rather than large-scale, rapid adoption, AI in early childhood education should be approached with caution and care. Small, well-designed pilot initiatives can help us understand how these tools interact with children’s development, behaviour, and well-being. More importantly, they can help us ask the right questions before scaling solutions.
+
+AI may have a role to play, but that role is not to replace, but to support. It can assist teachers, reduce administrative burdens, and provide supplementary resources. But it cannot nurture a child, respond to their emotions, or replace the human relationships through which learning begins.
+
+Before we ask what AI can do in early childhood education, we must first ask what children truly need. Before AI, learning begins in the natural world.
+
+Sultana Chadni is Deputy Manager, Business Development, at BRAC Institute of Educational Development, BRAC University. The article was developed through the #NextGenEdu Learning Cohort, a platform for reflection and dialogue on AI and education in Bangladesh.

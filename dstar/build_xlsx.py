@@ -77,7 +77,12 @@ def rows():
     for it in out:
         k = (re.sub(r"[^a-z0-9]+", " ", it["title"].lower()).strip(), it["author"].lower())
         if k in seen:
-            it["problems"] = [f"likely duplicate of {seen[k]['url']} (same title and author)"]
+            keep = seen[k]
+            if it["priority"] and not keep["priority"]:
+                # Prefer the Slow Reads / In Focus copy of a republished article.
+                kept[kept.index(keep)] = it
+                seen[k], keep, it = it, it, keep
+            it["problems"] = [f"likely duplicate of {keep['url']} (same title and author)"]
             dupes.append(it)
         else:
             seen[k] = it
@@ -121,6 +126,17 @@ def main():
     other_items = [i for i in items if not i["priority"]]
     review = [i for i in items if i["problems"]] + dupes
 
+    # Relevant pages that could not be fetched (e.g. off-site interactive
+    # microsites): listed for review with blank date/author, never guessed.
+    unfetched = os.path.join(ROOT, "discovery", "unfetchable_relevant.csv")
+    if os.path.exists(unfetched):
+        import csv
+        with open(unfetched, newline="", encoding="utf-8") as fh:
+            for row in csv.DictReader(fh):
+                review.append({"date": None, "author": "", "title": row["title"], "url": row["url"],
+                               "label": row["label"], "priority": True,
+                               "problems": ["not extracted: " + row["why"]], "unfetched": True})
+
     wb = Workbook()
     ws = wb.active
     ws.title = "Articles"
@@ -132,6 +148,8 @@ def main():
         sheet = "Articles" if it["priority"] else "Other sections"
         if it in dupes:
             sheet = "(not listed - duplicate)"
+        elif it.get("unfetched"):
+            sheet = "(not listed - could not be fetched)"
         ws.append([it["date"], it["author"] or None, it["title"], it["url"], it["label"],
                    sheet, "; ".join(it["problems"])])
         r = ws.max_row

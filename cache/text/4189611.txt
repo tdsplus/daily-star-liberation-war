@@ -1,0 +1,73 @@
+Can social media be your therapist?
+2026-06-03T14:20:02+06:00 | Jemima Kang, Mike Conway, Nick Haslam
+https://www.thedailystar.net/slow-reads/wisdom/news/can-social-media-be-your-therapist-4189611
+
+More people are relying on social media – such as TikTok, Instagram, YouTube and Reddit – to learn about mental health conditions and to interact with people who have shared experiences.
+
+These aren’t only long-familiar disorders such as depression, anxiety and schizophrenia. They also include conditions often placed under the “neurodivergent” umbrella such as autism, ADHD (attention-deficit hyperactivity disorder), Tourette syndrome and dyslexia.
+
+For instance, on TikTok the hashtag #adhd has had more than 50 billion views .
+
+We wanted to explore how social media platforms shape how we understand mental health. So we analysed more than 14 million posts and comments about mental health on Reddit.
+
+We show a shift in conversations toward ADHD and autism, and away from anxiety and depression.
+
+Our findings have important implications for how people make sense of, and seek help for, mental health problems.
+
+A complex relationship
+
+Social media coverage of mental health has made it more visible, with some positive effects. It has probably reduced the stigma of mental illness and increased the use of mental health services.
+
+However, it also has downsides. It can induce or exacerbate eating disorders , can contribute to the spread of symptoms (such as tic-like behaviours ), and has been attributed to the rise of questionable self-diagnoses .
+
+Misinformation is common in social media discussions of mental health. One study found a majority of the most popular TikTok videos on ADHD were misleading . Inaccurate information about many other mental health conditions on social media is common.
+
+Discussions change and evolve
+
+Mental health content has not merely risen in volume. Some conditions have increasingly attracted the spotlight, others have receded from view, and the relationships among them have shifted.
+
+In our Reddit study published last year, we found that as the largest ADHD- and autism- related communities (subreddits) became increasingly more prominent from 2012 to 2022, their content gradually became more similar, and their users increasingly overlapped.
+
+Discussions in both communities increasingly emphasised the experiences of adults, challenges in accessing diagnostic assessments, and struggles with personal relationships.
+
+This growing convergence of these two conditions on Reddit illustrates how social media can reshape representations of mental health.
+
+Our latest study takes this further
+
+In our new study , we analysed more than 14 million posts and comments from several of the largest mental health communities on Reddit.
+
+The 14 communities we studied included those related to mood, anxiety, trauma, personality, dissociation and psychosis, as well as those focused on conditions often placed under the “neurodivergent” umbrella, such as autism, ADHD, Tourette syndrome and dyslexia.
+
+We investigated how the people belonging to these communities and the language they used changed from 2015 to 2022.
+
+We explored which communities became more or less closely associated over time – sharing more or fewer members and containing posts and comments with similar or different linguistic content. We also looked at whether these changes reflected shifts in the amount of attention the 14 conditions received.
+
+Although our analysis only covered a seven-year period, it revealed a striking pattern of changes. The two diagrams show how the 14 communities were interrelated at the beginning and end of the period.
+
+The size of the circles represents the relative size of the communities. The width of the links between them indicates how closely they were associated.
+
+In 2015, depression and anxiety were prominent mental health communities on Reddit. They were among the most active and their members and content overlapped with those of many other communities. In this sense, they were “central” to the network.
+
+However, in 2022, ADHD and autism communities had become most popular and prominent, displacing depression and anxiety. ADHD, autism and other neurodivergent conditions became more closely associated with other communities, and consequently more central to the network.
+
+These analyses suggest that on Reddit the mental health landscape has been re-configured. Mood and anxiety disorders once dominated discussions. But discussions of mental health have increasingly pivoted to discussing conditions related to being neurodivergent.
+
+Reddit users do not represent the general population; they tend to be younger, male, more educated, and have a higher income . Nevertheless, our study offers important insights into changes in mental health discussions on one social media platform over time.
+
+Why does it matter?
+
+The rising prominence and centrality of ADHD and autism makes them increasingly popular explanations for mental health problems. This might promote accurate self-diagnosis by people who once would not have recognised the nature of their difficulties.
+
+However, it could also lead people to misinterpret and mislabel their experiences as ADHD and autism when there’s another explanation.
+
+The rising prominence of these conditions on social media may also lead people to interpret mood or anxiety symptoms as signs of ADHD or autism.
+
+Misinterpretations can lead people to pursue inappropriate diagnoses or unhelpful treatment, delaying access to the help they need. This in turn places increasing pressure on mental health services, and can lead to other conditions being overlooked.
+
+Jemima Kang is a PhD Candidate, School of Computing and Information Systems, The University of Melbourne.
+
+Mike Conway is an Associate Professor in Digital Health, School of Computing and Information Systems, The University of Melbourne.
+
+Nick Haslam is a Professor of Psychology, The University of Melbourne.
+
+This article was first published under the title “We analysed 14 million Reddit posts to reveal a striking shift in how we talk about mental health ” in The Conversation, on May 28, 2026.

@@ -1,0 +1,85 @@
+A Report Card for Humanity 1900-2050
+2015-06-13T00:00:00+06:00 | Bjorn Lomborg
+https://www.thedailystar.net/in-focus/report-card-humanity-1900-2050-96430
+
+Will we be living better in 2050 than our predecessors did in 1900? The discussion over the state of the world, and whether things are getting better or worse, is not new. Scientists and philosophers have debated the topic for centuries. From Malthus to The Limits to Growth, pessimists have built their case for a future blighted by overpopulation, starvation, and depleted resources as optimists have tried to assure them that everything would be OK. The pessimistic view has proven influential, setting the tone of environmental and policy debates.
+
+But rather than cherry-picking anecdotes to fit an overarching narrative, we should find a new way to compare global problems. Together with 21 of the world's top economists, I have tried to do just that, developing a scorecard spanning 150 years. Our idea was to measure the damage inflicted by 10 important problems—including health, education, air pollution, and climate change—on a comparable scale, without reinforcing one viewpoint or the other.
+
+Using classic economic valuations of everything from lost lives to bad health, considering factors including forfeited income from illiteracy and increased hurricane damage from global warming, the economists found the cost of each of our problems for every year from 1900 to 2013, and then made predictions out to 2050. To estimate the size of the problem, they then compared the challenge to the total resources available to fix it. This gives us the size of the problem in percent of gross domestic product (GDP).
+
+Take, for instance, education. In 1900, 70 percent of the world was illiterate. How big of a problem was that? Well, economic estimates show that if everyone had been literate in 1900, the world would have been an inflation-adjusted $240 billion richer—or about 12 percent of global GDP (also known as GWP) in that year. So, in 1900, the global problem of lack of literacy took a toll equivalent to 12 percent of GDP.
+
+Now, what does the research show? Neither the pessimists nor the optimists are entirely right. But the optimists definitely win on points—most indicators are going in the right direction (in the graphs below, the higher the percentage of GWP, the more severe the problem). That's not to underplay the serious issues still confronting much of the world, especially in developing nations. But overall, we can stop panicking. Things are generally getting better.
+
+And the results also show us where the substantial challenges remain for a better 2050. We should guide our attention not on the basis of eye-catching stories or noisy pressure groups, but on objective assessments of where we can do the most good.
+
+1. Air Pollution
+
+Perhaps surprisingly, the biggest environmental problem in the world is not climate change; it's indoor air pollution. All told, the effects from indoor air pollution killed almost twice as many people—260 million—than all the 20th century's wars combined. The tally is four times higher than for outdoor air pollution. The graph above shows both the devastating impact and significant decline of these types of air pollution.
+
+Most deaths attributable to household air pollution are caused by people in developing countries cooking and heating with dung and twigs. While indoor air pollution still kills 3 million people a year, cleaner fuels and a reduction in poverty have lessened the impact. Today it costs the world 6 percent of global GDP, down from 23 percent in 1900, and by 2050 it will be 4 percent. Overall, the risk has fallen eight-fold and will decline another 70 percent by mid-century.
+
+2. Armed Conflict
+
+Violent conflict is incredibly costly. On average, 20th-century military conflict cost about 5 percent of GDP per year, though the two World Wars cost about 20 percent and 40 percent of world GDP, respectively. Today, the cost of conflict has fallen to about 1.7 percent, and even pessimistic forecasts show only a small uptick to 1.8 percent by 2050. More optimistic assessments show further decline to 1.6 percent.
+
+In accepting the 2009 Nobel Peace Prize, President Barack Obama stated, "We must begin by acknowledging the hard truth: we will not eradicate violent conflicts in our lifetimes." But the evidence indicates that we have come a long way, turning the heavy military costs of the 20th century into what looks like a permanent peace dividend.
+
+3. Climate Change
+
+Climate change is real and man-made, but one of the more startling findings is that it is expected to have a net positive benefit through mid-century, as shown on the graph above. (A negative cost is a benefit.)
+
+But why would climate change be beneficial? Increased levels of carbon dioxide work as fertilizer, boosting agriculture. This makes up the biggest positive impact at 0.8 percent of global GDP. Moderate warming also avoids more deaths from cold than it incurs additional deaths from heat. Finally, it reduces the demand for heating more than it increases the costs of cooling, totaling about 0.4 percent of GDP.
+
+In total, warming is a net benefit for almost all years between 1900 and 2050. Since 1900, the benefits have increased, reaching a maximum of about 1.5 percent of global GDP in 2025. However, after the year 2070, as temperatures rise, global warming will become a net cost to the world, justifying cost-effective climate action now and in the decades to come.
+
+4. Ecosystems & Biodiversity
+
+Loss of biodiversity in the 20th century probably cost about 1 percent of GDP per year, though some regions of the world have lost much more. The economists involved in this study measured the major biomes in the world—from tundra to tropical forests and deserts—in 1900, 2000, and 2050.
+
+The economists estimated biodiversity in a number of ways. Biomes are beneficial as places for recreation, but they also prove valuable by producing raw materials for use in everything from wood products to traditional medicine, and by storing carbon to help tackle global warming. Going forward to 2050, the economists estimate we will see an annual net benefit of about 0.25 percent of GDP because we're now cutting less forest and employing better agricultural practices.
+
+5. Education
+
+In order to compare educational attainment across 150 years, the economists looked at the costs of illiteracy. Today, 20 percent of the world population is still illiterate. Yet in 1900 that number was perhaps closer to 70 percent, and the problem cost 12.3 percent of GDP. Today, the loss is closer to 7 percent of GDP. By 2050, it is estimated global illiteracy will fall to only 12 percent, and the cost will have dwindled to just 3.8 percent of GDP.
+
+Education is hugely important, as the skills developed in school lead to higher productivity and thus higher incomes. Compare Pakistan and South Korea, for example. They started with about the same level of education and income in 1950. Today, Koreans have an average of 12 years of education, whereas Pakistanis have not yet reached an average of six years. Korea's per-capita income has grown 23-fold versus Pakistan's three-fold growth.
+
+6. Gender Inequality
+
+In 2012, women's lower salaries and exclusion from the workplace cost the global economy 7 percent of GDP, the difference between boom and bust. How did we get that figure? We looked at how much more women could have contributed to GDP if they had worked as much as men and with the same pay. Today, women earn only 60 percent as much as men and make up just 40 percent of the workforce—a significant improvement from 15 percent in 1900, but still a ways off from gender parity. Even by 2050 the gender ratio will not yet be even, and women will still earn 30 percent less than men.
+
+Our research acknowledges that these gender dynamics may stem in part from personal choices rather than discrimination. The losses in 1900 from lack of gender inequality were a substantial 17 percent of GDP. Today, the loss is a much lower, though still substantial, 7 percent of global GDP. Projecting forward to 2050, realistic estimates suggest a 4 percent loss to the world economy.
+
+7. Human Health
+
+Humans have made great strides in healthcare. In economic terms, the cost of poor health at the outset of the 20th century was a staggering 32 percent of global GDP. Today, it is down to about 11 percent, and by 2050 it will be half that.
+
+One manifestation of this trend is that we are all living far longer. In 1900, the average person lived 32 years; today it's 69 years, and by 2050 it will be 76. Advances are so rapid that for every month you live, medical science adds a week to your life expectancy.
+
+The biggest factor in health improvements is the fall in infant mortality. In 1970, only about 5 percent of infants were vaccinated against diseases such as measles, whooping cough, and polio. By 2000, it was 85 percent, saving about 3 million lives a year. Childhood mortality is still high in Sub-Saharan Africa. But in 2008, child mortality rates in the region were only one-third the level that they were in Liverpool in 1870, even though Liverpool then was richer than Africa is today. Overall, child mortality is likely to drop by another 50 percent by 2050.
+
+8. Malnutrition
+
+Hunger is one of mankind's oldest afflictions and one of the most visible signs of poverty. And improved nutrition is associated with higher productivity: Better-nourished individuals are more productive workers, and better-nourished children develop stronger cognitive skills that translate into higher productivity as adults.
+
+The good news is hunger is relenting. As the graph above shows, the cost of malnutrition has almost halved from 11 percent of GDP in 1900 to 6 percent today, and should fall to 5 percent in 2050. We measured this progress according to the average heights of male adults. In developing countries, we've seen an increase of four centimeters, from 5 feet, 4.5 inches to 5 feet, 6 inches (164 centimeters to 168 centimeters). The researchers estimate that even this small increase means 1.5 million fewer children dying each year from malnutrition.
+
+9. Trade Barriers
+
+Most people wouldn't list free trade as a top humanitarian concern, but the fact is that the choice between building trade barriers or liberalizing trade deeply affects economies. Our findings show liberalization has had a tremendous effect on alleviating poverty. For example, trade-driven growth has played a major part in allowing China to lift 680 million people out of poverty over the last 30 years.
+
+The early part of the 20th century saw relatively free trade—the total cost of trade restrictions was perhaps 3 to 4 percent of GDP. But during the 1930s economic crisis, trade barriers multiplied and the costs escalated beyond 10 percent of GDP.
+
+Since then, freer trade has rebounded mostly in the developed world, with the cost of barriers falling to 2 percent of GDP. The developing world has been much slower in reducing trade barriers, which translates into a cost of 4 percent of GDP for this region today. Freer trade in the future would help cut our annual losses to 2.4 percent of global GDP. But if we don't embrace freer trade, global costs could climb to almost 6 percent of GDP. Our research also reveals that more than half the cost of trade barriers to developing countries comes from their own policies.
+
+10. Water & Sanitation
+
+Diseases associated with poor water, sanitation, and hygiene comprise on average 6 to 7 percent of the deaths in developing countries each year. However, many interventions such as building community taps and hand pumps, providing household filters, and ensuring on-site sanitation can now be delivered at low cost, though adoption remains low.
+
+Even so, the death rate related to water and sanitation per 1,000 people in developing countries has fallen to 0.4 today from 1.5 in 1950. It should fall to 0.2 by mid-century. Yet absolute numbers remain high: Deaths by 2050 will likely still be around 1.7 million, mostly in Sub-Saharan Africa, though that figure will be down from 2.3 million today and 2.7 million for a much smaller population in 1950. It is great progress, but much more is still needed.
+
+Measuring the impact of poor water and sanitation in economic terms is not only about disease and death. This year, collecting water will take people—mostly women—74 billion hours, making up one-third of water and sanitation's total cost to the world economy. In all, the economic loss from poor water and sanitation has already fallen from some 2 percent of developing world GDP in 1950 to 0.13 percent in 2013. By mid-century, losses will be down to just 0.02 percent.
+
+Dr Bjorn Lomborg is the president of the Copenhagen Consensus Centre, a top ranked think tank, and one of TIME magazine's 100 most influential people.
