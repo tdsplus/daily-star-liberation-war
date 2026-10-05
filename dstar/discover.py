@@ -5,6 +5,7 @@ Usage:
     python -m dstar.discover tags
     python -m dstar.discover sitemaps
     python -m dstar.discover packages
+    python -m dstar.discover prune             # re-apply the stricter sitemap filter
     python -m dstar.discover search search_hits.csv
     python -m dstar.discover snowball
 """
@@ -61,15 +62,42 @@ TAG_TERMS = re.compile(
 
 
 # Outside Slow Reads the site has far too many articles to fetch them all, so
-# sitemap URLs from other sections are kept only when the slug signals the topic.
-SLUG_TERMS = re.compile(
-    r"liberation-war|1971|muktijuddh|mukti-bahini|genocide|razakar|al-badr|al-shams|"
-    r"freedom-fighter|birangona|mujibnagar|searchlight|victory-day|bijoy-dibos|"
-    r"war-crime|war-criminal|ict-|tribunal|martyred-intellectual|intellectuals-day|"
-    r"tajuddin|archer-blood|kissinger|six-point|6-point|7-march|march-7|"
-    r"pakistan-army|surrender|independence-day|swadhinata|1970-election",
-    re.I,
-)
+# sitemap URLs from other sections are kept only when the slug (with its
+# numeric id removed) signals the topic. News-desk sections need an
+# unmistakable 1971 term; feature/opinion/supplement sections a broader one.
+# Every kept URL is still read and classified -- this only decides what to fetch.
+_B = r"(?:^|[/-])"   # term must start at a slug word boundary
+_E = r"(?=$|[/-])"   # ...and end at one
+STRONG_TERMS = re.compile(
+    _B + r"(?:1971|(?:of|in|since|survivors|memories|spirit|52|role)-71|"
+    r"71-(?:massacre|genocide|war|role|refugees?|memories|still|freedom|fighters?|"
+    r"unreckoned|issue|atrocities|crimes?)|liberation-war|war-of-liberation|muktijuddh\w*|mukti-?bahini|"
+    r"birangona\w*|birangana\w*|razakars?|al-badrs?|al-shams|mujibnagar|"
+    r"operation-searchlight|martyred-intellectuals?|bangladesh-genocide|genocide-1971|"
+    r"archer-blood|blood-telegram|bir-sreshtho|swadhin-bangla|six-point|6-point|"
+    r"7th-march|7-march-speech|instrument-of-surrender)" + _E, re.I)
+BROAD_TERMS = re.compile(
+    STRONG_TERMS.pattern + "|" + _B + r"(?:71(?!-(?:years?|people|persons|bangladeshis|"
+    r"percent|pc|runs?|killed|dead|injured|cases|more|new))|genocide|freedom-fighters?|victory-day|"
+    r"bijoy-dibos\w*|war-crimes?|war-criminals?|tajuddin|independence-day|"
+    r"1970-election|kissinger\w*|international-crimes-tribunal|intellectuals-day)" + _E, re.I)
+NOT_OURS = re.compile(r"american|usa-|united-states|ict-awards|rohingya|rwanda|"
+                      r"gaza|palestin|myanmar|ukrain|armenia|bosnia|srebrenica", re.I)
+NEWS_DESK = {"news", "city", "country", "backpage", "frontpage", "business", "world",
+             "sports", "politics", "entertainment", "chattogram", "environment", "health",
+             "tech-startup", "youth", "education", "online", "middle-east", "asia",
+             "rohingya-crisis", "video-stories", "star-multimedia", "star-live", "bangladesh"}
+
+
+def topical(path):
+    """Does this URL path signal a 1971 topic strongly enough to fetch?"""
+    path = re.sub(r"-\d{4,}$", "", path.rstrip("/"))   # drop the node id
+    if NOT_OURS.search(path):
+        return False
+    first = path.split("/")[1] if path.count("/") >= 1 else ""
+    old_style = path.count("/") == 1                       # /<slug>-<id>
+    terms = STRONG_TERMS if (first in NEWS_DESK or old_style) else BROAD_TERMS
+    return bool(terms.search(path))
 
 
 def _state():
@@ -207,8 +235,8 @@ def package_listings(cands):
     for row in cands.rows.values():
         path = urlsplit(row["url"]).path
         parent = path.split("/news/", 1)[0] if "/news/" in path else path.rsplit("/", 1)[0]
-        if parent and parent != "/" and SLUG_TERMS.search(parent) \
-                and not parent.startswith("/slow-reads"):
+        if parent and parent != "/" and not parent.startswith("/slow-reads") \
+                and not NOT_OURS.search(parent) and BROAD_TERMS.search(parent):
             found.add(BASE + parent)
     return sorted(found)
 
@@ -251,7 +279,7 @@ def run_sitemaps(fetcher, cands):
             u = canonical(loc)
             if is_priority_section(u):
                 added += cands.add(u, "sitemap")
-            elif SLUG_TERMS.search(urlsplit(u).path):
+            elif topical(urlsplit(u).path):
                 added += cands.add(u, "sitemap:slug")
         cands.save()
         print(f"  sitemap {sm}: {len(locs)} urls, {added} new candidates")
@@ -283,11 +311,32 @@ def run_snowball(fetcher, cands):
     print(f"snowball: {added} new candidates (total {len(cands)})")
 
 
+def run_prune(cands):
+    """Re-apply topical() to candidates found only by the sitemap slug filter.
+    Removed rows go to discovery/pruned_candidates.csv for audit, not deleted."""
+    out = os.path.join(ROOT, "discovery", "pruned_candidates.csv")
+    pruned = {k: r for k, r in cands.rows.items()
+              if r["source_of_discovery"] == "sitemap:slug"
+              and not topical(urlsplit(r["url"]).path)}
+    new = not os.path.exists(out)
+    with open(out, "a", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=Candidates.FIELDS + ["pruned_because"])
+        if new:
+            w.writeheader()
+        for k, r in pruned.items():
+            w.writerow({**r, "pruned_because": "sitemap slug lacks a 1971 term (stricter filter)"})
+            del cands.rows[k]
+    cands.save()
+    print(f"prune: removed {len(pruned)} sitemap-only candidates; {len(cands)} remain")
+
+
 def main(argv):
     cmd = argv[1] if len(argv) > 1 else ""
     cands = Candidates()
     if cmd == "search":
         return run_search(cands, argv[2])
+    if cmd == "prune":
+        return run_prune(cands)
     fetcher = Fetcher()
     fetcher.robots()
     {"listings": run_listings, "tags": run_tags,

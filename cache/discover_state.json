@@ -1,7 +1,17 @@
 {
  "done_pages": {
   "https://www.thedailystar.net/slow-reads": 2,
-  "https://www.thedailystar.net/slow-reads/focus": 5
+  "https://www.thedailystar.net/slow-reads/focus": 53,
+  "https://www.thedailystar.net/slow-reads/big-picture": 16,
+  "https://www.thedailystar.net/slow-reads/geopolitical-insights": 11,
+  "https://www.thedailystar.net/slow-reads/slow-reads-classics": 2,
+  "https://www.thedailystar.net/slow-reads/slow-reads-special": 10,
+  "https://www.thedailystar.net/slow-reads/slow-reads-special/interactive-stories": 2,
+  "https://www.thedailystar.net/slow-reads/slow-reads-special/operation-searchlight": 2,
+  "https://www.thedailystar.net/slow-reads/slow-reads-special/the-haor-crisis": 2,
+  "https://www.thedailystar.net/slow-reads/unheard-voices": 10,
+  "https://www.thedailystar.net/slow-reads/wisdom": 7,
+  "https://www.thedailystar.net/1971-liberation-war-articles": 3
  },
  "tags": {}
 }

@@ -15,7 +15,7 @@ from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 
 from .fetch import BlockedError, Fetcher
-from .store import ROOT, Candidates, canonical, is_article, node_id
+from .store import ROOT, Candidates, canonical, is_article, is_priority_section, node_id
 
 RECORDS = os.path.join(ROOT, "cache", "articles.jsonl")
 TEXT_DIR = os.path.join(ROOT, "cache", "text")
@@ -234,6 +234,9 @@ def main(argv):
     done = {r["node_id"] for r in recs.values()} | {
         node_id(r["fetched_url"]) for r in recs.values()}
     todo = [row for key, row in cands.rows.items() if key not in done]
+    # Priority section (Slow Reads / In Focus) first, so the main sheet can be
+    # built before the rest of the site is finished.
+    todo.sort(key=lambda row: not is_priority_section(row["url"]))
     print(f"{len(cands)} candidates, {len(todo)} still to extract")
     with open(RECORDS, "a", encoding="utf-8") as out:
         for i, row in enumerate(todo, 1):
