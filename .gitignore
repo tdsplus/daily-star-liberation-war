@@ -1,0 +1,4 @@
+__pycache__/
+*.tmp
+# raw HTML is large; extracted records, article text and logs are kept
+cache/html/
