@@ -1,0 +1,89 @@
+AI is here. Can Bangladesh’s education system adapt?
+2026-09-17T00:02:34+06:00 | Asrar Chowdhury
+https://www.thedailystar.net/slow-reads/wisdom/news/ai-here-can-bangladeshs-education-system-adapt-4274776
+
+PART I: How it started
+
+In 1983, I was a Grade 9 student at Jahangirnagar University School and College. Growing up on a university campus gave me two advantages. I had the opportunity to observe university students. My father was a professor of economics. This gave me a unique opportunity to meet and interact with some great minds who shaped the minds of tomorrow. My adolescence came at the right time in history because the 1980s was a golden period at Jahangirnagar University. It was a melting pot that produced great minds.
+
+One of these great minds was Safiullah Chacha. He was a professor of chemistry. That, however, was only the tip of the iceberg. If you could strike the right chord and go to the next level, like in a computer game, Chacha had a different side. It was that of a friend, philosopher and guide.
+
+My first interaction with Safiullah Chacha was in 1983. I had trouble understanding atoms and their structure. I asked Chacha if I could discuss the subject with him. Chacha asked for my textbook. He then told me to visit him the next day. That seemed plausible. I knocked on his door unexpectedly. What followed the next day shaped my outlook towards life.
+
+Chacha had a piece of paper on which he had jotted down some points. He started with a history of how ideas about atomic structure developed into their modern form. It was a story with no jargon. Chacha's ability to articulate concepts within their own realm and then explain those concepts in another realm left a lasting impression on my mind.
+
+How could an atom's structure relate to a football team? This was how Chacha started the story that day. The story took us through quantum mechanics and the Heisenberg principle. Chacha just explained the intuition behind them, not the jargon. Finally, he discussed the jargon in my textbook. By that time, the story had imprinted its intuition on my heart. Chacha had prepared himself for a toddler like me: to proceed sequentially, to adapt from his normal classroom audience. Adaptation was the keyword for that day.
+
+In hindsight, this was not a skill. It was an art. In all our discussions that would follow from that day, there was one recurring theme.
+
+Deep thinking takes time. The human brain and mind have cognitive limitations. The mind has blind spots that it can become locked into. Can we guide our kids to use AI to overcome these blind spots so they can think deeply?
+
+Deep thinking takes time. The human brain and mind have cognitive limitations. The mind has blind spots that it can become locked into. Can we guide our kids to use AI to overcome these blind spots so they can think deeply?
+
+To know the answer to WHY, always ask WHY NOT? The sum total (union) of a set (our focus) and its complement (outside our focus) is the universal set: A ∪ Aᶜ = U. When you think about this formula intuitively, a narrative must have a counter-narrative.
+
+PART II: Then
+
+In 1983, we solved maths. But there was one catch. No calculators were allowed.
+
+When we started doing logarithms, understanding the log table was one big challenge. Seeing university students use Facit machines or scientific calculators would put us off. Why weren't we allowed to do the same?
+
+How to help children fall in love with reading
+
+There was a reason why the system didn't allow the use of calculators or those clumsy Facit machines. We would calculate only. Rarely, if ever, would we be asked to interpret our results. All our cognitive energy would be devoted to remembering steps. Applying results to a real-world example was unheard of in those days. So, using a Facit machine or a calculator would not have added much value.
+
+Nature has a way of adapting. Our generation was analogue. We would practise and practise. I won't say we memorised results. What I would say is that we could observe patterns through practice. That would reduce the margin of error in exams. The system emphasised repetition. It never answered: WHY are we practising the same thing all the time?
+
+Four decades is a long time for frontier calculators to filter down from the tertiary to the secondary level.
+
+Today, kids use calculators. This has a complement-set advantage. It frees the mind from having to make mental calculations. This allows students to focus on something deeper than the calculations we did.
+
+In another field, schools have adjusted over time. Many schools now have computers. This encourages kids to challenge themselves. And yes, kids will always be kids. They will play with a new toy. Like in a computer game, they will find the hidden codes that can take them from one level to the next. No matter what elders say, kids will learn how to become innovative in their own way. Our generation sang Sinatra's 'My Way' in our chord. Today's kids sing it in their own chord. The blind spot, the complement set? The system—the elders—can fail to look at the world through the eyes of the next generation.
+
+We can encourage deep thinking using AI as a tool only when we, the elders, have updated ourselves technically and mentally—both at the same time.
+
+We can encourage deep thinking using AI as a tool only when we, the elders, have updated ourselves technically and mentally—both at the same time.
+
+PART III: Today
+
+One of my favourite quotes from Kahlil Gibran's The Prophet is:
+
+'Your children are not your children.
+
+They are the sons and daughters of Life's longing for itself.'
+
+Our children come through us, but they enter a world that is theirs alone. It will never be ours. However, one thing never changes: the playful innocence of youth and its inquisitive mind.
+
+As elders, we fear that technology will diminish our kids' efforts. Wait. Didn't our parents also think the same? And what did we do? We embraced technology as it became available to us. Our kids will do the same. If we restrict or discourage them, they will find a way to do what we did when we were kids.
+
+What can a teacher give that AI cannot?
+
+AI is here to stay . Our kids have embraced AI. Rather than being suspicious, we need to create an environment where kids embrace AI in a playing field of youthful innocence and inquisitiveness. The complement-set question: How?
+
+AI is based on the prompts that we feed it. Prompts, at their simplest level, are operators that connect logic in a coherent sequence. IF x = 5, AND y = 6, THEN WHAT is x² + y³? These are mathematical operators. They link ideas in a logical sequence. Prompts can also be mental operators that show a sequence in a story or a poem. The better the prompt is at identifying the sequence, the better AI works as a tool for perceiving a concept. AI is a horse that's only as good as its rider. If we don't feed it prompts tailored to our needs, AI jumps around here and there. AI can and will make mistakes . The good thing is that we can edit prompts to make AI redo a task according to our needs.
+
+End of reading? A post-literate society in the making
+
+Now comes a tricky question. There is a possibility that kids may ask AI to write an assignment for them . This is where the wisdom of elders enters. If a kid's English or Bangla is better than ours; if one part is great, but another is not; or if the parts are inconsistent, won't that raise an eyebrow?
+
+In a final exam, kids won't get the chance to use AI. However, their building up of knowledge towards an exam can improve through the use of AI. It frees the mind from cognitive anxieties. They can think deeply.
+
+Our generation and those before us would celebrate quick responses to a question. We tend to think that a person who can answer quickly must be a genius. For ages, quizzes have been geared towards this end. However, when we think quickly, we compromise deep thinking. Deep thinking takes time. The human brain and mind have cognitive limitations. The mind has blind spots that it can become locked into. Can we guide our kids to use AI to overcome these blind spots so they can think deeply? We can, if we are their friend, philosopher and guide.
+
+We can encourage deep thinking using AI as a tool only when we, the elders, have updated ourselves technically and mentally—both at the same time.
+
+Do we understand the children we try to teach?
+
+PART IV: Looking into the future
+
+Generative AI can help kids think deeply . The kids know this better than we do. We also know that the kids know. We also know that AI can prepare an assignment in thirty minutes. If, as adults, we know it, it can't be the student's fault if our assignment design is still locked in 1983. It's not their fault that the system didn't update.
+
+'The fault, dear Brutus, is not in our stars, but in ourselves.'
+
+If Safiullah Chacha and I could have met one more time, I'm sure Chacha would have been jumping for joy. Chacha would have understood a playing field where youthful innocence and generative AI meet, not to make thinking obsolete, but to make today's young minds think deeply. He would also have understood that if educators don't update themselves, the children will lose. It is thus the moral obligation of elders to shape the minds of today for tomorrow.
+
+Can we afford to waste this opportunity when Bangladesh has a demographic dividend?
+
+'Where are the clowns [of yesterday]? Send in the clowns.'
+
+Asrarul Islam Chowdhury is a professor of economics at Jahangirnagar University. He can be contacted at [email protected] .
