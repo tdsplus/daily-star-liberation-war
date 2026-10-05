@@ -1,0 +1,23 @@
+DU student creates 1971 Liberation War time-lapse map from military perspective
+2024-09-25T18:02:03+06:00 | Sadman Ahmed
+https://www.thedailystar.net/campus/campus/news/du-student-creates-1971-liberation-war-time-lapse-map-military-perspective-3711991
+
+Abrar Fahyaz, a Computer Science and Engineering (CSE) student at Dhaka University (DU), created a war time-lapse showcasing the 1971 Liberation War from a military perspective.
+
+Visualising content based on historical conflicts through animation is very popular on platforms like YouTube, TikTok, and Instagram. YouTube channels like Kings And Generals, OverSimplified, and The Armchair Historian have made this type of content popular. However, they rely mostly on narrating the history, not map-based time-lapse simulation like EmperorTigerstar, which is the inspiration for Abrar.
+
+"I have always enjoyed this sort of simulations of conflicts, and strategy games based on similar concepts such as Hearts of Iron and Europa Universalis. But I sensed a lack of such visualisations of the 1971 Liberation War, which I have always wanted to learn more about," says Abrar.
+
+He came across a list of Pakistani generals and their units during the war while working on an assignment on the 1971 Jinjira Massacre. From then, he started collecting the list of all of these commanders and learning about their zones of control across the country. He then used all this knowledge in his Object-Oriented Programming course project using Java and Python to build the time-lapse.
+
+"I first worked on the editor mode which can take and save inputs, and then provided information about battles and troop movements which it would simulate. The map was created by overlaying two historical maps from Wikipedia and a third map from Indian Defence Review, and then combining them," he explains.
+
+When played, the simulator can show users changes in the map and the activities of the generals in each step. The map changes from being totally red in the beginning – when Bangladesh was under the control of Pakistan – to slowly turning green as the country gained its independence.
+
+Due to its very nature, guerilla warfare is difficult to incorporate into this structure, and simulating the Liberation War falls into the same difficulties. However, the simulator is capable of reflecting zones of control and contested territories based on the time of the year, and it also shows the names of the generals fighting in that period, their promotions, and post changes.
+
+According to Abrar, one of the main challenges of creating the time-lapse was to collect and sort accurate information, as many academic papers regarding this topic weren't available to the public, and there were significant inconsistencies between sources regarding ranks and the activities of the units at certain times.
+
+"I mostly relied on Wikipedia and tried to cross-reference its sources to verify their legitimacy as much as possible. After the events of December 3, 1971, I relied more on Indian and Pakistani military sources. Bangladeshi newspaper articles on specific battles were also used as sources," he says.
+
+The significance of the Liberation War cannot be overstated. War time-lapses like these can be very helpful not only for the younger generation, who want to learn about the liberation war, but also for military researchers. Given how interested people are in such type of content, these time-lapses can help spread the history of our Liberation War internationally and make people outside of Bangladesh more aware of our valiant struggle.
