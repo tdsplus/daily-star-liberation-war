@@ -1,0 +1,111 @@
+Lead poisoning in Bangladesh: A crisis ignored for too long
+2026-09-03T16:35:48+06:00 | Tagabun Taharim Titun
+https://www.thedailystar.net/slow-reads/unheard-voices/news/lead-poisoning-bangladesh-crisis-ignored-too-long-4264201
+
+There may be no black smoke rising from a furnace, no warning sign beside a road, and no visible mark on the toy a child carries home. In some parts of Bangladesh, however, the soil beneath homes and farmland may carry the residue of years of lead exposure. Near abandoned lead-acid battery recycling sites, lead can remain in the environment long after the furnaces have gone quiet, finding its way into dust, soil, food, and eventually the human body.
+
+A 2026 study published in BMC Public Health , titled “Community responses to soil remediation for lead exposure reduction in Mirzapur, Bangladesh”, looked at communities living near two abandoned battery recycling facilities in Mirzapur following a soil remediation intervention. Residents reported improvements in crops, livestock, and children’s well-being after the contaminated soil was removed. But the study also found continuing concerns about how contaminated soil was handled and whether pollution could return. For many residents, the economic and livelihood implications were more immediate than the health risks posed by lead.
+
+This is what makes our lead problem so difficult to confront. The contamination can be invisible, while the activities responsible for it are woven into everyday economic life.
+
+Batteries keep rickshaws and other three-wheelers moving and provide backup power. Paint covers walls. Spices sit in kitchens. Toys are handled by children. The risk is not always confined to a factory or a recycling yard.
+
+The Bangladesh Multiple Indicator Cluster Survey (MICS) 2025, conducted by the Bangladesh Bureau of Statistics (BBS) with support from UNICEF, tested blood lead levels among children aged 12 to 59 months and pregnant women. It found elevated blood lead levels in 38.34 percent of young children and 7.54 percent of pregnant women, using 5 micrograms per decilitre (µg/dL) as the threshold.
+
+According to Dr Priscilla Wobil, health specialist at UNICEF Bangladesh, the finding should be understood not merely as a statistic but as evidence of concentrated exposure in particular environments.
+
+“I would not describe the 65 percent figure as a disparity. Rather, a concentration of cases in Dhaka,” she said, referring to the much higher proportion recorded in the capital.
+
+According to Dr Wobil, Dhaka’s density and concentration of industrial and commercial activity provide several possible pathways for exposure. Children may come into contact with industrial waste and emissions, informal battery recycling, contaminated dust and soil, food and consumer products, and possibly contaminated water.
+
+Yet there is an important qualification. “The survey does not tell us exactly where the lead is coming from,” Dr Wobil said. “The next step is to better identify the main sources and exposure pathways so that we can take targeted action to reduce and, where possible, eliminate children’s exposure to lead.”
+
+That may be the most important challenge now facing us. The country knows that large numbers of children have been exposed. It still needs to determine how that exposure is happening in the places where they live, play, and eat.
+
+The damage that may go unnoticed
+
+Lead poisoning does not necessarily look like poisoning.
+
+A child may not appear visibly sick. Instead, exposure may affect attention, behaviour, learning, and development—consequences that can unfold over years rather than days. Bangladesh’s national clinical guideline notes that lead toxicity can affect multiple body systems, while some of its most important effects, particularly neurodevelopmental effects in children, are non-specific and may remain largely subclinical.
+
+That makes early childhood particularly important. “Lead exposure can disrupt brain development at a stage when the brain is growing rapidly, and these effects can persist throughout life,” Dr Wobil said. She explained that exposure during early childhood can affect thinking, attention, behaviour, learning, school readiness, and school performance, with consequences that may eventually extend to educational achievement and economic productivity.
+
+This is why the critical window begins even earlier. “I would say that the most critical period is from pregnancy through infancy and early childhood, when the brain is developing rapidly,” she said. “This makes preventing exposure during this period especially important.” The concern does not therefore end with the child who is directly exposed.
+
+Bangladesh’s Clinical Management Guideline on Lead Poisoning explains that lead can be stored in bones and released into the bloodstream during pregnancy. This can expose the developing foetus, with potential effects on the baby’s brain, kidneys, and nervous system. The guideline also notes that iron and calcium deficiencies may increase vulnerability.
+
+The MICS findings add another layer to the concern. Anaemia was common among both young children and pregnant women, and the survey found an association between higher heavy metal concentrations and anaemia. The report itself cautions that this is an association rather than proof of causation, but it points to an overlap between environmental exposure and existing nutritional vulnerability.
+
+Dr Wobil believes the answer must therefore extend beyond treating individual cases. “The priority is to identify and remove the source of lead exposure and prevent further absorption,” she said, adding that good nutrition and early monitoring of children’s development can also help reduce risk and identify problems early.
+
+The problem is not only batteries
+
+Informal lead-acid battery recycling remains one of the major sources of exposure in the country.
+
+The scale of the battery economy partly explains why. Electric three-wheelers account for roughly 60 to 65 percent of local lead-acid battery demand. Furthermore, the World Bank estimated that there were more than 1,100 informal used lead-acid battery recycling sites in Bangladesh as of 2022.
+
+When used batteries are manually broken, washed, or smelted in informal facilities, lead dust can spread through the surrounding environment. In the Mirzapur research, researchers describe informal recycling as an important pathway for widespread soil contamination, particularly where recycling facilities operate close to homes and agricultural land.
+
+But concentrating only on batteries risks making the story too simple. Dr Wobil herself points out that everyday products can be difficult for families to identify as sources of contamination. “Everyday products such as contaminated spices, cosmetics, or cookware can be particularly difficult to detect because they may look completely safe,” she said.
+
+Dr Mahbubur Rahman, project coordinator and associate scientist at icddr,b, has described a wider exposure landscape that includes lead-related industries, paint, contaminated food, cookware, toys, cosmetics, and traditional products. He noted that exposure can spread through air, soil, food, agriculture, and livestock around polluted sites. In some industrial areas, elevated lead levels have been detected among people living even 1.5 to 2 kilometres from a source. In one investigation, 96 of 367 product samples screened positive for lead.
+
+A particularly troubling example has been the adulteration of turmeric with lead. Research has also found that lead chromate, used to intensify the colour of turmeric, was an important source of exposure in affected communities. The finding illustrated how contamination can enter households through products that appear entirely ordinary.
+
+For Dr Wobil, this is precisely why families cannot simply be told to protect themselves.
+
+“They cannot always identify or avoid lead contamination, especially when a product looks safe or contamination is present in the environment,” she remarked.
+
+UNICEF is now supporting the government in a nationwide environmental follow-up assessment to investigate possible sources, including paint, soil, and dust in children’s play areas, as well as spices and other consumer products across households, markets, and farms.
+
+What happens to the battery after use?
+
+The battery sector, meanwhile, presents a particularly difficult policy challenge because its products remain economically necessary.
+
+Used lead-acid batteries have value because their lead can be recovered. This creates an informal market in which collection and recycling can continue even when environmental safeguards are weak.
+
+At a recent seminar organised by the Ministry of Environment, Forest and Climate Change, leading climate experts and battery manufacturers discussed how to build a safer lead-acid battery circular economy. The discussion highlighted how simply shutting down informal recyclers does not eliminate the demand for used batteries to be collected and processed. It may instead push the activity elsewhere.
+
+A major recommendation was to make formal recycling more economically competitive. Participants proposed financial incentives for formal recyclers, fixed smelting fees, deposit-refund schemes, and other market mechanisms so that informal operators do not remain more attractive simply because they can avoid environmental compliance costs. The discussion also highlighted the need for better battery standards. Minimum durability, quality, and charging standards could help extend battery life, reduce the number of used batteries entering the waste stream, and give consumers clearer information about product quality.
+
+On the regulatory side, the recommendations included an integrated national database covering lead-emitting sites, manufacturers, recyclers, traders, and battery flows. Participants also called for stronger coordination among environmental, health, customs, standards, police, and local government authorities, alongside a nationwide battery traceability and public registry system.
+
+A country that cannot routinely test
+
+The other weakness is less visible but just as fundamental. Researchers have conducted national blood lead testing through icddr,b and UNICEF surveys, yet routine access to blood lead testing remains limited.
+
+“The challenge in Bangladesh is that the Ministry of Health and Family Welfare currently does not have a national reference laboratory for blood lead testing,” Dr Wobil said. This limits the country’s ability to reliably identify suspected cases among children and pregnant women and to monitor lead exposure through a national environmental health surveillance system.
+
+She stressed that the problem goes beyond the absence of a machine.
+
+“Laboratory testing is essential, but it needs to be part of a wider system that includes clinical assessment, environmental investigation, source identification, childhood developmental monitoring and follow-up.”
+
+In other words, discovering that a child has an elevated blood lead level is only the beginning. A functioning response should help identify where the exposure occurred, investigate the surrounding environment and prevent the child from being exposed again.
+
+“In many countries, when a child is found to have an elevated blood lead level, the response goes beyond treating the child,” Dr Wobil said. “It can lead to an investigation of the child’s home and surroundings to identify sources such as contaminated paint, soil or dust. That is the approach we need to build towards in Bangladesh.”
+
+“In many countries, when a child is found to have an elevated blood lead level, the response goes beyond treating the child,” Dr Wobil said. “It can lead to an investigation of the child’s home and surroundings to identify sources such as contaminated paint, soil or dust. That is the approach we need to build towards in Bangladesh.”
+
+“In many countries, when a child is found to have an elevated blood lead level, the response goes beyond treating the child,” Dr Wobil said. “It can lead to an investigation of the child’s home and surroundings to identify sources such as contaminated paint, soil or dust. That is the approach we need to build towards in Bangladesh.”
+
+Dr Mahbubur Rahman, assistant professor at the Institute of Epidemiology, Disease Control and Research (IEDCR), similarly points out that while equipment exists in research institutions, it is not yet broadly available as part of a routine public diagnostic service. He said building a national laboratory and point-of-care testing capacity would require investment, equipment and trained personnel.
+
+But both the health and environmental evidence suggest that testing alone cannot be at the centre of the response, as prevention has to come first.
+
+The beginning of a bigger response
+
+The consequences of lead poisoning appear across health, education, the environment, industry and household consumption. Its sources can include a recycling yard, a manufacturing process, a product sold in the market or contaminated soil.
+
+Dr Wobil’s priority for the government is therefore not a single campaign or an isolated intervention. “No single intervention can address poisoning comprehensively, because children are exposed through multiple sources and the response requires action across several sectors,” she said.
+
+Her immediate priority is stronger regulation and policies directed towards the highest-risk sources, using the environmental assessment to determine where action should be concentrated.
+
+Ultimately, she argues, the responsibility cannot rest mainly with families. “The most effective way to protect children from lead poisoning is to prevent exposure at its source. Rather than relying mainly on families to avoid lead, we need policies that make the products and environments around children safer.”
+
+For years, lead exposure was a problem documented in scattered studies and specialist reports. The new national evidence has made it much harder to treat it as a marginal issue.
+
+The country knows that children are exposed. It knows that pregnant women are exposed. It knows that batteries are a major source, but not the only one. It knows that lead can affect the developing brain and can remain hidden in the environment long after a source disappears.
+
+What remains is the harder task of turning knowledge into a system that prevents exposure in the first place. The lead may be invisible, but the consequences are not.
+
+Tagabun Taharim Titun is a journalist and writer at the Daily Star. She can be reached at [email protected]

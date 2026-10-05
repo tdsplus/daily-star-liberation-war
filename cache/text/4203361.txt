@@ -1,0 +1,55 @@
+Why the Strait of Hormuz reopening won't ease price pressures anytime soon
+2026-06-20T13:26:07+06:00 | Behrouz Bakhtiari
+https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-the-strait-hormuz-reopening-wont-ease-price-pressures-anytime-soon-4203361
+
+Iran and the United States have signed a peace deal that has reopened the Strait of Hormuz, the narrow waterway through which about one-fifth of the world's oil passes.
+
+Oil prices reacted quickly to the announcement of the tentative deal , dropping from highs that had pushed gasoline prices toward record levels in North America.
+
+The global supply chain, however, will take the better part of a year to recover, and the relief at the pumps may prove more gradual than the relief in oil markets.
+
+The strait’s closure began on Feb. 28 after the U.S. and Israel launched joint strikes on Iran. Tehran responded by effectively shutting the strait to commercial traffic, attacking ships and laying sea mines.
+
+Traffic through the passage fell from about 100 vessels per day to roughly six at the height of the blockade , and more than 1,500 vessels were left waiting to pass through at one point . That backlog has caused a months-long global energy crisis.
+
+Supply chains operate on a different timeline than politics. German shipping giant Hapag-Lloyd estimates it will take their firm at least six weeks to regain a fully normal network , assuming vessels can leave the Persian Gulf fairly soon after reopening.
+
+But that estimate may be too optimistic, since several of the prerequisites for normal traffic still aren’t in place and different accounts put different timelines on how long it will take for the backlog to clear and traffic to return to pre-conflict levels.
+
+Insurance and mines slow the restart The Strait of Hormuz was effectively closed by insurance companies before it was declared closed by the Iranian navy. War-risk insurance premiums surged from 0.25 per cent of vessel value before the conflict to between three and eight per cent, which could translate to up to US$8 million for a single tanker transit in insurance costs alone.
+
+Mines cannot be cleared overnight, and mine clearance is itself a prerequisite for insurers to lower premiums again. That alone could take up to six months , meaning the financial cost of transiting the strait may stay elevated.
+
+Once vessels do return, the congestion won’t disappear — it will move to other trans-shipment ports . The traffic released from the strait will need berths, cranes, labour and feeder connections at ports such like Jebel Ali, Colombo, Singapore and Tanjung Pelepas, where operations are already running at elevated capacity after absorbing diverted traffic during the closure.
+
+The sudden flood of new traffic at these ports will create further delays across the global container supply chain. Think of an accident on the highway: once it’s cleared, the traffic stacked up behind it disperses, but that dispersal itself can create new slowdowns at the next on-ramp or exit. In this scenario, the strait was the accident, and the ports are the on-ramps.
+
+No analyst has yet modelled the clearing of this secondary congestion, but drawing on port throughput data and the volume of traffic released from the strait, a reasonable estimate suggests a return to normal at global transshipment ports won’t be achieved until three to four months from now.
+
+Diverted routes won’t simply snap back The disruption also affected shipping routes themselves. Within hours of the U.S.-Israeli strikes in February, many vessels scheduled for Suez Canal routing were diverted around the Cape of Good Hope. By early March, all four of the world’s largest container carriers — Maersk, MSC, CMA CGM and Hapag-Lloyd — had suspended Hormuz transit.
+
+De-escalation doesn’t mean these diverted shipments will simply snap back to the strait. Many shipping firms have already restructured schedules, contracts, vessel positioning and fuel procurement for the rest of 2026 around the Cape of Good Hope route. Unwinding those arrangements takes time.
+
+History suggests why changing routes is not an easy fix. After the last Houthi attack on shipping in September 2025 in the Bab el-Mandeb, a highly strategic maritime chokepoint connecting the Red Sea to the Gulf of Aden and the Indian Ocean, a formal ceasefire was declared on Nov. 11. Yet Suez Canal traffic remained 60 per cent below pre-crisis levels 100 days after that final attack. The same pattern could play out here.
+
+A container imbalance adds to the strain Under normal conditions, container positioning runs on a tightly managed cycle: loaded containers move one way, and empty ones move back on a schedule that keeps equipment where it’s needed.
+
+The blockade broke this cycle, leaving loaded containers trapped inside the Persian Gulf, and empty containers at trans-shipment hubs like Colombo and European terminals. The cape route made it worse, adding still more empties in Europe.
+
+That imbalance means Asia is scrambling to find empty containers to ship cargo, while European ports are drowning in empties awaiting shipments from Asia .
+
+The containers trapped inside the Persian Gulf are only half of the story: an estimated two million shipping containers have been disrupted across the global network because of the blockade.
+
+The strait crisis didn’t land on a perfectly balanced system to begin with, so meaningful improvements are achievable three to five months from reopening, while a return to pre-crisis balance levels may take nine to 12 months.
+
+What comes next Policymakers and logistics leaders shouldn’t assume the backlog will clear itself on a political timeline.
+
+Insurance normalization lags behind the realities on the ground by months. Shipments that diverted to the Cape of Good Hope need to be redirected back to the Suez Canal-Red Sea route, a process the Bab el-Mandeb experience suggests will be slow and partial.
+
+Container imbalances need to be resolved and secondary congestion at trans-shipment hubs needs to clear. The strait may be open, but for a global supply chain already strained by the COVID-19 pandemic and now by months of blockade, the work of recovery has only just begun.
+
+Anyone budgeting around an assumption that prices will normalize as soon as headlines about the ceasefire fade should expect a longer adjustment, measured in months rather than weeks.
+
+This article was first published under the title “The Strait of Hormuz is reopening, but global shipping won’t return to normal for months” in The Conversation, on June 18, 2026.
+
+Behrouz Bakhtiari is an Assistant Professor, Operations Management at McMaster University.

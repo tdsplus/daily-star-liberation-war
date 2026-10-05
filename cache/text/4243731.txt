@@ -1,0 +1,63 @@
+Which female-dominated jobs are actually the most exposed to AI?
+2026-08-10T13:15:00+06:00 | Leonora Risse and Elise Stephenson
+https://www.thedailystar.net/slow-reads/unheard-voices/news/which-female-dominated-jobs-are-actually-the-most-exposed-ai-4243731
+
+As the impacts of artificial intelligence (AI) sweep across the labour force, it’s understandable for workers to be concerned about which jobs are most at risk of being replaced by technology.
+
+Women make up the majority of workers in the care sector where human interactions matter most – child care, nursing and aged care. So, policymakers might reasonably presume that women’s jobs are largely shielded from the impacts of AI.
+
+But our analysis of recent data from government agency Jobs and Skills Australia shows that it’s actually female-concentrated segments of the workforce that are most exposed to AI-fuelled automation.
+
+Which jobs are most at risk?
+
+The agency calculated an “automation exposure score” for every occupation in the workforce, measuring the potential for a worker’s tasks to be done by AI technologies.
+
+Clerical and administrative jobs are among those with the highest automation exposure scores. This aligns with economists’ expectations that AI is well suited to alleviate human effort for repetitive routine tasks.
+
+Yet this sector, which is highly exposed to automation, is also more than 70% female and provides almost one in five jobs for all women in the Australian workforce.
+
+This gender pattern shows up when we look at the 20 top occupations most at risk of automation. 15 of these jobs are female-dominated. Of these, five would be classified as highly female-dominated, comprised of at least 80% women.
+
+Secretaries, receptionists, bookkeepers, and accounting, human resources and payroll clerks are all among these top 20 occupations most at risk of being displaced by automation.
+
+Only one occupation on this top 20 list is moderately male dominated: financial dealers. The remaining four are gender-balanced.
+
+Contrast this to the 20 occupations that are least exposed to automation. Seventeen of these are male-dominated. Female-concentrated jobs make up just three of these jobs most sheltered from being displaced by AI.
+
+Is AI already replacing these jobs?
+
+A slowdown in job vacancy numbers could signal that these effects of AI are being felt in the economy.
+
+Internet job vacancy data , also collected by Jobs and Skills Australia, shows that vacancies for many of these jobs highly exposed to automation have been shrinking over the past three years. And by a larger magnitude than the slowdown across the wider workforce.
+
+For instance, vacancies for personal assistants and bookkeepers for the month of June 2026 were around 22% lower than at the same time a year earlier. Openings for general clerks were down by around 9%.
+
+By comparison, total workforce vacancies were only around 1.7% weaker.
+
+Among the occupations less exposed to AI, vacancies for concreters were up by 5.5%, while electricians were up by 14.3%.
+
+At this stage, trades and labourer jobs are less exposed to automation. These hands-on jobs still require human judgement and dexterity to navigate physical conditions that can be unpredictable and differ site by site.
+
+Checking for blind spots
+
+All kinds of groups – tech companies, governments , education providers and researchers – are trying to predict how AI will disrupt different jobs across the workforce.
+
+Our analysis shows that unless we intentionally apply a gender lens, we could end up ignoring gender patterns in AI’s impacts.
+
+The federal government already requires all new policy proposals to undergo a gender analysis . This requirement should therefore also apply to policies and decisions by the newly announced Office of AI .
+
+In particular, applying a gender lens can inform the design of policies to support the labour market’s adaptation to and adoption of AI.
+
+This puts us on the front foot to design smart policies to proactively address AI’s disruption, instead of waiting to respond after the fallout.
+
+For instance, having detected the higher risk of these heavily female jobs to AI automation, we can set up systems to recognise the skills of clerical and administrative workers that can be easily transferred, to match them to new opportunities.
+
+This could include the new and emerging jobs being created by AI, as well as human-centered jobs and tasks requiring critical judgement that AI can’t replace.
+
+Applying this gender lens to Australia’s AI policies will support a dynamic, adaptive labour market hand-in-hand with a gender equitable economy.
+
+This article was first published under the title “These 3 charts show female-dominated jobs are actually the most exposed to AI” in The Conversation , on August 9, 2026.
+
+Leonora Risse is an Associate Professor of Economics at Queensland University of Technology.
+
+Elise Stephenson is Deputy Director of the Global Institute for Women’s Leadership at Australian National University.

@@ -1,0 +1,53 @@
+Can Bangladesh defend itself in the great-power cyber war?
+2026-06-02T08:30:01+06:00 | Md Mazhar Uddin Bhuiyan
+https://www.thedailystar.net/slow-reads/geopolitical-insights/news/can-bangladesh-defend-itself-the-great-power-cyber-war-4187936
+
+The Global Cybersecurity Outlook 2026 reports that 91% of major organisations have revised their cybersecurity strategies in response to geopolitical instability. It underscores how cyberspace has become a central arena of strategic competition. NATO similarly describes cyberspace as "contested at all times," with adversaries targeting critical infrastructure, public services, and intelligence systems.
+
+Recent incidents reflect this growing trend. The United States accused Chinese groups such as Volt Typhoon and Salt Typhoon of infiltrating key infrastructure networks, while India and Pakistan exchanged cyber operations during their 2025 crisis. Such exchanges persist between Russia and the West as well, alongside reported hacking operatives by Israel in a Tehran CCTV camera to help track Iran's Supreme Leader before the strikes.
+
+German political scientist Thomas Rid famously said that "cyber war will not take place". It means that cyber operations rarely meet the classical test of war. What we actually see, between great powers, is a constant grey-zone contest with four moving parts.
+
+First, espionage, which means stealing diplomatic cables, defence plans, commercial and scientific secrets. Second, sabotage, which means damaging specific systems, is usually carefully chosen. Third, subversion, which means manipulating information, elections and public opinion. Fourth, pre-positioning, which means quietly burrowing into another country's critical infrastructure so it can be switched off later, in a future crisis. These four dimensions increasingly define the strategic competition among major powers today.
+
+One major change in recent years is the rise of China as a serious offensive cyber power, according to Oxford University Professor Ciaran Martin. The Wall Street Journal has tracked how Chinese hackers have evolved from relatively unsophisticated industrial spies into instruments of military power, with the Typhoon campaigns laying the groundwork for a future conflict in the Pacific over Taiwan. The United States and its allies have responded with sanctions, indictments, and increasingly aggressive defensive operations that rely heavily on private partners such as Microsoft and Cloudflare.
+
+Although the United Nations Convention against Cybercrime was opened for signature in 2025, Bangladesh did not become a signatory. In this uncertain legal and geopolitical environment, Bangladesh finds itself navigating an increasingly complex strategic space between two major regional powers, China and India, the dragon and the elephant.
+
+Although the United Nations Convention against Cybercrime was opened for signature in 2025, Bangladesh did not become a signatory. In this uncertain legal and geopolitical environment, Bangladesh finds itself navigating an increasingly complex strategic space between two major regional powers, China and India, the dragon and the elephant.
+
+On the other hand, Russia, despite its mixed performance in Ukraine, continues to run intelligence and information operations against the West. Israel's 2025 operations against Iran showed that cyber tools can support real-world military strikes. India began projecting cyber force across the subcontinent through groups researchers track as SideWinder, Bitter, SloppyLemming and Outrider Tiger.
+
+In such a landscape, the question comes: What is Bangladesh doing?
+
+International law governing cyber warfare remains fragmented and underdeveloped, offering limited protection or strategic recourse to smaller states such as Bangladesh. Although the United Nations Convention against Cybercrime was opened for signature in 2025, Bangladesh did not become a signatory. In this uncertain legal and geopolitical environment, Bangladesh finds itself navigating an increasingly complex strategic space between two major regional powers, China and India, the dragon and the elephant.
+
+According to Mordor Intelligence, Bangladesh's cybersecurity market in 2026 is valued at about USD 250.76 million, expected to increase to USD 503.28 million in 2031. The country has recently gone through one of the sharpest foreign-policy shifts in its history. Beijing recently promised more than US$2 billion in new investments, agreed to build a drone manufacturing plant in Bangladesh, and opened talks to supply J-10CE fighter aircraft.
+
+New Delhi has appeared cautious about this evolving dynamic. In 2025, researchers at Kaspersky identified an espionage campaign known as Mysterious Elephant. The operation, reportedly linked by some analysts to Indian actors, identified Bangladesh as the second most affected jurisdiction after Pakistan. The campaign may have targeted institutions, including the foreign ministry, Bangladeshi diplomatic missions overseas, and several leading policy think tanks.
+
+In March 2026, Arctic Wolf reported on another campaign, SloppyLemming, which was described as possibly India-aligned and reportedly targeted Bangladeshi energy utilities and financial institutions. At the same time, Bangladesh's expanding reliance on Chinese telecommunications infrastructure, digital payment platforms, and surveillance technologies may also draw increased attention from a range of international intelligence actors. But are we ready for any of this? Unfortunately, not really.
+
+Recently, the Cyber Security Act 2023 was replaced by the Cyber Protection Act 2026, which established a National Cyber Security Agency. The new law primarily addresses cybercrime and online speech. The National Cyber Security Agency (NCSA) is set to implement a project titled "Strengthening Capacity of National Cyber Security Agency" from July 2026 to June 2029. The plan includes building key infrastructure, such as a National Security Operations Centre (NSOC), a National Computer Emergency Response Team (NCERT), and Network Operations Centres (NOCs), across 35 Critical Information Infrastructure (CII) institutions. But the agency remains understaffed, underfunded, and lacks expertise in cybersecurity.
+
+Bangladesh should adopt a pragmatic cyber doctrine centred on resilience rather than retaliation. For a smaller state, credibility lies in the ability to withstand disruption, recover quickly, and maintain essential services during crises, not in retaliation.
+
+Bangladesh should adopt a pragmatic cyber doctrine centred on resilience rather than retaliation. For a smaller state, credibility lies in the ability to withstand disruption, recover quickly, and maintain essential services during crises, not in retaliation.
+
+However, the financial sector is at least making progress. The 2016 Bangladesh Bank heist exposed the country's cyber vulnerabilities in dramatic fashion. In response to growing digital threats, the Bangladesh Bank issued its Cyber Security Framework 2026 on 29 March 2026. All banks, finance companies, and payment operators must comply with the framework by 31 December 2026. It mandates the appointment of a Chief Information Security Officer at every institution and requires incidents to be reported to both Bangladesh Bank and the BGD e-GOV CIRT within 72 hours. However, the framework primarily covers the banking sector. Power grids, telecom networks, ports, hospitals, the election database, and submarine cables still operate under a patchwork of outdated regulations.
+
+Now, what should Bangladesh do? I recommend five things, in order of urgency.
+
+First, Bangladesh should adopt a pragmatic cyber doctrine centred on resilience rather than retaliation. For a smaller state, credibility lies in the ability to withstand disruption, recover quickly, and maintain essential services during crises, not in retaliation.
+
+Second, the government should build working relations with the private tech companies and international partners. Recent experiences in Ukraine, in particular, have shown the importance of coordinated support from technology firms and allied governments.
+
+Third, Bangladesh must regulate critical infrastructure as a whole, not in fragments. Banking is important, but it is only one part of the national cyber picture. Power grids, submarine cables, mobile financial service switches, voter databases, ports, hospitals, and telecom networks should all fall under a single mandatory framework. That framework should include regular audits and real enforcement powers. Often, a partial regime leaves dangerous gaps.
+
+Fourth, just as we balance our diplomacy, we should also balance our cyber partnerships. We should work with American, European, Chinese, Indian and other partners on defensive matters such as threat intelligence, incident response, training, and joint exercises. But it should negotiate from a position of caution. The country should seek help in securing systems, not dependence on foreign surveillance platforms or offensive tools.
+
+Fifth, Bangladesh must invest in people. Cyber resilience will depend on the recruitment and retention of talent. That means creating university programmes in cybersecurity and digital forensics, offering scholarships, improving salaries in government cyber units, and building clear public-sector career paths for skilled professionals. Bangladesh should also create a national cyber reserve of trained experts who can be mobilised during emergencies.
+
+In conclusion, Bangladesh does not need to hack back. It needs a strategic cybersecurity policy and the honesty to acknowledge that Bangladesh is a small state in a contest among giants. But that does not mean we are helpless; it means we must be realistic. The question is no longer whether Bangladesh will face cyber warfare; we are already in it. The real question is whether our next national cyber strategy will prepare us for the war we like to imagine or for the one we are already fighting.
+
+Md Mazhar Uddin Bhuiyan is an Oxford-Felix scholar and Master of Public Policy candidate at the University of Oxford. He can be reached at [email protected]

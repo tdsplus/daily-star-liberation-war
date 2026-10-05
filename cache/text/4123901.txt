@@ -1,0 +1,39 @@
+High-Tech US-Israel-Iran War with the homecoming of AI
+2026-03-09T10:00:01+06:00 | Asheer Shah
+https://www.thedailystar.net/slow-reads/geopolitical-insights/news/high-tech-us-israel-iran-war-the-homecoming-ai-4123901
+
+The infamous Stuxnet, claimed to be developed by the US and Israel, was a computer virus that sat inside the Iranian nuclear facility Natanz for at least two years. It was discovered in June 2010. An MQ-9 Reaper drone, remotely operated from Creech Air Force Base in Nevada, US, and launched from Al Udeid Air Base in Qatar, fired AGM-114 Hellfire missiles that killed Qasem Soleimani near Baghdad International Airport. Precision air strikes from the US and Israel, following decades of surveillance and hacking of traffic cameras in Tehran, killed Ali Khamenei on February 28, 2026, according to Iranian state media reports. In all three events, technology has played the greatest role in ensuring the success of the missions. Drones, precision attacks, spyware, cyberattacks, and AI are the tools and instruments of the US-Israel-Iran war. The coming days of the war, and future conflicts, will feature physical war AI. The robotic war games of our childhood are now coming to life.
+
+Khamenei: Big Brother NSO Was Watching You
+
+Spyware is one of the most critical tools used in modern high-tech warfare. Ali Khamenei was under Israeli intelligence surveillance for years. Israeli cyber-unit Unit 8200 and the foreign intelligence agency Mossad hacked into traffic cameras in Tehran and the mobiles of Khamenei’s security team (Atalayar, 2026). Software like Pegasus Spyware, developed by the Israeli company NSO Group, can almost instantly hack into an individual’s mobile phone without alerting them. Jamal Khashoggi, a journalist killed at the Saudi consulate in Istanbul in 2018, is among the many victims of Pegasus. His location was compromised to his attackers after they infected his wife’s phone with Pegasus.
+
+Similarly, Mossad and Unit 8200 collected massive amounts of data daily, tracking every movement of Khamenei and his important associates in Tehran. These massive datasets were processed and analysed using algorithms, large language models, and generative AI in supercomputers. The supercomputers ultimately generated patterns and routines for Israeli forces, suggesting the best time and place to launch a successful attack.
+
+In a full-fledged war, Israeli forces will not simply hack into cameras and mobiles. They will hack into Iranian oil infrastructure, which is heavily dependent on operational technology and industrial control systems.
+
+Red Alert: Iran's Oil Operational Technology
+
+In 2010, Stuxnet, a complex malware, attacked Iran’s Natanz Nuclear Facility. The attack damaged 1,000 IR-1 centrifuges in the fuel enrichment plant. A computer virus resulted in the destruction of physical elements of a nuclear facility. Israeli forces may have similar ambitions to destabilise Iran, especially its oil facilities. Kharg Island Oil Terminal, South Pars Gas Field, Abadan Refinery, and every other major oil facility in Iran are heavily dependent on operational technology. Operational technology refers to electronic devices and programmes that operate physical machinery in refineries, terminals, and oil fields. Launching cyber-attacks on such major facilities in Iran would give Israel a significant competitive advantage by choking the economic backbone of Iran.
+
+In 2012, a virus called “Wiper” attacked the Iranian oil ministry’s computer network and erased all data from the ministry’s hard disks. At that time, the Kharg Island Oil Terminal was disconnected from the internet for damage control. Ukraine faced a similar attack to Stuxnet in 2016, when the malware Crash Override attacked Ukraine’s electricity grid. The attack resulted in a blackout in parts of Kyiv, as the malware could automatically communicate with power-grid control systems and switch electricity on or off using industrial protocols.
+
+These incidents illustrate how cyber-attacks are transforming into automated systems and gaining their own independent damaging capabilities. Malware and viruses are becoming more intelligent. So are military weapon systems, drones, and artillery.
+
+Is Iran the New Testing Ground for US-Israel AI Artillery?
+
+Jensen Huang, CEO of NVIDIA, said that the next wave of AI is physical. Physical AI is entering the scene through the warzones in Iran.
+
+Dwight D. Eisenhower, in 1961, coined the term “military-industrial complex.” In a military-industrial complex, the military and weapons manufacturers form an alliance to push forward war ideas and stock out old weaponry so that they can be replaced by new inventions. Lockheed Martin, Boeing, and Raytheon Technologies are among the veteran defense manufacturers.
+
+In recent times, with accelerating advancements in AI and automated decision-making, tech giants and startups have entered the game. This forms a new triangle between the military, the defense industry, and the technology industry.
+
+Actors like Palantir Technologies, Anduril Industries, Microsoft, NVIDIA, and OpenAI are among the core structures of this mili-tech industrial complex. These companies are producing AI systems for almost every action on the battlefield that was previously performed by a soldier. Palantir Technologies provides battlefield intelligence platforms, targeting analytics in Ukraine and other conflicts. Anduril Industries provides autonomous drones, border surveillance, and AI defense systems. Microsoft  provides military cloud infrastructure (Azure), AI systems, defense data platforms, and NVIDIA does GPUs and chips that power AI models, autonomous systems, and defense simulations.
+
+The US pulled out of Afghanistan, and Israel is running out of justifications for committing genocide in Palestine. These new ranges of weapons, such as swarm drones using Anduril Lattice technology, require a new testing ground. Iran is set to become a testing ground for advanced technological weapons.
+
+Research accelerates when there are no moral and ethical constraints attached. AI development itself, let alone merging it with weapons, faces serious ethical questions in the European Union through the General Data Protection Regulation and the European Union Artificial Intelligence Act.
+
+The current US-Israel-Iran war creates a sense of emergency and justification for advancing AI-powered weapons. This creates a bypass for AI developers around AI regulators. AI systems leading war decisions and taking direct actions appear legally, ethically, and morally cloudy. When was war ever legal, ethical, or moral anyway?
+
+Asheer Shah is director of the Governance and Security Initiative, and a researcher specialising in the geopolitics and governance of emerging technologies.

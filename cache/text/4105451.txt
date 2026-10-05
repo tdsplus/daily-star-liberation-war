@@ -1,0 +1,53 @@
+The hidden cost of battery-run rides
+2026-02-14T00:37:53+06:00 | Miftahul Jannat
+https://www.thedailystar.net/slow-reads/unheard-voices/news/the-hidden-cost-battery-run-rides-4105451
+
+The rise of battery-run auto rickshaws has changed the rhythm of Bangladesh’s streets. They are fast, affordable, and everywhere. But for those behind the handlebars, the rides come with a cost. “I’ve been driving a battery-run auto rickshaw for the last two years. I often have joint pain after driving all day long,” said 26-year-old Zakir Hossain.
+
+The Rickshaw, Van, Easy Bike Labourer Union estimates nearly 7 million such vehicles nationwide, about 1 million in Dhaka alone. Many can reach speeds of 40 km/h, far beyond what their light frames and basic brakes were built for. While much of public debate around them often centres on traffic, safety, or environmental concerns, far less attention is paid to the drivers who spend long hours on rough roads in these vehicles rarely designed for comfort or safety.
+
+“The vehicles are not really designed with drivers’ physical wellbeing in mind. Many drivers come into this work after years of poverty, malnutrition, and heavy manual labour, which already take a toll on their bodies,” mentioned Ariful Islam Nadim, General Secretary of the Rickshaw, Van, Easy Bike Labourer Union. “So, when they begin driving, those vulnerabilities become more visible, as they spend long hours in vehicles that are not built for comfort or ergonomic support.”
+
+Medical research shows that prolonged sitting, constant vibration of the vehicle — especially when speeding over uneven roads, and poorly designed seating significantly increase the risk of musculoskeletal disorders (MSDs) among drivers. Neck pain and low back pain are also widely reported among drivers who work extended hours. For many, the pain is not minor, it interferes with their daily activities. Drivers report difficulty lifting heavy loads or even walking long distances without discomfort. In some cases, long-term strain contributes to spinal problems or postural deformities, particularly among older drivers or those with years in the profession.
+
+Dhaka consistently ranks among the world’s most polluted cities, and auto rickshaw pullers spending 10–12 hours daily on the roads exposed to traffic fumes, face further health risks due to that. Prolonged exposure to air and noise pollution contribute to high blood pressure, respiratory problems, asthma, skin ailments, and digestive issues. Additionally, working long hours under extreme heat further increases the risk of dehydration and heatstroke, a situation worsened by limited access to WASH facilities, which can lead to longer-term health problems such as urinary tract infections (UTIs), kidney stones, and bladder complications.
+
+Beyond physical strain, drivers also face psychosocial stress. Long hours in traffic, passenger disputes, short breaks, and restricted access to restrooms contribute to chronic stress and fatigue, which can intensify muscle tension and worsen existing pain according to research.
+
+These risks are compounded by a lack of formal training. Many drivers enter the profession without a clear understanding of traffic rules or the technical aspects of operating a motorised vehicle, leaving them highly vulnerable to road accidents. The wide variety of unsafe models on the streets—vehicles with thin tyres, unstable frames, or inadequate braking systems—makes collisions and tipping over a frequent hazard, putting drivers’ lives at serious risk.
+
+“There are at least 16 different models on the road, with varying type of tyres, foot brakes, hand brakes, even hydraulic brakes,” said Nadim. “Among these, models with thicker tyres, lower height, smaller size but heavier weight tend to be safer. With the right setup, they could operate safely and stay stable even at higher speeds without tipping over.”
+
+However, shifting to safer models requires investment — and investment, he stressed, depends on legal recognition. Despite their vast numbers, drivers do not fall neatly under existing labour law frameworks, and there is no standardised licensing system for them.
+
+AKM Nasim, Country Program Director of Solidarity Center Bangladesh and former member of the Labour Reform Commission, said that a dedicated labour framework is needed to bring battery-run auto rickshaw drivers under labour protections. “They are not like factory or shop workers, so there is no simple solution—working hours, wages, and overtime are complex to monitor in this sector and not easily covered by existing labour laws,” he explained.
+
+Another serious risk to drivers comes from the very power source that keeps these vehicles running. Each auto rickshaw typically relies on four lead-acid batteries, which last only six to twelve months. Their frequent replacement keeps drivers in regular contact with a supply chain that is largely informal and weakly regulated. Many are produced, repaired, and recycled by informal operators who may not fully understand the toxic dangers of lead and acid exposure. For drivers, this often means handling components that can release harmful substances into their immediate surroundings.
+
+Drawing attention to the rapid surge in battery-run autorickshaws, Nadim warned, “This issue is already at a critical stage. If regulation is delayed, it will only worsen. It may not take long for the number to reach one crore, and then control will be extremely difficult.”
+
+Experts point to the need for immediate and credible government action, and suggest several recommendations:
+
+Standard design principles
+
+Vehicles should meet baseline design requirements, including at least two hydraulic rear brakes, a functional front brake, defined length and weight limits, and components sourced from BSTI-certified manufacturers.
+
+Speed regulation
+
+Mandatory speed governors should cap maximum speeds — around 30 km/h in Dhaka and up to 50 km/h in rural areas for larger models like easy bikes.
+
+Phased compliance
+
+All existing vehicles should be licensed, and those failing to meet safety and design standards should be given a clear compliance deadline (e.g., three years) or be phased out.
+
+Battery handling oversight
+
+While old batteries are typically resold and recycled, the intermediate handling stages remain poorly regulated. Stricter monitoring is needed to prevent unsafe chemical exposure and environmental contamination.
+
+Switching to lithium-ion batteries
+
+Lithium-ion batteries offer longer lifespans, faster charging, lighter weight, and eliminate the risk of lead contamination. However, their higher cost and lack of proper recycling infrastructure pose challenges. A gradual transition with financial support and recycling oversight is needed to ensure safety and feasibility.
+
+While safety concerns often prompt calls for bans, experts say eliminating the battery-run auto rickshaws altogether is unrealistic in Bangladesh’s socio-economic context. The sector provides livelihoods for thousands, but long hours, unsafe vehicles, and exposure to pollution and heat take a serious toll on drivers’ health. The challenge lies in regulating the sector, improving vehicle safety, and providing occupational health protections so that reforms safeguard both drivers’ wellbeing and their livelihoods.
+
+Miftahul Jannat is a journalist at The Daily Star. She can be reached at [email protected]
