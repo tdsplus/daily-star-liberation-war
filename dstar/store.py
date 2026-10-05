@@ -58,9 +58,10 @@ def node_id(url):
 
 
 def is_priority_section(url):
-    """Slow Reads (incl. In Focus) or In Focus under its older paths."""
+    """Slow Reads (incl. In Focus and the "Slow Reads Special" packages, which
+    the site files under its Slow Reads category) or In Focus under its older paths."""
     p = urlsplit(url).path.lower()
-    return p.startswith(("/slow-reads/", "/views/in-focus/", "/in-focus/"))
+    return p.startswith(("/slow-reads/", "/ds/slow-reads-special/", "/views/in-focus/", "/in-focus/"))
 
 
 class Candidates:
