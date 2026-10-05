@@ -1320,3 +1320,15 @@ FileNotFoundError: [Errno 2] No such file or directory: '/home/user/daily-star-l
 [947/3966] 2026-08-02 Beyond geopolitics: Rethinking regional cooperation in South Asia
 BLOCKED: network/proxy refused connection to https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-india-and-bangladesh-need-new-approach-transboundary-rivers-4237611: HTTPSConnectionPool(host='www.thedailystar.net', port=443): Max retries exceeded with url: /slow-reads/geopolitical-insights/news/why-india-and-bangladesh-need-new-approach-transboundary-rivers-4237611 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
 Stopping -- not attempting to bypass.
+4074 candidates, 3024 still to extract
+[1/3024] FAILED None https://www.thedailystar.net/slow-reads/slow-reads-special/news/women-and-the-climate-crisis-bangladesh-4284266
+[2/3024]  A life for Bangladesh
+[3/3024] FAILED None https://www.thedailystar.net/slow-reads/slow-reads-special/the-haor-crisis/news/the-haor-crisis-explained-4177301
+[4/3024] FAILED None https://www.thedailystar.net/slow-reads/focus/news/we-wish-inform-you-censorship-bangladesh-1972-2024-4166461
+[5/3024] FAILED None https://www.thedailystar.net/slow-reads/focus/news/fight-justice-4164836
+[6/3024] 2026-08-01 Why India and Bangladesh need a new approach to transboundary rivers
+[7/3024] 2026-07-26 The future of the Bangladesh-China-Myanmar Economic Corridor
+[8/3024] 2026-07-26 Superpower rivalry in space: The invisible battlefield of the Iran war
+[9/3024] 2026-07-21 The new world of geoeconomics: From comparative advantage to coercive 
+[10/3024] 2026-07-20 BIG-B and Bangladesh's road to Southeast Asia
+[11/3024] 2026-07-19 China–Bangladesh Community: Bandwagoning, soft alignment, or rhetoric?

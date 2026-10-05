@@ -1,0 +1,79 @@
+The new world of geoeconomics: From comparative advantage to coercive advantage
+2026-07-21T00:10:00+06:00 | M.G. Quibria
+https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-new-world-geoeconomics-comparative-advantage-coercive-advantage-4228446
+
+Until recently, international economics was taught mainly as a story of efficiency. Countries traded because they differed in factor endowments. Labour-abundant economies exported labour-intensive goods; capital-abundant ones exported capital-intensive products. Trade encouraged specialization according to comparative advantage, capital flowed towards higher returns, and consumers benefited from lower prices. In the most stylized versions of the theory, integration even promised a quiet convergence: factor prices would gradually equalize, and global economic differences would narrow.
+
+That world has not disappeared. Comparative advantage still matters. Factor endowments still shape production, and trade still generates substantial welfare gains. But the intellectual climate has changed dramatically. Over the past few years, the language of international economics has shifted from specialization, efficiency, and gains from trade to security, resilience, sanctions, dependence, export controls, choke points, and strategic rivalry.
+
+The central question is no longer simply: What should a country produce most efficiently? Increasingly, it is: What must a country control, protect, or diversify so that it cannot be coerced?
+
+This is the world of geoeconomics: the use of economic relationships and instruments to advance geopolitical objectives. Tariffs, sanctions, technology bans, investment restrictions, financial exclusion, export controls, and supply-chain manipulation are no longer peripheral disturbances to the global economic order. They are becoming defining features of it.
+
+A recent essay in the IMF's Finance & Development by Christopher Clayton, Matteo Maggiori, and Jesse Schreger, "Understanding Geoeconomics in a Volatile World," captures this transformation well . Powerful states, they observe, have long used economic leverage, from the Medici banking dynasty in Renaissance Florence to imperial Britain's trade networks. What distinguishes the present era is its scale. The very forces that made the global economy efficient, namely specialization, integrated supply chains, and shared financial infrastructure, have also made it newly exploitable.
+
+For several decades after the Second World War, economists tended to regard international exchange as largely benign. Trade was voluntary; if two countries traded, both presumably gained. The benefits might be unevenly distributed, but the basic logic was positive-sum. Political scientists and historians, more than economists, worried about how asymmetrical dependence could become a source of power.
+
+The new economics of power therefore turns on a concept once more familiar to security studies than to trade theory:the choke point. A choke point exists when a country or coalition controls a critical input or network for which substitutes are scarce. The asset may be oil, semiconductors, rare earths, payment systems, cloud infrastructure, shipping insurance, advanced machinery, or reserve-currency finance. What matters is not the product alone but the architecture of dependence surrounding it.
+
+The new economics of power therefore turns on a concept once more familiar to security studies than to trade theory:the choke point. A choke point exists when a country or coalition controls a critical input or network for which substitutes are scarce. The asset may be oil, semiconductors, rare earths, payment systems, cloud infrastructure, shipping insurance, advanced machinery, or reserve-currency finance. What matters is not the product alone but the architecture of dependence surrounding it.
+
+Yet that benign interpretation always rested on an incomplete reading of trade. Albert Hirschman identified the problem as early as 1945 in National Power and the Structure of Foreign Trade . Trade may benefit both sides, he argued, but the benefits need not be symmetrical. If one country depends much more heavily on another, exchange can generate political influence. Dependence creates vulnerability; vulnerability creates leverage.
+
+That insight has returned with force. The United States has repeatedly used its dominance of the dollar-based financial system to impose sanctions, restrict market access, and pressure firms and governments. Its power lies not only in the size of its economy but also in its command of the plumbing of global finance: payment systems, correspondent banking, dollar lending, settlement infrastructure, and access to Western capital markets.
+
+China has developed leverage through different channels: manufacturing depth, infrastructure finance, control over key industrial inputs, and dominance in parts of the rare-earth supply chain. Through initiatives such as the Belt and Road, these economic relationships can also acquire political weight.
+
+The new economics of power therefore turns on a concept once more familiar to security studies than to trade theory: the choke point . A choke point exists when a country or coalition controls a critical input or network for which substitutes are scarce. The asset may be oil, semiconductors, rare earths, payment systems, cloud infrastructure, shipping insurance, advanced machinery, or reserve-currency finance. What matters is not the product alone but the architecture of dependence surrounding it.
+
+A country controlling a genuinely critical input need not deploy military force. It can threaten exclusion. If the target has no viable alternative, it may be compelled to comply. This is the logic behind sanctions, export controls, financial restrictions, and technology bans.
+
+The idea is not new. Long before chips, payment systems, and critical minerals became strategic weapons, the Strait of Hormuz was the textbook choke point of the oil economy. Recent conflict reminded the world that a choke point is not merely a mapmaker's phrase. When a narrow waterway carrying a large share of internationally traded oil is threatened, energy prices, inflation expectations, shipping costs, and foreign-policy calculations begin to move together.
+
+Hormuz was the classic physical choke point of the oil age. Today's choke points are often less visible but no less consequential: dollar-clearing systems, semiconductor equipment, cloud infrastructure, shipping insurance, advanced machinery, critical minerals, and data networks.
+
+Geoeconomic power, however, is non-linear. The difference between controlling 95 percent and 85 percent of a critical input is not simply ten percentage points. At 95 percent, the target may have almost no alternative. At 85 percent, even a limited outside option can sharply reduce the dominant power's leverage. A rival system need not replace the hegemonic one completely. It needs only to become credible enough to provide an escape route.
+
+This helps explain the growing interest in alternative payment systems, domestic production capabilities, digital currencies, regional settlement arrangements, and diversified supply chains. Countries may not be able to displace the dollar-centred order. Even partial alternatives can reduce vulnerability.
+
+Russia's experience is instructive. After the annexation of Crimea in 2014, Moscow began reducing its exposure to Western financial infrastructure . By the time sweeping sanctions followed the 2022 invasion of Ukraine, Russia had already developed domestic payment arrangements and stronger links with China-based systems. These measures did not eliminate the costs of sanctions, but they blunted their effect.
+
+Here lies the paradox of weaponized interdependence . The more frequently a hegemon uses its privileged position to coerce others, the stronger the incentive for others to build substitutes. The exercise of power can gradually erode the network on which that power rests.
+
+At this point, the old and new economics collide. Traditional trade theory emphasized the gains from specialization. But specialization also means abandoning domestic capacity in many areas. That may be efficient in normal times, yet dangerous during conflict or disruption. Capabilities that once appeared redundant can suddenly become strategically indispensable.
+
+The result is a new trade-off between efficiency and security. Efficiency favors scale, specialization, and global sourcing. Security favors diversification and domestic or friendly-country capacity. Neither principle can be ignored. A world organized solely around efficiency becomes vulnerable to coercion and disruption. A world organized solely around security becomes fragmented, expensive, and poorer.
+
+The result is a new trade-off between efficiency and security. Efficiency favors scale, specialization, and global sourcing. Security favors diversification and domestic or friendly-country capacity. Neither principle can be ignored. A world organized solely around efficiency becomes vulnerable to coercion and disruption. A world organized solely around security becomes fragmented, expensive, and poorer.
+
+The pandemic made this visible. Shortages of masks, medical equipment, pharmaceuticals, and basic inputs exposed the fragility of highly concentrated supply chains. The semiconductor struggle reinforced the lesson. Advanced chips and chip-making equipment now occupy a central place in the strategic competition between the United States and China. Artificial intelligence, cloud computing, batteries, rare earths, and green technologies are likely to generate similar tensions.
+
+The result is a new trade-off between efficiency and security. Efficiency favors scale, specialization, and global sourcing. Security favors diversification and domestic or friendly-country capacity. Neither principle can be ignored. A world organized solely around efficiency becomes vulnerable to coercion and disruption. A world organized solely around security becomes fragmented, expensive, and poorer.
+
+This is why the current enthusiasm for "decoupling" is both understandable and dangerous. Governments have legitimate reasons to reduce dependence in genuinely strategic sectors. But if every country pursues broad economic self-sufficiency, the global economy will fragment, networks will lose value, and costs will rise. The likely result would be a poorer world, though not necessarily a safer one.
+
+The better approach is selective and strategic diversification: identify genuine choke points, where dependence is high, substitutes are scarce, and the costs of coercion would be severe, and build resilience there, while preserving the benefits of open trade elsewhere.
+
+For developing countries, such discipline is especially important. Most poorer economies cannot afford broad self-sufficiency. Indiscriminate protectionism, repackaged as national security policy, mainly raises costs and shelters inefficient firms. Yet naïveté is equally costly. Heavy dependence on a single market, lender, supplier, technology provider, or source of finance can become a strategic liability.
+
+The challenge is to distinguish ordinary commercial dependence from dangerous strategic dependence. Not every import is a vulnerability. Not every foreign investor is a threat. Not every industrial policy is wise. But neither is every form of dependence harmless.
+
+For hegemons, the lesson runs in the opposite direction. Dominant powers often treat coercive capacity as an asset waiting to be used. Yet overuse can be self-defeating. Coercion may secure today's concession while weakening tomorrow's network.
+
+This is the reason why rules-based institutions matter. The postwar order built around the IMF, the World Bank, and the GATT-to-WTO system was never simply an act of generosity. It was also a mechanism through which powerful states reassured weaker ones that dominance would not be exercised entirely at whim. When those assurances weaken, smaller states hedge. They seek alternative lenders, payment systems, suppliers, and alliances. The more unpredictable the hegemon becomes, the more rational it is for others to reduce their dependence on it.
+
+Restraint, in this sense, is not weakness. For a hegemonic power, it is a form of strategic intelligence. A country that wants others to remain inside its network must keep that network valuable and reasonably safe. Once participation begins to feel like submission, the option to exit becomes more attractive.
+
+The emerging world economy is therefore neither a simple return to protectionism nor a continuation of late twentieth-century globalization. It is something more complicated: a system in which trade and finance remain indispensable but are increasingly filtered through the logic of power.
+
+Markets still matter, but they operate within political structures. Prices still matter, but so do sanctions. Comparative advantage still matters, but so now does coercive advantage.
+
+For economists, this requires genuine intellectual adjustment. The discipline need not discard the insights of trade theory, which are no longer sufficient on their own. The once convenient separation between economics and geopolitics has become untenable.
+
+For policymakers, the challenge is to avoid two opposite errors.
+
+Sound policy lies between the two: openness with insurance, integration with safeguards, and efficiency tempered by resilience. Hegemons, for their part, should preserve rules-based cooperation, not because they have ceased to be powerful, but because credible restraint is often the surest way to remain so.
+
+The age of innocent globalization is over. International economics has not ceased to be economics, but it can no longer pretend to stand apart from politics. The uncomfortable lesson is unavoidable: the same interdependence that enriches nations can also be used to discipline them.
+
+Dr. M.G. Quibria is an economist and public policy commentator whose work explores trade, development, governance, and democratic change in Bangladesh and beyond. He can be reached at [email protected] .
