@@ -54,22 +54,37 @@ def pub_date(raw):
     return None
 
 
+_WORDS = {}
+
+
 def _words(it):
+    if it["nid"] in _WORDS:
+        return _WORDS[it["nid"]]
     try:
         with open(text_path(it["nid"]), encoding="utf-8") as fh:
             body = fh.read().split("\n\n", 1)[-1]
     except OSError:
-        return set()
+        body = ""
     w = re.findall(r"[a-z]+", body.lower()[:4000])
-    return {" ".join(w[i:i + 5]) for i in range(len(w) - 4)}
+    _WORDS[it["nid"]] = {" ".join(w[i:i + 5]) for i in range(len(w) - 4)}
+    return _WORDS[it["nid"]]
 
 
-def same_text(a, b, threshold=0.5):
+def same_text(a, b, threshold=0.5, need_text=False):
     """Do two items share most of their opening text (5-word shingles)?"""
     wa, wb = _words(a), _words(b)
     if not wa or not wb:
-        return True   # no text to compare: fall back to title + author
+        return not need_text   # no text: fall back to title + author (unless text is required)
+    if min(len(wa), len(wb)) < 20:
+        return not need_text   # too short to judge on text alone
     return len(wa & wb) / min(len(wa), len(wb)) >= threshold
+
+
+def mostly_repeats(later, earlier, share=0.55):
+    """Is most of the later item's text already in the earlier one? A longer
+    piece that merely quotes an earlier short one is not a republication."""
+    wl, we = _words(later), _words(earlier)
+    return bool(wl) and len(wl & we) / len(wl) >= share
 
 
 def rows():
@@ -119,6 +134,29 @@ def rows():
         else:
             seen.setdefault(k, []).append(it)
             kept.append(it)
+    # Republications under a new title (e.g. the 2024 'Indomitable March'
+    # entries that reprint 2021 'Road to Freedom' entries): same byline and
+    # most of the text in common => keep the original (or the Slow Reads copy).
+    by_author = {}
+    for it in kept:
+        by_author.setdefault(it["author"].lower(), []).append(it)
+    gone = set()
+    for group in by_author.values():
+        for i, a in enumerate(group):
+            if id(a) in gone:
+                continue
+            for b in group[i + 1:]:
+                if id(b) in gone or not same_text(a, b, threshold=0.6, need_text=True) \
+                        or not mostly_repeats(b, a):   # groups are in date order: b is the later copy
+                    continue
+                keep, drop = (b, a) if (b["priority"] and not a["priority"]) else (a, b)
+                drop["problems"] = [f"likely republication of {keep['url']} "
+                                    "(same author, most of the text the same, different title)"]
+                dupes.append(drop)
+                gone.add(id(drop))
+                if drop is a:
+                    break
+    kept = [it for it in kept if id(it) not in gone]
     # A swapped-in priority copy may have a later date than the one it replaced.
     return sorted(kept, key=key), dupes
 
@@ -222,6 +260,19 @@ def main():
     cands = Candidates()
     recs = load_records()
     done = {r["node_id"] for r in recs.values()} | {node_id(r["fetched_url"]) for r in recs.values()}
+    # A few candidates redirect on the site itself (e.g. to a package landing
+    # page); the fetch log maps each requested URL to where it ended up.
+    final = {}
+    fetch_log = os.path.join(ROOT, "cache", "fetch_log.jsonl")
+    if os.path.exists(fetch_log):
+        import json
+        with open(fetch_log, encoding="utf-8") as fh:
+            for line in fh:
+                if line.strip():
+                    e = json.loads(line)
+                    if e.get("status") == 200 and e.get("final_url"):
+                        final[e["url"]] = e["final_url"]
+    done |= {k for k, r in cands.rows.items() if node_id(final.get(r["url"], r["url"])) in done}
     pri = [k for k, r in cands.rows.items() if is_priority_section(r["url"])]
     oth = [k for k, r in cands.rows.items() if not is_priority_section(r["url"])]
     ws.append([])
@@ -230,8 +281,8 @@ def main():
     ws.append(["Other sections", sum(k in done for k in oth), len(oth)])
     unread = len(pri) + len(oth) - sum(k in done for k in pri) - sum(k in done for k in oth)
     if unread:
-        ws.append(["Note", f"{unread} candidate pages could not be fetched (HTTP 403/404 or redirects "
-                           "to other sites); they are listed in REPORT.md."])
+        ws.append(["Note", f"{unread} candidate pages could not be read (HTTP 403/404, or redirects "
+                           "to sites outside thedailystar.net); they are listed in REPORT.md."])
     for row in ws.iter_rows():
         if row[0].value in ("Metric", "By year", "Coverage"):
             for c in row:
