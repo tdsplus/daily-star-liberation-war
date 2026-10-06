@@ -20,8 +20,8 @@ DATE_FMT = "DD-MMM-YYYY"
 KEEP = ("Core", "Daily report", "Pre-1971", "Present Day", "Language Movement")   # Borderline is logged but not listed
 LW, LM, PRE, PD, DAILY = "Core", "Language Movement", "Pre-1971", "Present Day", "Daily report"
 # Excel sheet names: max 31 characters, no "/" allowed.
-TABS = {(LW, True): "Slow Reads - Liberation War", (LW, False): "Other - Liberation War",
-        (DAILY, None): "Daily reports",
+TABS = {(LW, None): "Liberation War Articles",
+        (DAILY, None): "Daily Reports",
         (LM, True): "Slow Reads - Language Movement", (LM, False): "Other - Language Movement",
         (PRE, None): "Pre-1971", (PD, None): "Present Day Discussions"}   # None: both sections on one tab
 
