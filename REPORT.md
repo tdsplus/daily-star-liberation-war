@@ -13,7 +13,8 @@ announcements) are never listed, whatever the topic.
 | Tab | Rows | What it holds |
 |---|---|---|
 | Slow Reads - Liberation War | 112 | Slow Reads / In Focus pieces about 1971 itself |
-| Other - Liberation War | 769 | The same, from every other section |
+| Other - Liberation War | 351 | The same, from every other section |
+| Daily reports | 418 | Day-by-day 1971 chronicle entries (see below) |
 | Slow Reads - Language Movement | 15 | Slow Reads pieces about the 1948-52 Language Movement |
 | Other - Language Movement | 61 | The same, from every other section |
 | Pre-1971 | 11 | The run-up before 1971: Six Points, 1969, 1970 election, Bhola cyclone |
@@ -44,11 +45,22 @@ announcements) are never listed, whatever the topic.
 - "Slow Reads" includes In Focus, the older `/in-focus/` and `/views/in-focus/` paths,
   and `/ds/slow-reads-special/` (the site files these under its Slow Reads category).
 
-### The 1971 day-by-day chronicle
-About 420 rows on the Liberation War tabs are short dated chronicle entries: the
-2014 archive ("May 12, 1971"), "On this day in 1971" (2019), the March 1971 series
-(2018/2019) and "Road to Freedom" (2021). Entries under 50 words were left out as
-stubs. They can be moved to their own tab or dropped if preferred.
+### Daily reports
+These 418 rows read like dispatches but are **not** real-time reports. They were
+written decades later, as dated summaries of what happened on each day of 1971,
+compiled from the period's newspapers and records:
+
+- the 2014 online archive ("War Calendar: chronology of events taking place during
+  1971"), one entry per date, posted in bulk in November-December 2014 (346 rows);
+- "On this day in 1971", the front-page box of December 2019 (29);
+- the "MARCH 6, 1971: ..." series of March 2018 and 2019 (34);
+- Shamsuddoza Sajen's "Road to Freedom: This Day in Bangladesh Liberation War
+  History" (2021) (9).
+
+The date column shows when The Daily Star published each entry, not the 1971 date it
+describes (that is in the title). Entries under 50 words were left out as stubs.
+Longer single articles that happen to cover March 1971 day by day (e.g. "Counting the
+days to independence") stay on the Liberation War tabs.
 
 ## Coverage
 

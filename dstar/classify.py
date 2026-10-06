@@ -28,7 +28,7 @@ from .store import ROOT
 
 LOG = os.path.join(ROOT, "classification_log.csv")
 FIELDS = ["url", "node_id", "label", "content_type", "reason", "unsure_note"]
-LABELS = ("Core", "Pre-1971", "Present Day", "Language Movement", "Borderline", "Irrelevant")
+LABELS = ("Core", "Daily report", "Pre-1971", "Present Day", "Language Movement", "Borderline", "Irrelevant")
 NEWS = "news report"
 CONTENT_TYPES = ("feature", "analysis", "opinion", "essay", "memoir", "interview",
                  "review", "photo essay", "editorial", NEWS, "not an article", "other")
