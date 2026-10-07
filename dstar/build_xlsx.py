@@ -11,6 +11,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
+from .bylines import NAMED, is_generic, load_fixes, note
 from .classify import NEWS, load_labels
 from .extract import load_records, text_path
 from .store import ROOT, is_priority_section
@@ -87,8 +88,11 @@ def mostly_repeats(later, earlier, share=0.55):
     return bool(wl) and len(wl & we) / len(wl) >= share
 
 
-def rows():
+def rows(apply_fixes=True):
     recs, labels = load_records(), load_labels()
+    # Writers named on the page for pieces the site bylines "The Daily Star"
+    # (reviewed by hand, see dstar/bylines.py).
+    fixes = load_fixes() if apply_fixes else {}
     out = []
     for nid, lab in labels.items():
         # News reports are out of scope even if mislabelled (defence in depth).
@@ -106,8 +110,14 @@ def rows():
             problems.append("author not found in JSON-LD, meta tags or byline")
         if lab.get("unsure_note"):
             problems.append("relevance uncertain: " + lab["unsure_note"])
+        author, author_note, author_status = r["author"], "", ""
+        if is_generic(author) and nid in fixes:
+            fix = fixes[nid]
+            author = fix["author"] if fix["status"] == NAMED else "The Daily Star"
+            author_note, author_status = note(fix), fix["status"]
         out.append({
-            "nid": nid, "date": d, "author": r["author"], "title": r["title"],
+            "nid": nid, "date": d, "author": author, "author_note": author_note,
+            "author_status": author_status, "title": r["title"],
             "url": r["canonical_url"], "label": lab["label"], "reason": lab["reason"],
             "section": r["section"] or "/".join(r["canonical_url"].split("/")[3:5]),
             "priority": is_priority_section(r["canonical_url"]),
@@ -175,10 +185,12 @@ def style(ws, widths, wrap_cols):
 
 
 def write_article_sheet(ws, items, with_section=False):
-    ws.append(["Serial Number", "Date", "Author", "Title", "Link"] + (["Section"] if with_section else []))
+    ws.append(["Serial Number", "Date", "Author", "Title", "Link"] + (["Section"] if with_section else [])
+              + ["Author note"])
     for n, it in enumerate(items, 1):
         ws.append([n, it["date"], it["author"] or None, it["title"], it["url"]]
-                  + (["Slow Reads" if it["priority"] else "Other"] if with_section else []))
+                  + (["Slow Reads" if it["priority"] else "Other"] if with_section else [])
+                  + [it["author_note"] or None])
         r = ws.max_row
         ws.cell(r, 2).number_format = DATE_FMT
         if not it["date"]:
@@ -188,7 +200,8 @@ def write_article_sheet(ws, items, with_section=False):
         link = ws.cell(r, 5)
         link.hyperlink = it["url"]
         link.style = "Hyperlink"
-    style(ws, [9, 14, 26, 60, 70, 12], ["C", "D"])
+    note_col = "G" if with_section else "F"
+    style(ws, [9, 14, 26, 60, 70] + ([12] if with_section else []) + [60], ["C", "D", note_col])
 
 
 def main():
@@ -245,6 +258,11 @@ def main():
                sum(l.get("content_type") == NEWS for l in labels.values())])
     ws.append(["Rows needing a date added (amber Date cell)", sum(i["date"] is None for i in items)])
     ws.append(["Rows needing an author added (yellow Author cell)", sum(not i["author"] for i in items)])
+    st = Counter(i["author_status"] for i in items if i["author_status"])
+    ws.append(["Rows the site bylines only 'The Daily Star'", sum(st.values())])
+    ws.append(["  - writer found (Author filled in; the Author note says where)", st[NAMED]])
+    ws.append(["  - unsigned editorials (left as The Daily Star)", st["editorial"]])
+    ws.append(["  - no writer named on the page (left as The Daily Star)", st["not named"]])
     ws.append([])
     ws.append(["By year"] + list(TABS.values()))
     years = {k: Counter(i["date"].year if i["date"] else "Undated" for i in g) for k, g in groups.items()}

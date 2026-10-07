@@ -13,13 +13,13 @@ announcements) are never listed, whatever the topic.
 
 | Tab | Rows | What it holds |
 |---|---|---|
-| Liberation War Articles | 753 | Articles about 1971 itself: 112 from Slow Reads / In Focus and 641 from every other section (the Section column says which) |
+| Liberation War Articles | 745 | Articles about 1971 itself: 112 from Slow Reads / In Focus and 633 from every other section (the Section column says which) |
 | Daily Reports | 693 | Day-by-day 1971 chronicle entries (see below) |
 | Slow Reads - Language Movement | 15 | Slow Reads pieces about the 1948-52 Language Movement |
 | Other - Language Movement | 110 | The same, from every other section |
 | Pre-1971 | 35 | The run-up before 1971: Six Points, the Agartala case, 1969, the 1970 election, the Bhola cyclone |
-| Present Day Discussions | 196 | Present-day debates where 1971 is the subject |
-| Needs review | 86 | Items flagged for a human look, and the duplicates left off (see below) |
+| Present Day Discussions | 194 | Present-day debates where 1971 is the subject |
+| Needs review | 93 | Items flagged for a human look, and the duplicates left off (see below) |
 | Summary | | Counts, years, date ranges, coverage |
 
 **The two tabs you asked for.** The Liberation War material is now on two tabs, the
@@ -47,6 +47,10 @@ the first two tabs.
   with their label.
 - **Other exclusions.** Reader letters, scanned clippings, photo and video items, and
   stubs are excluded.
+  - Three letters from the site's Letters to the Editor page had slipped onto the
+    list, two of them labelled as editorials. They have been removed.
+  - "Zia's declaration" stays: it is a letter followed by a longer reply from Syed
+    Badrul Ahsan that is itself a piece of 1971 history.
 - **March 1971 counts as 1971.** The 7 March speech and the March 1971
   non-cooperation movement are on the Liberation War tabs, not Pre-1971.
 - **Present Day Discussions** is only for present-day pieces where 1971 is central.
@@ -66,6 +70,44 @@ the first two tabs.
   - In Focus
   - the older `/in-focus/` and `/views/in-focus/` paths
   - `/ds/slow-reads-special/` (the site files these under its Slow Reads category)
+
+### Writers behind "The Daily Star" bylines
+The site gives 504 listed rows only the byline "The Daily Star". The page itself often
+names the writer, so each of these was read:
+
+| Outcome | Rows | Author column |
+|---|---|---|
+| Writer found | 65 | The real name |
+| Unsigned editorial | 34 | Left as "The Daily Star" |
+| No writer named on the page | 405 | Left as "The Daily Star" |
+
+- **Where the names came from.**
+  - the standfirst under the headline ("...argues Kajalie Shehreen Islam")
+  - a byline at the top of the text
+  - a bio line at the end ("Mofidul Hoque is Trustee, Liberation War Museum")
+  - in 6 cases, the writer's e-mail address
+- **The Author note column** says where each name was found, or why there is none.
+  Interviewers, translators and compilers are marked as such, e.g. "Naznin Tithi
+  (interviewer)".
+- **The 405 rows with no writer.** 376 are Daily Reports chronicle entries. The rest
+  are mostly fact-sheet profiles, district reports and desk-written features.
+- **E-mail addresses.**
+  - The site hides addresses with Cloudflare's e-mail obfuscation, which every
+    browser decodes when it shows the page.
+  - They were decoded from the pages already downloaded, with no new requests, only
+    to read the name.
+  - No address is copied into the workbook.
+- **A job title is not a name.** Some footers give only a role ("The writer is
+  Executive Editor, The Daily Star"). The Author cell then stays "The Daily Star",
+  and the note gives the likely writer.
+- **Effect on duplicates.** With the real names, the duplicate check matched 7 more
+  reprints to their originals. Most are 2014 reprints of pieces first published
+  between 2008 and 2013.
+- **Records.** Every decision is in `discovery/author_fixes.csv`, and the method is
+  in `dstar/bylines.py`.
+- **Your own file.** The same decisions were applied to your combined file
+  (`A_Liberation_war_articles_combining_slow_reads_and_other_sections_in_one_tab.xlsx`).
+  Only its Author cells changed, and an Author note column was added.
 
 ### Daily reports
 These rows read like dispatches but are **not** real-time reports. They were written
@@ -200,9 +242,9 @@ Compared with the previous version of the workbook, this added:
 
 ## Things to check (Needs review tab)
 
-1. **71 duplicates left off.** Each is shown with the URL of the copy that was kept.
-   - 12 are exact republications: same title, author and text.
-   - 59 are republications under a new title: same author, and most of the later
+1. **77 duplicates left off.** Each is shown with the URL of the copy that was kept.
+   - 19 are exact republications: same title, author and text.
+   - 58 are republications under a new title: same author, and most of the later
      piece's text repeats the earlier one. Most are the reprinted chronicle entries
      above. The rest are profiles and essays rerun on later anniversaries.
    - The Slow Reads copy is kept where there is one; otherwise the original is
