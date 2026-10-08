@@ -38,4 +38,5 @@ python -m dstar.recall                     # exits non-zero if a known article i
 * `liberation_war_articles.xlsx`: sheets Liberation War Articles, Daily Reports, Slow Reads - Language Movement, Other - Language Movement, Pre-1971, Present Day Discussions, Needs review, Summary (see REPORT.md)
 * `discovery/author_fixes.csv`: the real writer (or why there is none) for every row the site bylines only "The Daily Star"; applied by `build_xlsx` and by `python -m dstar.bylines apply <in.xlsx> <out.xlsx>`
 * `A_Liberation_war_articles_combining_slow_reads_and_other_sections_in_one_tab.xlsx`: your combined file with those writers filled in
+* `daily_reports.xlsx` (`python -m dstar.daily_export`): the Daily Reports on their own, in order of the day each entry describes, 1 January to 16 December 1971
 * `articles_so_far.xlsx`: an interim snapshot from an earlier stage, superseded by `liberation_war_articles.xlsx`
